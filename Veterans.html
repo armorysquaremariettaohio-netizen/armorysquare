@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Marietta Veterans Memorial</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Merriweather', serif;
+      background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/357067869_640757848104397_6938239714411133246_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=pGp2LfTWGRoQ7kNvwEO0Yk4&_nc_oc=Adm9SWInY5mjc7iRLDQdrE37L1mtdxQVVp-mZEb7Scvj2rHwowTuH3AZqQo3xn2pscn_UKTZfwXNyUHlz46L8Ejn&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=RacuxozrGbJBg7x6DJQRzg&oh=00_AfGaT49MhRg64Ruj2hNP5Ur66MPBIzHzP44uRoCVRz2JUg&oe=6804AC81') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+      color: #fff;
+    }
+    header {
+  background-color: rgba(47, 79, 79, 0.95);
+  text-align: center;
+  padding: 20px;
+}
+    header h1 {
+      margin: 0;
+      font-size: 3.125em;
+      color: white;
+      text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    }
+    .hero-text {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 40px 20px;
+      border-radius: 10px;
+      text-align: center;
+      max-width: 700px;
+      margin: 40px auto 0;
+    }
+    .quote-banner {
+      background-color: rgba(26, 35, 30, 0.95);
+      text-align: center;
+      font-style: italic;
+      padding: 30px 20px;
+      font-size: 1.4em;
+    }
+    .container {
+      max-width: 960px;
+      margin: 30px auto;
+      padding: 20px;
+    }
+    .search-box, .veteran-list {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+    }
+    .search-box input {
+      width: 60%;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      margin-right: 10px;
+    }
+    .search-box button {
+      padding: 10px 20px;
+      background-color: #2f4f4f;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .plots {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    .plot-box {
+      width: 100px;
+      height: 100px;
+      background-color: #556b2f;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      font-weight: bold;
+      border: 2px solid #ccc;
+      cursor: pointer;
+    }
+    footer {
+      background-color: #4b5320;
+      text-align: center;
+      padding: 20px;
+      color: #fff;
+      margin-top: 40px;
+    }
+  /* Animation 1: Fade-in */
+    .fade-in {
+      opacity: 0;
+      animation: fadeIn ease 2s forwards;
+    }
+
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
+    }
+
+    /* Animation 2: Hover lift on plot boxes */
+    .plot-box {
+      transition: transform 0.2s ease;
+    }
+
+    .plot-box:hover {
+      transform: scale(1.05);
+      background-color: #6b8e23;
+    }
+
+    /* Animation 3: Slide in veteran list */
+    .veteran-list {
+      animation: slideIn 0.5s ease-in-out;
+    }
+
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Animation 4: Pulse on search button */
+    .search-box button {
+      animation: pulse 3s infinite;
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(255,255,255,0.4); }
+      70% { box-shadow: 0 0 0 10px rgba(255,255,255,0); }
+      100% { box-shadow: 0 0 0 0 rgba(255,255,255,0); }
+    }
+  /* Additional Animations */
+    .plot-box:hover {
+      box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.4);
+    }
+
+    .plot-box {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: staggerIn 0.5s ease forwards;
+    }
+
+    @keyframes staggerIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    header h1 {
+      animation: glowFade 5s ease-in-out forwards;
+    }
+
+    @keyframes glowFade {
+      0% { text-shadow: 0 0 0 #000; }
+      50% { text-shadow: 0 0 20px #fff, 0 0 30px #aaa; }
+      100% { text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+    }
+
+    footer {
+      animation: footerRise 2s ease-in 1s forwards;
+      opacity: 0;
+    }
+
+    @keyframes footerRise {
+      from {
+        opacity: 0;
+        transform: translateY(40px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  /* Mind-Blowing Animation: Rising Flag Background on Hero Title */
+    @keyframes wavingFlag {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .hero-text::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: url('https://cdn.pixabay.com/photo/2016/11/22/23/41/american-flag-1853267_1280.jpg') no-repeat center center;
+      background-size: cover;
+      opacity: 0.2;
+      z-index: -1;
+      animation: wavingFlag 30s linear infinite;
+    }
+
+    .hero-text {
+      position: relative;
+      overflow: hidden;
+    }
+  @keyframes glowHeader {
+  from {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  }
+  to {
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.9);
+  }
+}
+  @keyframes armyGlow {
+  0%   { box-shadow: 0 0 10px #4b5320; }
+  50%  { box-shadow: 0 0 25px #6b8e23; }
+  100% { box-shadow: 0 0 10px #4b5320; }
+}
+  33%  { box-shadow: 0 0 20px white; }
+  66%  { box-shadow: 0 0 20px blue; }
+  100% { box-shadow: 0 0 20px red; }
+}
+    /* Enhanced Search UI */
+    .search-box {
+      background-color: rgba(0, 0, 0, 0.65);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+    }
+
+    .search-box input:focus {
+      outline: none;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+      border: 1px solid #4b5320;
+    }
+
+    .search-box button:hover {
+      background-color: #4b5320;
+      transform: scale(1.05);
+      transition: all 0.2s ease-in-out;
+    }
+
+    /* Typing animation for quote */
+    .quote-banner {
+  background-color: rgba(26, 35, 30, 0.95);
+  text-align: center;
+  font-style: italic;
+  padding: 30px 20px;
+  font-size: 1.4em;
+}
+
+    
+  to { width: 100%; }
+}
+      to { width: 100% }
+    }
+
+    
+    }
+
+    /* Back to top button */
+    #backToTop {
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 15px;
+      background: #4b5320;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      z-index: 1000;
+    }
+
+    /* Subtle floating flag in corner */
+    .floating-flag {
+      position: fixed;
+      bottom: 10px;
+      left: 10px;
+      width: 80px;
+      opacity: 0.1;
+      pointer-events: none;
+      z-index: 999;
+    }
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+</style>
+</head>
+<body>
+  <header>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <h1>Armory Square – Marietta Ohio</h1>
+  </div>
+</header>
+
+  <div class="hero-text fade-in" style="background: url('https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/482210989_1053151503531694_4320033234689655188_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=DsIxum7AnKkQ7kNvwHCYGDw&_nc_oc=Adl-El4xA3aUV0sHzvJbFIdeAGIxf59PqvBFhETXn1JgUFqR_t3qMcWm58D8JKFgdVfZ505MAd04WVCi2J2XtQq2&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=rHWU2fpGhFGXtA0oSjb8Kg&oh=00_AfEcise4_dn0cn1IQ9-SUOak9w31Ioq4TL6hKwRMjlnT3w&oe=6804CE3B') no-repeat center center / cover; opacity: 0.5;">
+    <h2 style="text-align: center; font-size: 2.7em; font-weight: bold; color: #fff; text-shadow: 3px 3px 10px rgba(0,0,0,0.9), 0 0 15px rgba(255,255,255,0.7); border: 3px solid #fff; padding: 15px 30px; display: inline-block; background-color: rgba(0, 0, 0, 0.5); border-radius: 15px; animation: armyGlow 3s ease-in-out infinite; letter-spacing: 1px;">Remembering Our Heroes</h2>
+    
+  </div>
+
+  <div class="quote-banner fade-in">
+    “A hero is someone who has given his or her life to something bigger than oneself.” – Joseph Campbell
+  </div>
+
+  <div class="container">
+    <div style="text-align:center; margin-bottom: 30px;">
+      <a href="mailto:mariettaarmorysquare@gmail.com?subject=Veteran%20Submission" style="background-color:#4b5320; color:white; padding:12px 25px; border-radius:8px; text-decoration:none; font-weight:bold; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        + Submit a Veteran
+      </a>
+    </div>
+    <div class="search-box fade-in" style="text-align: center;">
+      <h2><span style='font-weight: bold;'>&#x1F6E1;&#xFE0F;</span> Search for a Veteran</h2>
+      <input type="text" id="search-input" placeholder="Enter a name or plot number" onkeydown="if(event.key === 'Enter'){searchVeteran()}" style="width: 60%; padding: 10px; border-radius: 5px; border: 1px solid #ccc; margin-right: 10px; display: inline-block;" />
+      <button onclick="searchVeteran()" style="display: inline-block;">Search</button>
+      <div id="search-results"></div>
+    </div>
+
+    <div class="plots" id="plots-container"></div>
+    <div class="veteran-list" id="veteran-display"></div>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Marietta Veterans Memorial. All rights reserved.</p>
+    <p>Address: 241 Front St, Marietta, OH 45750</p>
+    
+</footer>
+
+  <script>
+    const data = {
+      "5": [
+        "WILLIAM CLETIS WEST - S SGT US ARMY - WWII AIRBORNE",
+        "CHESTER C. WILSON - PFC. U.S. ARMY ARTY. - 1967-1968",
+        "JAMES E. RUBLE - USS PROTEUS AS-19 - US NAVY 1959-1963",
+        "(Unclear Name) - (Partially obscured, top right)",
+        "JAMES L RANEY - MAJOR US ARMY - 1974-1994",
+        "ROBERT L. GEARHART - SP4 U.S. ARMY - 1958-1965",
+        "FRANCES J. MECKEL - US ARMY - 1976-1980",
+        "MARION M. OGLE - FIREMAN 1ST CLASS - U.S. NAVY 1944-1946",
+        "SGT. LARRY A. BATES - 541 ST. ENGINEER CO. - U.S. ARMY 1963-1965",
+        "BENJAMIN E. HEPPNER - SP/4 ASA 05H20 - 1971-1974",
+        "JOHN E. TRIPLETT JR. - CAPTAIN - US ARMY - JUDGE 2019-2020",
+        "WILLIAM H. ELLIOTT II - U. S. ARMY - 2006 - ....",
+        "THOMAS A DEARTH JR. - SGT US ARMY - 1986 - 1993",
+        "SGT TAMMY DEARTH - ARMY NATIONAL GUARD - 1985 - 2000",
+        "AN ROBERT HAMPTON - VS-22 CHECKMATES - US NAVY",
+        "CARL 'JIM' ROSE JR. - US NAVY - 1945 - 1946",
+        "(Unclear Name) - (Partially obscured, bottom left)",
+        "JOSHUA WOODGERD - CVA-66 U.S.S. AMERICA",
+        "GEORGE W. WOODGERD - (Partially obscured)",
+        "CHARLES W. HAMPTON 6TH WEATHER SQN 1961–1965",
+        "CPT. DENNIS URBAN USAF 1957–1961 US ARMY 1966–1982",
+        "WJ LANDSITTEL US NAVY 1959–1980",
+        "PAUL T LANDSITTEL US AIR FORCE US ARMY FEB 1957 – JAN 1998",
+        "JOHN E. LANDSITTEL US NAVY 1961–1981",
+        "PAUL J LANDSITTEL AVCM(AW) US NAVY 1984–2014",
+        "PJ LANDSITTEL 2ND BM1(SW) US NAVY 2012–2023",
+        "CURTIS W. BINEGAR PVT. U.S. ARMY 8-26-1943 – 12-23-1944",
+        "GEORGE GALE BINEGAR MM2 U.S. NAVY AO-56 6-9-1952 – 6-6-1956",
+        "ROBERT P. BINEGAR SGT. U.S. MARINE CORPS 9-9-1953 – 9-20-1957",
+        "SGT. W. E. STRAHLER 25TH DIV. BOBCATS – PH VIETNAM 1967–1968",
+        "TSGT RICHARD COZZENS HQ CO 3RD BN 7TH INFANTRY 1941–1945",
+        "SGT. PAUL A. STRAHLER USAF TAC 1968–1974",
+        "ALL MEMBERS - ARMY NAVY - MRF VIETNAM",
+        "EDWIN LANDSITTEL - US NAVY - JULY 1961 APRIL 1989",
+        "RICHARD DICKINSON - US ARMY - 1945 - 1947",
+        "CHARLES H. BINEGAR - SP 4 U. S. ARMY - 4-26-1969 12-5-1970",
+        "THOMAS E. BROOKOVER - SFC U. S. ARMY - RETIRED 1948 - 1972",
+        "REGIS D. STRAHLER - U. S. ARMY - WORLD WAR II",
+        "LAWRENCE W. STRAHLER - WWII U. S. ARMY - POW PURPLE HEART",
+        "RICHARD G. STRAHLER - WWII U. S. NAVY - SEABEE",
+        "ALBERT F. STRAHLER - U. S. ARMY - WORLD WAR II",
+        "DOYLE A. WEAVER - U.S. MARINE CORPS - 1967 - 1970"
+      ],
+      "4": [
+        "LARRY F HIGGINS AIR FORCE 1957 – 1961",
+        "CSM JAY A HOUSER HHC 1092ⁿᵈ ECB OIF 1 AND 2",
+        "PFC GLENN RAUCH 4ᵗʰ ARMOR DIV MP US ARMY 1961 – 1963",
+        "A1C RAYMOND PECKENS US AIR FORCE 1953 – 1960",
+        "SGT SCOTT BARTLETT US ARMY 2009 – 2022",
+        "EARL STARKEY SP4 US ARMY 1960 – 1966",
+        "DONALD O HINTON TEC5 SHARPSHOOTER 1942 – 1945 US ARMY",
+        "WILLIAM B DUNHAM PFC CHINESE COMBAT 1943 – 1947 US ARMY",
+        "CARL E VAJDICH US ARMY 1961 – 1964",
+        "PFC CALVIN LAFABER INFANTRY 1ˢᵗ ARMY WWII 01 31 1945",
+        "SPC MITCHELL DAMON US ARMY 2019 – 2022",
+        "DAVID DUANE LOVE US ARMY 1968 – 1970 PURPLE HEART",
+        "COL. JAMES KLUCKMAN & TAMIE (DUNN) U.S. ARMY 1974 – 2004",
+        "CPT. SEAN KLUCKMAN & MAJ. BRI KLUCKMAN U.S. ARMY 2015",
+        "CPT. BRIAN & LAUREN KLUCKMAN 2012 – 2016 U.S. MARINE CORPS",
+        "CLARK C DUNHAM PVT SHARPSHOOTER US ARMY 1965 – 1968",
+        "ROBERT M BOSSERT AIRBORNE 1946 – 1949",
+        "SGT WILLIAM WHITE US MARINE CORPS 1967 – 1973",
+        "CRP. GEORGE E. HAYES U.S. ARMY AEF WWI",
+        "HERBERT N. HAYES PFC. U.S. ARMY AEF WWI",
+        "MARY ELLEN HAYES RC AMB DRIVER WWI FRANCE",
+        "CLYDE E. MALONE U.S. ARMY PRIVATE 1918–1919 WWI",
+        "MAX L. MALONE A2C USAF 1956–1960",
+        "ANDREW B. McGREGOR MSGT. USAF 1968–2006",
+        "BENEDICTA A. RODDY SEAMAN 1C USNR 1944–1945 WWII",
+        "1ST. SGT. ANDREW HOLDEN CO F 73RD REG OVI 1861–1865",
+        "ANDREW L. RODDY COLONEL OH DEF GD 1943–1962",
+        "MAJ. CARRIE L. RODDY UH1/UH60 PILOT U.S. ARMY 1991–2014",
+        "MARY L. ANDERSON CAPT US NAVY 1979–2010",
+        "WILLIAM G. DUNN JR MMC US NAVY 1971–1985",
+        "MSGT. STEVEN R. DUNN U.S.A.F. 1973–1996 WIFE: MIA VAN EYGEN",
+        "RICHARD DUNN U.S. AIR FORCE 2007",
+        "LT. COL. DONALD DUNN & RENAE 1974–2005 PILOT U.S. AIR FORCE",
+        "LT. COL. WILLIAM DUNN U.S.A.F. 1951–1983 WIFE: DONAL DEEN",
+        "EDGAR “DOYLE” WAGGONER 1STNR CARPENTER MATE 2ND CLASS 1944–1946",
+        "HARVEY WAGGONER NAVY / CHIEF CARPENTER’S MATE 3-26-1942 TO 10-27-1945",
+        "ANTHONY J. WAGGONER PFC U.S. ARMY BRONZE STAR 1943–1946",
+        "S/SGT. VENTAL A. WAGGONER U.S. AIR FORCE 1946–1949",
+        "REX LINDSEY WAGGONER MSG. USAF & SEAMAN 2ND CLASS USN 1950–1984 / 1945–1946",
+        "ROBERT F. WAGGONER CORPORAL U.S. ARMY CALVARY 1948–1952",
+        "WILLIAM E. COURTNEY MM1C (T) U.S. NAVY 1942–1945",
+        "GLENN A. COURTNEY T/5 U.S. ARMY PURPLE HEART 1941–1944",
+        "HARRY H. COURTNEY S/SGT. U.S. ARMY 1941–1945",
+        "DALE COURTNEY S/SGT. U.S. ARMY 1942–1945",
+        "SGT. NORBERT L. LANG KOREAN CONFLICT 1951–1953",
+        "TODD ANDREW ZOLLER U.S. ARMY 1986–1993 PERSIAN GULF WAR",
+        "CPL DONALD NARVIN U.S. MARINE CORPS VIETNAM VETERAN",
+        "GEORGE F. HUPP U.S. ARMY – VIETNAM 1970–1972",
+        "CAPT CHARLES SCHOB U.S. AIR FORCE 1953–1957",
+        "DAVID LEE BATTEN U.S. NAVY 1969–1973",
+        "SFC ROBERT FITZGERALD ARMY 1984–2017",
+        "FRANK C. PADGITT ARMY 826 TANK BN 1954–1956"
+      ],
+      "3": [
+        "CAPT ROGER E CRUM US ARMY PILOT 1965 – 1972",
+        "SPC DONALD MILNER US ARMY 1961 – 1963",
+        "SGT. KEITH KAPPLE FCO 2nd BN 26th MARINES HILL 558 KHE SAHN",
+        "PFC FRANK WEBER US ARMY 1942 – 1945",
+        "PFC CHAS PELINKA US ARMY 1916 – 1919",
+        "CPL FRANK PELINKA US ARMY 1918 – 1919",
+        "CHARLES C ROUSH S SGT US ARMY 1942 – 1945",
+        "SSGT RALPH E RANEY US ARMY AIR CORPS 1942 – 1945",
+        "HARRY MAX HADLEY US NAVY 1944 – 1946",
+        "LT MICHAEL HADLEY US NAVY 1966 – 1969 CIVIL ENG CORPS",
+        "LLOYD H BIEHL US ARMY WORLD WAR II",
+        "JOHN E BIEHL US NAVY USS SHENANDOAH AD26",
+        "IN MEMORY OF RUSSELL T HYDE PO2 USN WW II",
+        "CWO JOHN W HYDE RET 1959 – 1981",
+        "CW3 JOHN H GERKEN US ARMY – RETIRED 1959 – 1980",
+        "LARRY L WARREN US ARMY 1959 – 1962",
+        "FRED SULLIVAN US ARMY RETIRED MHS CLASS OF 1959",
+        "SGT JEFF WEIHL US ARMY 1964 – 1969",
+        "CHUCK MOONEY US MARINE CORPS 1961 – 1965",
+        "BILL VERNON CTO2 NSG US NAVY JUNE 1960 – JUNE 1964",
+        "JAMES C. RITCHEY COLONEL US ARMY 1964 – 1994",
+        "MICK MCKITRICK B. 1943 – D. 2023 US SPECIAL FORCES",
+        "LAWRENCE E. HURST US ARMY 101ST AIRBORNE DIV",
+        "RMC FRED FARLEY US NAVY 1960 – 1980",
+        "JAMES E SORENSEN WEST POINT 1963 ARMY CAPT 1963 – 1968",
+        "ARMORY SQUARE INC BRICK CAMPAIGN www.bricksrus.com",
+        "ROBERT L THEOBALD LEDR US NAVY MHS CLASS OF 1959",
+        "JIM YOUNG IC-3 USN 1960 – 1963 ATF 163 USS – UTINA",
+        "GARY ROBERTS MHS CLASS OF 1959 US ARMY 1962 – 1965",
+        "MSGT JERRY L ROUSH US ARMY SPEC FORCES VIETNAM – PERSIAN GULF",
+        "DALE A ELLIS CTO2 NSG USN SEPT 1960 – SEPT 1964",
+        "JON WEISEND FTG US NAVY DD-445 1962 TILL DEATH 1964"
+      ],
+      "2": [
+        "PFC. KENNETH NEWTON U.S. ARMY POW 1942–1945",
+        "SGT. CLIFFORD HICKMAN U.S. ARMY POW 1942–1945",
+        "SSGT. EUGENE PARKER ARMY AIR CORP POW MAR. 1943 – OCT. 1945",
+        "PFC. GIFFORD DOXSEE U.S. ARMY POW 1943–1945",
+        "SGT. FRANK H. TRAUTMAN U.S. ARMY POW MAR. 1942 – NOV. 1945",
+        "1LT. GEORGE [last name not visible] U.S. ARMY AIR [remainder not visible] 1942–1945",
+        "PFC. MICHAEL DINDOIS U.S. ARMY POW 1942–1945",
+        "S/SGT. RAY MORRIS U.S. ARMY 1942–1945",
+        "T/SGT. HERMAN ZERGER CO. I 141ST INFANTRY 1943–1945",
+        "1ST. LT. JAMES P. FEERICK U.S. ARMY AIR CORPS POW 1941 – 1945",
+        "1LT. GEORGE R. KLARE U.S. ARMY AIR CORP POW 1942 – 1945",
+        "CPO1 EDWARD CHANDLER U.S. NAVY 1942 – 1946 AMPHIBIOUS FORCE"
+      ],
+      
+
+      "1": [
+        "CHRIS SCHILTZ US ARMY 2008–2012",
+        "AMERICAN UNION #1 F. & A. M. FEBRUARY 15, 1776",
+        "MARIETTA POST #64 AMERICAN LEGION VETERANS ALL",
+        "EDWARD PARRISH CHAPTER - COLONIAL DAMES XVII CENTURY",
+        "GENERAL RUFUS PUTNAM MARIETTA OHIO FIRST LEADER",
+        "TO HONOR OUR ARMED FORCE VETS MARIETTA BPOE #477",
+        "DISABLED AMERICAN VETERANS AUX. #6 PARKERSBURG, WV",
+        "IN MEMORY WASH. CO. POW - MIA VFW #5108 MEN'S AUX.",
+        "ELVIN M. WOODS U.S. ARMY WWII",
+        "ELAH L. (ROSE) WOODS U.S. NAVY MEDICAL CORP WWIi",
+        "CARL S. WOODS U.S. AIR FORCE RET. VIETNAM",
+        "LARRY B. WOODS U.S. NAVY RET. 1971–1998",
+        "GILBERT W. WOODS U.S. ARMY 1971–1978",
+        "PVT. RICHARD McHENRY PA. LINE 1776–1781 REVOLUTIONARY WAR",
+        "PETER REASCNER PA. LINE 1778–1783 REVOLUTIONARY WAR",
+        "JOHN FLICK KY MILITIA & VOL. WAR OF 1812",
+        "RICHARD RILEY: SOLDIER WAR OF 1812",
+        "JOHN MILLER COLMAN CO E PA LT. ARTILLARY 1863–1865 CIVIL WAR",
+        "DANIEL HILL CO. G. 42nd WIS INF. 1864–1865",
+        "KENNETH W. RILEY U.S. ARMY U.S. AIR FORCE 1957–1961 1964",
+        "ROBERT J. MORSE U.S. NAVY 1992–2006",
+        "JON E. ENGLEHART U.S. ARMY 1998",
+        "SHANE D. KUCHLER U.S. ARMY 2000",
+        "KENNETH W. RILEY II U.S. NAVY 2001–2006",
+        "KENNETH W. RILEY U.S. NAVY",
+        "SGT. THOMAS E. KUKULKA U.S. ARMY USAR 1977–2000",
+        "SGT. JOHN H. SMITH JR. MERRILL’S MARAUDERS CHINA–BURMA WWII",
+        "2ND LT. DONALD J. MacRAE GLIDER PILOT WWII ETO 37th TROOP CARRIER SQD."
+      ]
+    };
+    for (let i = 6; i <= 49; i++) {
+      data[i] = ["Veteran One", "Veteran Two", "Veteran Three"];
+    }
+
+    const plotsContainer = document.getElementById("plots-container");
+    const veteranDisplay = document.getElementById("veteran-display");
+    const searchResults = document.getElementById("search-results");
+
+    for (let i = 1; i <= 49; i++) {
+      const box = document.createElement("div");
+      box.className = "plot-box";
+      box.textContent = `Plot ${i}`;
+      box.addEventListener("click", () => showVeterans(i));
+      box.style.animationDelay = `${i * 0.05}s`;
+      plotsContainer.appendChild(box);
+    }
+
+    function showVeterans(plot) {
+      veteranDisplay.innerHTML = `<h3>Plot ${plot}</h3><ul>` +
+        data[plot].map(name => `<li>${name}</li>`).join('') +
+        "</ul>";
+      window.scrollTo({ top: veteranDisplay.offsetTop - 20, behavior: "smooth" });
+    }
+
+    function searchVeteran() {
+      const query = document.getElementById("search-input").value.trim().toLowerCase();
+      searchResults.innerHTML = "";
+      if (!query) {
+        searchResults.innerHTML = "<p>Please enter a search term.</p>";
+        return;
+      }
+
+      if (/^\d+$/.test(query)) {
+        if (data[query]) {
+          showVeterans(query);
+        } else {
+          searchResults.innerHTML = `<p>No data found for plot ${query}.</p>`;
+        }
+      } else {
+        let results = [];
+        for (const plot in data) {
+          data[plot].forEach(name => {
+            if (name.toLowerCase().includes(query)) {
+              results.push(`<li>Plot ${plot}: ${name}</li>`);
+            }
+          });
+        }
+        searchResults.innerHTML = results.length
+          ? `<ul>${results.join("")}</ul>`
+          : `<p>No results found for \"${query}\".</p>`;
+      }
+    }
+  </script>
+  <button id="backToTop">↑ Back to Top</button>
+  <img class="floating-flag" src="https://cdn.pixabay.com/photo/2016/11/22/23/41/american-flag-1853267_1280.jpg" alt="Floating Flag" />
+  <script>
+    window.onscroll = () => {
+      document.getElementById("backToTop").style.display = window.scrollY > 300 ? "block" : "none";
+    };
+    document.getElementById("backToTop").onclick = () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+  </script>
+</body>
+</html>
+
