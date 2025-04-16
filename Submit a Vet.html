@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Submit a Veteran</title>
+  <style>
+    body {
+      font-family: 'Merriweather', serif;
+      background: #f4f4f4;
+      color: #333;
+      padding: 40px;
+      text-align: center;
+    }
+    form {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      max-width: 500px;
+      margin: auto;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 12px 0;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 1em;
+    }
+    button {
+      background: #4b5320;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 1em;
+      cursor: pointer;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Submit a Veteran for Recognition</h1>
+  <form action="mailto:mariettaarmorysquare@gmail.com" method="POST" enctype="text/plain">
+    <input type="text" name="Full Name" placeholder="Veteran's Full Name" required>
+    <input type="text" name="Branch" placeholder="Branch of Service" required>
+    <input type="text" name="Service Years" placeholder="Years of Service (e.g. 1942–1945)">
+    <textarea name="Additional Details" placeholder="Awards, Ranks, Locations, etc." rows="4"></textarea>
+    <input type="text" name="Your Name" placeholder="Your Name (optional)">
+    <input type="email" name="Your Email" placeholder="Your Email (optional)">
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
