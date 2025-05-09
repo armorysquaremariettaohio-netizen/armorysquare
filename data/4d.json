@@ -1,7 +1,448 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "PFC HOWARD MCCABE",
+    "unit": "2871ST BFA GUN",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "SFC ROGER FREY",
+    "branch": "U.S. Army",
+    "unit": "169th Inf"
+  },
+  {
+    "name": "KENNETH R. BLUME",
+    "rank": "SSGT",
+    "branch": "U.S. Air Force",
+    "service": "1987–2000"
+  },
+  {
+    "name": "RONALD D. FRIEND",
+    "unit": "USNR OHANG",
+    "branch": "U.S. Navy",
+    "service": "Oct. 1973–Sep. 1981"
+  },
+  {
+    "name": "CARL W. JUSTISON",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "HAROLD D. PROPES R.",
+    "branch": "U.S. Army",
+    "service": "1971–1977"
+  },
+  {
+    "name": "TOM F. LACERDINO",
+    "unit": "DD755",
+    "branch": "U.S. Navy",
+    "service": "1951–1955"
+  },
+  {
+    "name": "CPL DALE E. WAGNER",
+    "branch": "U.S. Army",
+    "service": "1954–1956"
+  },
+  {
+    "name": "SSGT GLENN A. BINEGAR",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "BRIAN BILLETDEAUX",
+    "rank": "SPEC 5",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "DALE B. SEMON",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "DONALD E. BARNHART SR.",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1950–1952"
+  },
+  {
+    "name": "CPL DALE E. ERB",
+    "branch": "U.S. Army",
+    "service": "1957–1978"
+  },
+  {
+    "name": "SGT CHARLES R. WILLIAMS",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "unit": "Construction Squadron"
+  },
+  {
+    "name": "HARRY O. KARCHER SR.",
+    "rank": "Seaman First Class",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "LAWRENCE LOHRI",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1918–1919"
+  },
+  {
+    "name": "BGEN RICHARD EVANS",
+    "branch": "U.S. Marine Corps"
+  },
+  {
+    "name": "SGT MARY D. FARLEY",
+    "branch": "U.S. Air Force",
+    "service": "1968–1972"
+  },
+  {
+    "name": "SP 4 DERRYSON G. FARLEY",
+    "unit": "Army Security Agency",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "SGT MAY L. DANA",
+    "note": "Panama",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "SSGT RICHARD E. PORTER",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "KIA Nov. 1941–Apr. 1945"
+  },
+  {
+    "name": "MILES W. FARLEY",
+    "rank": "Seaman 1/C",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "ROLLA E. TURNER",
+    "rank": "SSGT",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "DAVID C. FARLEY",
+    "rank": "E-3",
+    "branch": "U.S. Air Force",
+    "service": "1971–1974"
+  },
+  {
+    "name": "LT FREDERICK DANA",
+    "unit": "Co. F, 77th Ohio Volunteer Cav.",
+    "conflict": "Civil War",
+    "service": "1862–1865"
+  },
+  {
+    "name": "RAY KESSELRING",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "CAPT BETSY A. DANA",
+    "unit": "Army Nurse Corps",
+    "conflict": "ETO",
+    "service": "1944–1946"
+  },
+  {
+    "name": "WILLIAM KESSELRING",
+    "branch": "U.S. Army",
+    "service": "1917–1919"
+  },
+  {
+    "name": "LAWRENCE KESSELRING",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "JAMES HOCKENBERRY",
+    "rank": "SP 4",
+    "branch": "U.S. Army",
+    "service": "1960–1962"
+  },
+  {
+    "name": "SSGT HAROLD L. BURT JR.",
+    "branch": "U.S. Air Force",
+    "conflict": "Korea",
+    "service": "1951–1955"
+  },
+  {
+    "name": "COL A. ROBERT STACY",
+    "branch": "U.S. Army Reserve"
+  },
+  {
+    "name": "CAPT WILLIAM DANA",
+    "unit": "Artillery",
+    "conflict": "Revolutionary War",
+    "service": "7/14/1776"
+  },
+  {
+    "name": "CPL HAROLD SMITH",
+    "branch": "U.S. Army",
+    "service": "1935–1988"
+  },
+  {
+    "name": "JOHN W. FOGLE",
+    "branch": "U.S. Navy",
+    "service": "1984–1988"
+  },
+  {
+    "name": "MUHAMMAD DANA",
+    "rank": "Major",
+    "branch": "U.S. Army",
+    "conflict": "Desert Storm",
+    "service": "1990–1991"
+  },
+  {
+    "name": "WARREN C. JOHNSON",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "service": "Dec. 1945–May 1949"
+  },
+  {
+    "name": "HOWARD W. BALL",
+    "rank": "SP 4",
+    "branch": "U.S. Army",
+    "service": "1954–1958"
+  },
+  {
+    "name": "JEAN T. MCCREERY",
+    "unit": "WASP",
+    "conflict": "WWII"
+  },
+  {
+    "name": "SGT DAVID L. RITCHIE",
+    "unit": "Infantry",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "THOMAS G. DRAIN",
+    "branch": "U.S. Army",
+    "service": "1972–1974",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "TOM NORAN",
+    "branch": "U.S. Army",
+    "service": "1951–1986"
+  },
+  {
+    "name": "TERRY LEE GIFFIN",
+    "unit": "Seabees",
+    "branch": "U.S. Navy",
+    "service": "1971–1977"
+  },
+  {
+    "name": "A.A. ROCKYLADA",
+    "rank": "CPL",
+    "branch": "U.S. Marine Corps",
+    "service": "1961–1965"
+  },
+  {
+    "name": "CAPT ROGER D. DYAR",
+    "note": "WWII Fighter Pilot, KIA",
+    "service": "1920–1943"
+  },
+  {
+    "name": "SGT RAY WALLER JR.",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "KIM RANDALL FOWLER",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "RUSSELL J. FOWLER",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "SGT DALE E. PFILE",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1944–1945"
+  },
+  {
+    "name": "KENNETH E. STRAHLER",
+    "rank": "SP 4",
+    "branch": "U.S. Army Reserves",
+    "unit": "486 Eng",
+    "service": "1965–1971"
+  },
+  {
+    "name": "ROBERT DELNO MORRIS",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "Pacific Theater"
+  },
+  {
+    "name": "ROBERT EDWARD LEY",
+    "rank": "Photographer",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "RONNIE E. BLAIR",
+    "rank": "CPL",
+    "branch": "USMC",
+    "conflict": "Vietnam",
+    "service": "1969–1971"
+  },
+  {
+    "name": "GARLAND TED MCHUGH",
+    "rank": "SSGT",
+    "branch": "U.S. Army",
+    "service": "1940–1944"
+  },
+  {
+    "name": "CPL WALTER E. MCHUGH",
+    "branch": "U.S. Army",
+    "unit": "8th Air Force",
+    "service": "1942–1945"
+  },
+  {
+    "name": "BILL DANA",
+    "unit": "Amphibious MM 2/C",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "STEVEN PAPE",
+    "rank": "SPC 4",
+    "branch": "U.S. Army",
+    "service": "1967–1969"
+  },
+  {
+    "name": "LT TRENT ARNOLD",
+    "note": "Naval Aviator"
+  },
+  {
+    "name": "KEVIN F. ARNOLD",
+    "rank": "BT2",
+    "branch": "U.S. Navy",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "BERNARD DEAN HAAS",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "conflict": "Korea"
+  },
+  {
+    "name": "SGT JEREMY A. BEEBE",
+    "branch": "U.S. Air Force",
+    "conflict": "Iraq War"
+  },
+  {
+    "name": "SGT HAROLD SEAMAN",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "Europe"
+  },
+  {
+    "name": "JOHN P. MCGUIRE",
+    "rank": "T/5",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "ROBERT J. HAAS",
+    "unit": "Loadmaster, C-123",
+    "branch": "USAF Reserve"
+  },
+  {
+    "name": "JOHN Y. KENNEDY",
+    "unit": "3rd/34th, 9th Infantry",
+    "note": "Mekong Delta"
+  },
+  {
+    "name": "SSGT LESTER SEAMAN",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "Europe"
+  },
+  {
+    "name": "CPL FRANCES MAGUIRE",
+    "branch": "U.S. Army",
+    "service": "1944–1945"
+  },
+  {
+    "name": "DOUGLAS E. SEEVERS",
+    "unit": "17th Cavalry",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "SGT PAUL YOST",
+    "branch": "U.S. Army",
+    "service": "1942–1943"
+  },
+  {
+    "name": "PFC KENNETH H. BERG",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1943"
+  },
+  {
+    "name": "CHARLES W. FEATHERS",
+    "rank": "SFC",
+    "branch": "U.S. Army",
+    "conflict": "Korea"
+  },
+  {
+    "name": "CPL DONALD “RED” BECKER",
+    "unit": "47th Marine Corps",
+    "service": "1957–1960"
+  },
+  {
+    "name": "T/4 R. LYLE HANES",
+    "branch": "U.S. Army",
+    "service": "1941–1945"
+  },
+  {
+    "name": "SGT ROBERT SEEVERS",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "R. CLYDE JOHNSTON",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "CHARLES C. GOODWILL",
+    "rank": "Major",
+    "branch": "U.S. Air Force",
+    "service": "1959–1980"
+  },
+  {
+    "name": "SGT DONALD GREENE",
+    "branch": "U.S. Army",
+    "service": "1950–1952"
+  },
+  {
+    "name": "SP/5 DAVID L. RUBLE",
+    "unit": "Combat Engineer",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "service": "1967–1969"
+  },
+  {
+    "name": "PFC ROBERT GREENE",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "Purple Heart"
   }
 ]
