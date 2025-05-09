@@ -1,7 +1,313 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "SFC MELVIN CARPENTER",
+    "branch": "U.S. Army",
+    "service": "1957–1979"
+  },
+  {
+    "name": "MELISSA CARPENTER",
+    "note": "Operation Iraqi Freedom / Operation Enduring Freedom"
+  },
+  {
+    "name": "1LT. EUGENE C. HECKLER",
+    "branch": "Army Air Corps / Air Force",
+    "service": "1943–1945, 1951–1952"
+  },
+  {
+    "name": "CW3 DELL WARFIELD",
+    "branch": "U.S. Army",
+    "service": "1954–1976"
+  },
+  {
+    "name": "SGT. TREVOR WARFIELD",
+    "branch": "U.S. Army",
+    "service": "1990–1998"
+  },
+  {
+    "name": "SFC DONALD CARPENTER",
+    "branch": "U.S. Army / Ohio ANG / Georgia ANG",
+    "service": "1958–2001"
+  },
+  {
+    "name": "CPL. DON CARPENTER, JR.",
+    "branch": "U.S. Marine Corps",
+    "service": "1979–1982"
+  },
+  {
+    "name": "A1C DANNY R. CARPENTER",
+    "branch": "U.S. Air Force",
+    "service": "1987–1989"
+  },
+  {
+    "name": "CHARLES D. HECKLER",
+    "branch": "U.S. Army",
+    "service": "1918–1919"
+  },
+  {
+    "name": "CHARLES K. HECKLER",
+    "branch": "U.S. Army",
+    "service": "1941–1946"
+  },
+  {
+    "name": "GEORGE E. HECKLER",
+    "branch": "U.S. Army Air Corps",
+    "service": "1942–1945"
+  },
+  {
+    "name": "E. A. MORBITZER, JR.",
+    "branch": "U.S. Marine Corps",
+    "service": "1954–1957"
+  },
+  {
+    "name": "PVT ANDREW H. JOBES",
+    "branch": "U.S. Army",
+    "note": "World War II"
+  },
+  {
+    "name": "MSGT CYRUS W. JOBES",
+    "branch": "U.S. Air Force",
+    "note": "Retired / Korea"
+  },
+  {
+    "name": "MSGT. LEE B. JOBES",
+    "branch": "U.S. Air Force",
+    "note": "Retired / Korea"
+  },
+  {
+    "name": "SSGT JAMES JOBES",
+    "branch": "Army Special Forces",
+    "note": "Bronze Star / Vietnam"
+  },
+  {
+    "name": "SSGT. HARRY JOBES",
+    "branch": "U.S. Air Force",
+    "service": "1970–1978"
+  },
+  {
+    "name": "CPL. EARL A. WOODFORD",
+    "branch": "U.S. Army Air Force",
+    "service": "1942–1944"
+  },
+  {
+    "name": "LTC. JACK A. WOODFORD",
+    "branch": "U.S. Army",
+    "note": "Chaplain (Retired) / Kuwait"
+  },
+  {
+    "name": "JOHN KOLENC",
+    "branch": "U.S. Army",
+    "note": "World War I"
+  },
+  {
+    "name": "DONALD E. KOLENC",
+    "branch": "U.S. Army",
+    "note": "World War II"
+  },
+  {
+    "name": "CPL. LELAND C. CONRAD",
+    "branch": "U.S. Marine Corps",
+    "note": "WWII / Purple Heart w/ cluster"
+  },
+  {
+    "name": "JOSEPH BURL NELSON",
+    "branch": "U.S. Navy",
+    "service": "1931–1978",
+    "note": "Korea"
+  },
+  {
+    "name": "TERRY M. NELSON",
+    "branch": "U.S. Navy",
+    "note": "Vietnam"
+  },
+  {
+    "name": "FREDERICK P. NELSON",
+    "branch": "U.S. Army",
+    "service": "1961–1963"
+  },
+  {
+    "name": "A1C LEE B. JOBES II",
+    "branch": "U.S. Air Force",
+    "service": "1982–1984"
+  },
+  {
+    "name": "PVT. HARLAN L. JOBES",
+    "branch": "U.S. Army",
+    "service": "1941"
+  },
+  {
+    "name": "JAY I. KOLENC",
+    "branch": "U.S. Army",
+    "note": "Korea"
+  },
+  {
+    "name": "CHARLES L. KOLENC",
+    "branch": "U.S. Air Force",
+    "note": "Vietnam"
+  },
+  {
+    "name": "TOMMY WAYNE PERDEW",
+    "branch": "U.S. Air Force",
+    "note": "Korea"
+  },
+  {
+    "name": "SGT. DAVID B. DOUGLAS",
+    "branch": "U.S. Air Force",
+    "note": "Vietnam Era"
+  },
+  {
+    "name": "SGT ARTHUR L. ICE",
+    "branch": "U.S. Army",
+    "note": "World War II Era"
+  },
+  {
+    "name": "PFC. WILLIAM D. ROBINSON",
+    "branch": "U.S. Army",
+    "note": "Vietnam Era"
+  },
+  {
+    "name": "1ST. SGT. ROBERT D. PENLAND",
+    "branch": "U.S. Marine Corps",
+    "service": "1942–1973",
+    "note": "Retired"
+  },
+  {
+    "name": "LARRY E. MCINTIRE",
+    "branch": "U.S. Army 5SFGA",
+    "service": "1967–1968",
+    "note": "Vietnam"
+  },
+  {
+    "name": "DENVER MCINTIRE",
+    "branch": "U.S. Marine Corps",
+    "service": "1966–1970",
+    "note": "Vietnam"
+  },
+  {
+    "name": "SIDNEY MCINTIRE JR.",
+    "branch": "U.S. Army",
+    "service": "1979–1985"
+  },
+  {
+    "name": "SGT. LARRY HOCKENBERRY",
+    "branch": "32nd Artillery, USAREUR FA Rocket",
+    "service": "1966–1969"
+  },
+  {
+    "name": "DAVID R DOUGLAS",
+    "branch": "U.S. Air Force",
+    "note": "Vietnam Era"
+  },
+  {
+    "name": "SGT. WAYNE M. ROBINSON",
+    "branch": "U.S. Army",
+    "note": "Vietnam Era"
+  },
+  {
+    "name": "PVT MILES MCINTIRE",
+    "branch": "U.S. Marine Corps",
+    "service": "1966–1970",
+    "note": "Vietnam"
+  },
+  {
+    "name": "MSGT. WILMER W. STANLEY",
+    "branch": "Ohio National Guard",
+    "service": "1947–1967"
+  },
+  {
+    "name": "SGT. LOUISE STANLEY",
+    "branch": "Women's Army Corps",
+    "service": "1949–1953"
+  },
+  {
+    "name": "MSGT. ROBERT D. STANLEY",
+    "branch": "U.S. Air Force",
+    "service": "1948–1973"
+  },
+  {
+    "name": "SGT. WILLIAM D. STANLEY",
+    "branch": "U.S. Army",
+    "service": "1963–1970"
+  },
+  {
+    "name": "CPL. ROBERT W. STANLEY",
+    "branch": "U.S. Navy",
+    "service": "1975–1979"
+  },
+  {
+    "name": "SPC 4 JOHN STANLEY",
+    "branch": "U.S. Army",
+    "service": "1984–1987"
+  },
+  {
+    "name": "SRA STEPHEN A. REYNOLDS JR.",
+    "branch": "U.S. Air Force",
+    "service": "1994–1998"
+  },
+  {
+    "name": "HARLEY D. ICE",
+    "branch": "U.S. Army",
+    "service": "1912–1946"
+  },
+  {
+    "name": "PVT. LOGAN J. ICE",
+    "branch": "U.S. Army",
+    "service": "1918–1919",
+    "note": "WWI Era"
+  },
+  {
+    "name": "HARRY MORRIS STANLEY",
+    "branch": "U.S. Army Air Corps",
+    "service": "1943–1945"
+  },
+  {
+    "name": "MSGT. ANDREW J. STANLEY",
+    "branch": "U.S. Air Force",
+    "service": "1943–1973"
+  },
+  {
+    "name": "PFC. JAMES F. REYNOLDS JR.",
+    "branch": "U.S. Army",
+    "service": "1968–1970"
+  },
+  {
+    "name": "THOMAS WILLIAM STANLEY",
+    "branch": "U.S. Marine Corps",
+    "service": "1980–1984",
+    "note": "CPL"
+  },
+  {
+    "name": "CAPT FRANK W. STANLEY",
+    "branch": "U.S. Air Force",
+    "service": "1980–1984"
+  },
+  {
+    "name": "JOHN D. CHARLES",
+    "branch": "U.S. Navy",
+    "note": "WWII / USS LCI(L)-558"
+  },
+  {
+    "name": "PVT. STEPHEN K. REYNOLDS",
+    "branch": "U.S. Air Force",
+    "service": "1960–1964"
+  },
+  {
+    "name": "CPL. WARREN W. STANLEY",
+    "branch": "Ohio National Guard",
+    "service": "1947–1957"
+  },
+  {
+    "name": "MSGT. LARRY STANLEY",
+    "branch": "Womack Army Hospital",
+    "service": "1980–1984"
+  },
+  {
+    "name": "CPL. ROBERT W. STANLEY",
+    "branch": "U.S. Marine Corps Recruit Depot",
+    "service": "1975–1979"
+  },
+  {
+    "name": "PFC. JAMES E. REYNOLDS JR.",
+    "branch": "U.S. Army",
+    "service": "1958–1970"
   }
 ]
