@@ -1,7 +1,162 @@
 [
   {
-    "name": "Placeholder Name",
+    "name": "CAPT ROGER E CRUM",
+    "branch": "US ARMY PILOT",
+    "years": "1965 – 1972"
+  },
+  {
+    "name": "SPC DONALD MILNER",
     "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "years": "1961 – 1963"
+  },
+  {
+    "name": "SGT KEITH KAPPLE",
+    "branch": "FCO 2nd BN 26th MARINES HILL 558 KHE SAHN",
+    "years": null
+  },
+  {
+    "name": "PFC FRANK WEBER",
+    "branch": "US ARMY",
+    "years": "1942 – 1945"
+  },
+  {
+    "name": "PFC CHAS PELINKA",
+    "branch": "US ARMY",
+    "years": "1916 – 1919"
+  },
+  {
+    "name": "CPL FRANK PELINKA",
+    "branch": "US ARMY",
+    "years": "1918 – 1919"
+  },
+  {
+    "name": "CHARLES C ROUSH",
+    "branch": "SSGT US ARMY",
+    "years": "1942 – 1945"
+  },
+  {
+    "name": "SSGT RALPH E RANEY",
+    "branch": "US ARMY AIR CORPS",
+    "years": "1942 – 1945"
+  },
+  {
+    "name": "HARRY MAX HADLEY",
+    "branch": "US NAVY",
+    "years": "1944 – 1946"
+  },
+  {
+    "name": "LT MICHAEL HADLEY",
+    "branch": "US NAVY CIVIL ENG CORPS",
+    "years": "1966 – 1969"
+  },
+  {
+    "name": "LLOYD H BIEHL",
+    "branch": "US ARMY",
+    "years": "WORLD WAR II"
+  },
+  {
+    "name": "JOHN E BIEHL",
+    "branch": "US NAVY USS SHENANDOAH AD26",
+    "years": null
+  },
+  {
+    "name": "RUSSELL T HYDE",
+    "branch": "PO2 US NAVY",
+    "years": "WW II"
+  },
+  {
+    "name": "CWO JOHN W HYDE",
+    "branch": "US ARMY",
+    "years": "1959 – 1981"
+  },
+  {
+    "name": "CW3 JOHN H GERKEN",
+    "branch": "US ARMY",
+    "years": "1959 – 1980"
+  },
+  {
+    "name": "LARRY L WARREN",
+    "branch": "US ARMY",
+    "years": "1959 – 1962"
+  },
+  {
+    "name": "FRED SULLIVAN",
+    "branch": "US ARMY",
+    "years": "RETIRED – MHS CLASS OF 1959"
+  },
+  {
+    "name": "SGT JEFF WEIHL",
+    "branch": "US ARMY",
+    "years": "1964 – 1969"
+  },
+  {
+    "name": "CHUCK MOONEY",
+    "branch": "US MARINE CORPS",
+    "years": "1961 – 1965"
+  },
+  {
+    "name": "BILL VERNON",
+    "branch": "CTO2 NSG US NAVY",
+    "years": "JUNE 1960 – JUNE 1964"
+  },
+  {
+    "name": "JAMES C. RITCHEY",
+    "branch": "COL US ARMY",
+    "years": "1964 – 1994"
+  },
+  {
+    "name": "MICK MCKITRICK",
+    "branch": "US SPECIAL FORCES",
+    "years": "B. 1943 – D. 2023"
+  },
+  {
+    "name": "LAWRENCE E. HURST",
+    "branch": "US ARMY 101ST AIRBORNE DIV",
+    "years": null
+  },
+  {
+    "name": "RMC FRED FARLEY",
+    "branch": "US NAVY",
+    "years": "1960 – 1980"
+  },
+  {
+    "name": "JAMES E SORENSEN",
+    "branch": "WEST POINT / US ARMY",
+    "years": "1963 – 1968"
+  },
+  {
+    "name": "ARMORY SQUARE INC BRICK CAMPAIGN",
+    "branch": "www.bricksrus.com",
+    "years": null
+  },
+  {
+    "name": "ROBERT L THEOBALD",
+    "branch": "LED R US NAVY",
+    "years": "MHS CLASS OF 1959"
+  },
+  {
+    "name": "JIM YOUNG",
+    "branch": "IC-3 US NAVY ATF 163 USS UTINA",
+    "years": "1960 – 1963"
+  },
+  {
+    "name": "GARY ROBERTS",
+    "branch": "US ARMY",
+    "years": "1962 – 1965 (MHS CLASS OF 1959)"
+  },
+  {
+    "name": "MSGT JERRY L ROUSH",
+    "branch": "US ARMY SPECIAL FORCES",
+    "years": "VIETNAM – PERSIAN GULF"
+  },
+  {
+    "name": "DALE A ELLIS",
+    "branch": "CTO2 NSG US NAVY",
+    "years": "SEPT 1960 – SEPT 1964"
+  },
+  {
+    "name": "JON WEISEND",
+    "branch": "US NAVY DD-445",
+    "years": "1962 – 1964"
   }
 ]
