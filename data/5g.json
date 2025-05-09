@@ -1,7 +1,398 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "K.R. \"JOE\" CHRISTOPHER",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "9/30/44–2/21/46"
+  },
+  {
+    "name": "CECIL E. SCHNEIDEMAN",
+    "rank": "CPO",
+    "branch": "U.S. Navy",
+    "conflict": "WWII – Pacific"
+  },
+  {
+    "name": "MIKE BONNETTE",
+    "rank": "SP5",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam Veteran"
+  },
+  {
+    "name": "REGIS W. KERN",
+    "rank": "SSG",
+    "branch": "U.S. Army",
+    "unit": "25th Inf. Div",
+    "conflict": "Vietnam",
+    "service": "1967–1968"
+  },
+  {
+    "name": "JOHN A. YOUNG",
+    "branch": "U.S. Air Force",
+    "service": "1969–1973"
+  },
+  {
+    "name": "JAMES A. BERGA",
+    "rank": "SGT",
+    "unit": "534 Boat & Shore Reg",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "CHARLES E. YOUNG JR.",
+    "branch": "U.S. Marine Corps",
+    "conflicts": ["WWII","Korea"]
+  },
+  {
+    "name": "EARL W. RUBLE",
+    "rank": "PVT",
+    "unit": "516 Signal Inf Reg",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "ROBERT R. MASTERS",
+    "rank": "SGT",
+    "unit": "467 Bomb Group AAF",
+    "service": "1943–1945"
+  },
+  {
+    "name": "JOHN O. RUBLE",
+    "rank": "PFC",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "HOMER R. ESCHBAUGH",
+    "rank": "TSGT",
+    "conflict": "Korean Conflict",
+    "service": "1950–1952"
+  },
+  {
+    "name": "LAWRENCE A. MILLER",
+    "rank": "PFC",
+    "unit": "Medics",
+    "branch": "U.S. Army",
+    "service": "1942–1944"
+  },
+  {
+    "name": "WILBUR L. WILLIAMS",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "service": "1951–1953"
+  },
+  {
+    "name": "CALVIN E. HUFFER",
+    "rank": "CMSGT",
+    "branch": "U.S. Air Force",
+    "service": "1948–1971"
+  },
+  {
+    "name": "STEVE J. VEKICH",
+    "branch": "U.S. Army Air Corps",
+    "service": "9/1943–11/1945"
+  },
+  {
+    "name": "JESSE E. DOBBINS",
+    "branch": "U.S. Army",
+    "conflict": "WWI"
+  },
+  {
+    "name": "JAMES COZZENS",
+    "branch": "U.S. Navy",
+    "note": "USS Hornet",
+    "conflict": "World War II"
+  },
+  {
+    "name": "RANDALL S. BOOKMAN",
+    "branch": "U.S. Army",
+    "service": "1963–1969"
+  },
+  {
+    "name": "BILL SIDDALL",
+    "rank": "SP3",
+    "branch": "U.S. Army",
+    "unit": "Germany",
+    "service": "1954–1956"
+  },
+  {
+    "name": "FREDRICK W. SKINNER",
+    "rank": "CPL E3",
+    "branch": "U.S. Marines",
+    "service": "1957–1963"
+  },
+  {
+    "name": "H.G. (BILL) WELCH",
+    "branch": "U.S. Navy",
+    "rank": "1st",
+    "service": "1944–1946",
+    "conflict": "South Pacific"
+  },
+  {
+    "name": "ALFRED E. SIDDALL",
+    "branch": "U.S. Navy",
+    "service": "1955–1967"
+  },
+  {
+    "name": "EARL J. SMITH",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "service": "1951–1953",
+    "conflict": "Korean"
+  },
+  {
+    "name": "ELMER LEE SAUNDERS",
+    "rank": "WO2",
+    "unit": "114th Combat Helicopter",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "WILLIAM H. FOSTER",
+    "unit": "A Co. 83rd PA",
+    "conflict": "Civil War"
+  },
+  {
+    "name": "PAUL R. SMITH",
+    "rank": "T SGT",
+    "branch": "U.S. Army",
+    "service": "1945–1947",
+    "conflict": "WWII"
+  },
+  {
+    "name": "WILLIAM A. MOLVIG",
+    "unit": "1312 Engineer",
+    "branch": "U.S. Army",
+    "service": "1941–1946"
+  },
+  {
+    "name": "OLIVER L. FOSTER",
+    "note": "Medical Technician",
+    "conflict": "WWII"
+  },
+  {
+    "name": "ARTHUR W. OFFENBERGER",
+    "rank": "CPL",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "ANDREW L. MOLVI",
+    "unit": "1st Eng. 1st Inf. Div",
+    "branch": "U.S. Army",
+    "service": "1968–1971"
+  },
+  {
+    "name": "JERRY O. FOSTER",
+    "rank": "SGT",
+    "unit": "B Trp 2nd Cavalry",
+    "conflict": "Persian Gulf War"
+  },
+  {
+    "name": "DALE M. SATTERFIELD",
+    "branch": "U.S. Army",
+    "service": "1952–1989"
+  },
+  {
+    "name": "JAMES W. SEEVERS",
+    "rank": "SGT",
+    "branch": "U.S. Marine Corps",
+    "service": "1951–1953",
+    "conflict": "Korean War"
+  },
+  {
+    "name": "GARY E. CHEESEMAN",
+    "unit": "A.G.U.",
+    "branch": "U.S. Air Force",
+    "service": "1963–1966",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "EDGAR D. SMITH",
+    "rank": "CAPT",
+    "branch": "U.S. Navy",
+    "units": ["USNA","West Point"],
+    "service": "1963–1965",
+    "conflict": "Mal/China"
+  },
+  {
+    "name": "GREGORY E. HERWALD",
+    "branch": "U.S. Navy",
+    "service": "1966–1970"
+  },
+  {
+    "name": "FRED BLAKE",
+    "branch": "U.S. Navy",
+    "rank": "Machinist Mate",
+    "unit": "USS Parcutin AE 18"
+  },
+  {
+    "name": "CHARLES C. EVANS",
+    "branch": "U.S. Army Air Force",
+    "service": "1941–1945"
+  },
+  {
+    "name": "DALLAS C. HENSLER",
+    "branch": "U.S. Army",
+    "service": "1951–1953"
+  },
+  {
+    "name": "JOHN M. SIDDALL III",
+    "rank": "PVT",
+    "branch": "U.S. Army",
+    "unit": "ADA",
+    "service": "1984–1986"
+  },
+  {
+    "name": "JAMES D. CLOGSTON",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "LONNIE L. LEWIS",
+    "branch": "U.S. Army",
+    "service": "1964–1966",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "J. MICHAEL SIDDALL",
+    "rank": "SP4",
+    "unit": "Korea Signal Corp",
+    "branch": "U.S. Army",
+    "service": "1959–1961"
+  },
+  {
+    "name": "WILLIAM P. SMITH",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "service": "1943–1946",
+    "conflict": "WWII"
+  },
+  {
+    "name": "GALE T. HALL",
+    "branch": "U.S. Air Force",
+    "service": "1945–1947"
+  },
+  {
+    "name": "THOMAS E. SIDDALL",
+    "rank": "CPL",
+    "branch": "U.S. Army Eng.",
+    "service": "1950–1953"
+  },
+  {
+    "name": "RICHARD C. STAUCH",
+    "branch": "U.S. Army",
+    "conflict": "Korean",
+    "service": "1952–1954"
+  },
+  {
+    "name": "ERNEST G. BURKHART",
+    "unit": "546 Engineers",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "JOHN M. SCOTT",
+    "rank": "SP4",
+    "unit": "560th MP Co",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "IRA V. WHITE",
+    "branch": "U.S. Army",
+    "service": "1944–1946",
+    "conflict": "WWII"
+  },
+  {
+    "name": "EARL CARVER",
+    "rank": "PFC",
+    "branch": "U.S. Army",
+    "service": "1942–1945",
+    "conflict": "WWII"
+  },
+  {
+    "name": "WALTER J. SCOTT",
+    "rank": "PFC",
+    "unit": "803rd Batt",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "GEO. I. PRITCHETT JR.",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "THOMAS R. HESS",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "GARTH PETERSON",
+    "rank": "Major",
+    "unit": "Air Force Pilot",
+    "conflicts": ["WWII","Korea"]
+  },
+  {
+    "name": "CHARLES R. GRAYSON",
+    "branch": "U.S. Army",
+    "note": "Korean Vet",
+    "service": "1952–1959"
+  },
+  {
+    "name": "CLARK KINNEY",
+    "branch": "U.S. Navy",
+    "service": "1962–1964"
+  },
+  {
+    "name": "RAYMOND SCHILLING",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "CARL CARTE'",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "conflict": "WWII – Europe"
+  },
+  {
+    "name": "ORAL C. CAIN",
+    "rank": "PVT",
+    "branch": "U.S. Army",
+    "service": "1946–1947"
+  },
+  {
+    "name": "CLIFFORD H. SMITH",
+    "rank": "PVT",
+    "branch": "U.S. Army",
+    "service": "1944–1945",
+    "conflict": "WWII"
+  },
+  {
+    "name": "ROBERT F. LIGGETT",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "DALE G. HERB",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "JOHNNIE R. HOLLAND",
+    "note": "USS Wasp CVS-18",
+    "branch": "U.S. Navy",
+    "service": "1964–1967"
+  },
+  {
+    "name": "ALLAN H. JONES",
+    "rank": "CDR",
+    "note": "Navy Supply Corps",
+    "branch": "U.S. Navy",
+    "service": "1964–1984"
   }
 ]
