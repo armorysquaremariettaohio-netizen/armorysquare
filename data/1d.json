@@ -1,7 +1,379 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "ROBERT B. CARR SR.",
+    "branch": "U.S. Navy",
+    "service": "1945–1948"
+  },
+  {
+    "name": "SGT. DONALD R. GREGORY",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "service": "1968–1973"
+  },
+  {
+    "name": "PFC. GEORGE GARRETSON MAC ARTHUR",
+    "unit": "HQ Japan",
+    "branch": "U.S. Army",
+    "service": "1946–1947"
+  },
+  {
+    "name": "ST 853 S ANDY BURKHART JR.",
+    "unit": "823 Radio Mech",
+    "branch": "U.S. Navy",
+    "service": "1971–1977"
+  },
+  {
+    "name": "WILBERT L. SLOTTER",
+    "note": "Veteran Infantry Squad Leader"
+  },
+  {
+    "name": "HAROLD R. MILLER",
+    "branch": "U.S. Army",
+    "service": "1952–1955"
+  },
+  {
+    "name": "RAYMOND MANKINS SR.",
+    "rank": "SP-5",
+    "branch": "U.S. Army",
+    "service": "1959–1982"
+  },
+  {
+    "name": "CPL. CORDA R. REPSHER",
+    "unit": "Supply",
+    "branch": "U.S. Air Force",
+    "service": "2-28-1950 to 1-17-1951"
+  },
+  {
+    "name": "DONALD A. BURKHART",
+    "branch": "U.S. Navy",
+    "service": "11-14-1947",
+    "note": "Fireman 1st Class"
+  },
+  {
+    "name": "A1C OSCAR R. WILLIAMSON",
+    "branch": "U.S. Air Force",
+    "service": "1953–1955"
+  },
+  {
+    "name": "TSGT. DALE CLINE",
+    "branch": "U.S. Air Force",
+    "service": "1947–1967"
+  },
+  {
+    "name": "CPL. KARL M. APPLE",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "PVT. RAY W. CLINE",
+    "unit": "442 Air Police Sq AF",
+    "conflict": "Korea"
+  },
+  {
+    "name": "SGT. JOHN J. DUNLAP",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam",
+    "service": "1966–1970"
+  },
+  {
+    "name": "RICHARD C. BROWN",
+    "branch": "U.S. Navy",
+    "conflict": "WWII – Korean War"
+  },
+  {
+    "name": "LCPL CHARLES PLATT",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam",
+    "service": "1966–1967",
+    "note": "KIA"
+  },
+  {
+    "name": "GARY F. HALL",
+    "rank": "SP-5",
+    "branch": "U.S. Army",
+    "unit": "105 MM",
+    "conflict": "Vietnam",
+    "service": "1967–1969"
+  },
+  {
+    "name": "SP-4 CARMIN BOWMAN",
+    "branch": "U.S. Army",
+    "service": "1966–1968"
+  },
+  {
+    "name": "JOYNE WHITE JR.",
+    "branch": "U.S. Army",
+    "unit": "983rd Engr Bn",
+    "rank": "SSG",
+    "service": "1956–1965"
+  },
+  {
+    "name": "DANIEL D. JOHNSON",
+    "rank": "MSGT",
+    "branch": "U.S. Air Force",
+    "service": "1976–1998"
+  },
+  {
+    "name": "PRESSLEY M. WHITE",
+    "rank": "A1C",
+    "branch": "U.S. Air Force",
+    "service": "1950–1954"
+  },
+  {
+    "name": "A/C DONN E. WHITE",
+    "branch": "U.S. Air Force",
+    "service": "1975–1976"
+  },
+  {
+    "name": "FOYE L. MANUEL",
+    "branch": "U.S. Army",
+    "service": "1951–1964"
+  },
+  {
+    "name": "DAVID A. WHITE",
+    "branch": "U.S. Army",
+    "service": "1977–1983"
+  },
+  {
+    "name": "CECIL F. SARVER",
+    "branch": "U.S. Air Force",
+    "service": "1955–1956"
+  },
+  {
+    "name": "HARRY T. GAVIN",
+    "branch": "U.S. Army",
+    "unit": "Glider Infantry",
+    "service": "Oct 1940–Jun 1945"
+  },
+  {
+    "name": "CPL. HERBERT S. STOTLER",
+    "branch": "U.S. Army",
+    "conflict": "Korea"
+  },
+  {
+    "name": "PFC. DONALD W. SEMON",
+    "branch": "U.S. Army",
+    "service": "1945–1946"
+  },
+  {
+    "name": "TSGT. JACK D. SEMON",
+    "branch": "U.S. Air Force",
+    "note": "Active",
+    "service": "1953–1973"
+  },
+  {
+    "name": "SP-5 GARY L. COLE",
+    "branch": "U.S. Army",
+    "service": "1966–1968"
+  },
+  {
+    "name": "LYNN OWEN DUNLAP",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "ROY R. HUTCHISON",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1945–1946"
+  },
+  {
+    "name": "FLOYD D. BOWMAN",
+    "note": "Army Rifleman, WWII",
+    "service": "1941–1945"
+  },
+  {
+    "name": "DANIEL C. DOAN",
+    "branch": "National Guard",
+    "service": "1966–1971"
+  },
+  {
+    "name": "D. BERKELEY HYDE JR.",
+    "rank": "LCPL",
+    "branch": "U.S. Marine Corps",
+    "service": "1961–1965"
+  },
+  {
+    "name": "GARY H. BROWN",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "DONALD DENNSTOCK",
+    "branch": "U.S. Army",
+    "service": "1951–1953"
+  },
+  {
+    "name": "SPEC-5 LLAC JENKINS",
+    "branch": "U.S. Army Security",
+    "conflict": "Vietnam",
+    "service": "1962–1965"
+  },
+  {
+    "name": "SPC-4 J. CHRIS BROWN",
+    "unit": "82nd ABN 750th OJC",
+    "service": "1987–1992"
+  },
+  {
+    "name": "RONALD DENNISON",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "SGT. ADAM MARCUM",
+    "branch": "U.S. Army",
+    "conflict": "Korean War"
+  },
+  {
+    "name": "T-4 JAMES K. PIATT",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "SSGT LYLE E. BEEBE",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "PVT. EDWARD M. CLINE",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "Sep 1918–Dec 1918"
+  },
+  {
+    "name": "LARRY L. KOON",
+    "branch": "U.S. Navy",
+    "service": "1963–1967"
+  },
+  {
+    "name": "RAYMOND D. QUIMBY",
+    "unit": "Co H, 33rd Inf.",
+    "rank": "SSGT",
+    "conflict": "WWII",
+    "service": "1941–1945"
+  },
+  {
+    "name": "ROBERT L. HOOPER II",
+    "branch": "U.S. Army",
+    "service": "1971–1994"
+  },
+  {
+    "name": "DAVID B. PFAFF",
+    "rank": "1st LT",
+    "branch": "U.S. Army",
+    "service": "2-1953 to 3-1955"
+  },
+  {
+    "name": "MSG-8 RALPH BOWMAN",
+    "branch": "U.S. Army",
+    "service": "1958–1978"
+  },
+  {
+    "name": "JOHN M. RICHARDSON",
+    "conflict": "World War II",
+    "service": "5-5-1922 to 3-4-1990"
+  },
+  {
+    "name": "S2C GEORGE E. HAWKINS",
+    "branch": "U.S. Navy",
+    "unit": "USS Lipan ATF-85"
+  },
+  {
+    "name": "DONALD ALLEN DAVIS",
+    "branch": "U.S. Navy",
+    "conflict": "World War II"
+  },
+  {
+    "name": "RICHARD M. DAVIS",
+    "unit": "Infantry Tec/4",
+    "conflict": "World War II"
+  },
+  {
+    "name": "LTC JOHN C. WILLIAMS",
+    "branch": "U.S. Army",
+    "unit": "Artillery",
+    "service": "1958–1988",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "SP-4 GARY L. WARD",
+    "unit": "82nd Airborne Div",
+    "service": "1960–1963"
+  },
+  {
+    "name": "DARL SILVUS",
+    "branch": "U.S. Army",
+    "service": "1961–1963"
+  },
+  {
+    "name": "SGT. DAMAN HUCK",
+    "branch": "U.S. Air Force",
+    "service": "1981–1985"
+  },
+  {
+    "name": "RAY D. OFFENBERGER",
+    "unit": "101st Airborne Div",
+    "conflict": "Vietnam",
+    "service": "Jul 1968–Feb 1970"
+  },
+  {
+    "name": "BILL DANA",
+    "note": "Amphibious MM 2/C, WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "A1C BOB G. HENDRIX",
+    "branch": "U.S. Air Force",
+    "service": "1960–1965"
+  },
+  {
+    "name": "LEROY HENDRIX",
+    "rank": "SP-5",
+    "branch": "U.S. Army",
+    "service": "1966–1967"
+  },
+  {
+    "name": "RM3 FRANK L. WEBER",
+    "branch": "U.S. Navy",
+    "conflict": "Vietnam",
+    "service": "1967–1971"
+  },
+  {
+    "name": "CPL. FRANK PFAFF WEBER",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "LOYC. HOOPER",
+    "branch": "U.S. Navy",
+    "service": "1949–1953"
+  },
+  {
+    "name": "ROBERT D. BEDILION",
+    "branch": "U.S. Army",
+    "service": "1959–1961"
+  },
+  {
+    "name": "PFC WALTER DOBBINS",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "ARWOOD N. DAVIS",
+    "unit": "Army Engineers",
+    "conflict": "World War I"
+  },
+  {
+    "name": "SP-4 NORMAN D. PAPE",
+    "unit": "XVIII Airborne Corps",
+    "service": "1961–1963"
+  },
+  {
+    "name": "SGT. JOHN H. HUCK SR.",
+    "branch": "U.S. Army Air Corps",
+    "unit": "B-17, Europe",
+    "conflict": "WWII"
   }
 ]
