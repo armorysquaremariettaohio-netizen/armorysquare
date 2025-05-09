@@ -1,7 +1,74 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "PFC. KENNETH NEWTON",
+    "branch": "U.S. ARMY",
+    "status": "POW",
+    "years": "1942–1945"
+  },
+  {
+    "name": "SGT. CLIFFORD HICKMAN",
+    "branch": "U.S. ARMY",
+    "status": "POW",
+    "years": "1942–1945"
+  },
+  {
+    "name": "SSGT. EUGENE PARKER",
+    "branch": "ARMY AIR CORP",
+    "status": "POW",
+    "years": "MAR. 1943 – OCT. 1945"
+  },
+  {
+    "name": "PFC. GIFFORD DOXSEE",
+    "branch": "U.S. ARMY",
+    "status": "POW",
+    "years": "1943–1945"
+  },
+  {
+    "name": "SGT. FRANK H. TRAUTMAN",
+    "branch": "U.S. ARMY",
+    "status": "POW",
+    "years": "MAR. 1942 – NOV. 1945"
+  },
+  {
+    "name": "1LT. GEORGE [LAST NAME NOT VISIBLE]",
+    "branch": "U.S. ARMY AIR [REMAINDER NOT VISIBLE]",
+    "status": null,
+    "years": "1942–1945"
+  },
+  {
+    "name": "PFC. MICHAEL DINDOIS",
+    "branch": "U.S. ARMY",
+    "status": "POW",
+    "years": "1942–1945"
+  },
+  {
+    "name": "S/SGT. RAY MORRIS",
+    "branch": "U.S. ARMY",
+    "status": null,
+    "years": "1942–1945"
+  },
+  {
+    "name": "T/SGT. HERMAN ZERGER",
+    "branch": "CO. I 141ST INFANTRY",
+    "status": null,
+    "years": "1943–1945"
+  },
+  {
+    "name": "1ST. LT. JAMES P. FEERICK",
+    "branch": "U.S. ARMY AIR CORPS",
+    "status": "POW",
+    "years": "1941 – 1945"
+  },
+  {
+    "name": "1LT. GEORGE R. KLARE",
+    "branch": "U.S. ARMY AIR CORP",
+    "status": "POW",
+    "years": "1942 – 1945"
+  },
+  {
+    "name": "CPO1 EDWARD CHANDLER",
+    "branch": "U.S. NAVY AMPHIBIOUS FORCE",
+    "status": null,
+    "years": "1942 – 1946"
   }
 ]
