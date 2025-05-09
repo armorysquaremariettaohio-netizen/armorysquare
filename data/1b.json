@@ -1,7 +1,462 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "CARL L. HAREWOOD",
+    "note": "PFC",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "LLOYD BROEDEL",
+    "branch": "U.S. Navy",
+    "service": "1941–1946",
+    "note": "CMDR"
+  },
+  {
+    "name": "BRUCE C. SHOVER",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "note": "PFC"
+  },
+  {
+    "name": "RAYMOND D. LEONARD",
+    "branch": "U.S. Army",
+    "service": "1963–1966",
+    "note": "SP4"
+  },
+  {
+    "name": "JOHN RIGG",
+    "branch": "U.S. Air Force",
+    "conflict": "Vietnam, Grenada, Desert Shield/Storm",
+    "note": "MSGT"
+  },
+  {
+    "name": "GLEN S. SWANEY",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1945–1946"
+  },
+  {
+    "name": "DENNIS RAPP",
+    "branch": "U.S. Army",
+    "unit": "191 Bounty Hunters, PLT Army VN",
+    "service": "1969–1970",
+    "note": "SP5"
+  },
+  {
+    "name": "JOHN A. WATTS",
+    "branch": "U.S. Army",
+    "service": "1942–1945",
+    "note": "CPL"
+  },
+  {
+    "name": "DONALD L. SWANEY",
+    "branch": "U.S. Navy",
+    "conflict": "Korea",
+    "service": "1951–1955"
+  },
+  {
+    "name": "MELVIN D. CHAPMAN",
+    "branch": "U.S. Army",
+    "unit": "45th Infantry Div",
+    "conflict": "WWII"
+  },
+  {
+    "name": "RONALD G. WATTS",
+    "branch": "U.S. Army",
+    "service": "1967–1970",
+    "note": "SSGT"
+  },
+  {
+    "name": "GERALD T. SWANEY",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "JOHN W. ARCHER",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "MATT B. MEGLIO",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Operation Iraqi Freedom",
+    "note": "SGT"
+  },
+  {
+    "name": "DELBERTO SWANEY",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1946",
+    "note": "SGT"
+  },
+  {
+    "name": "HUBERT J. DIAR",
+    "branch": "U.S. Army",
+    "service": "1943–1944",
+    "note": "SGT"
+  },
+  {
+    "name": "JOHN A. POLING",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "unit": "USS Randolph"
+  },
+  {
+    "name": "PAUL E. BOGGS",
+    "branch": "U.S. Air Force",
+    "service": "1970–1974",
+    "note": "SGT"
+  },
+  {
+    "name": "PATRICK J. DIAR",
+    "branch": "U.S. Army",
+    "service": "1953–1955",
+    "note": "CPL"
+  },
+  {
+    "name": "N. LEE PETERSON",
+    "branch": "U.S. Air Force",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "PAUL BOGGS",
+    "branch": "U.S. Army",
+    "unit": "Communications",
+    "note": "PVT 1"
+  },
+  {
+    "name": "VIRGIL RHODES",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "11-6-43 to 2-8-46",
+    "note": "TEC5"
+  },
+  {
+    "name": "N. SCOT BRODIE",
+    "branch": "U.S. Marine Corps & U.S. Army"
+  },
+  {
+    "name": "WILLIAM TERLOSKY",
+    "branch": "U.S. Army",
+    "service": "1967–1968",
+    "note": "SP4"
+  },
+  {
+    "name": "JOHN RHODES",
+    "note": "Revolutionary War Jan 1777–June 1783",
+    "rank": "CPL"
+  },
+  {
+    "name": "DUANE ROSS BROWN",
+    "branch": "U.S. Army",
+    "unit": "Btry A 753 AAA Gun Bn",
+    "rank": "Corporal"
+  },
+  {
+    "name": "ALBERT TERLOSKY",
+    "branch": "U.S. Air Force",
+    "service": "1961–1973",
+    "note": "S/SGT"
+  },
+  {
+    "name": "FLINT A. CHUTES",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "DANNY W. THOMPSON",
+    "conflict": "Vietnam",
+    "service": "1966–1967"
+  },
+  {
+    "name": "CHARLES L. STRECKER",
+    "branch": "U.S. Army",
+    "unit": "Spec Eng",
+    "service": "1944–1946",
+    "note": "T/4"
+  },
+  {
+    "name": "ROBERT HARRY DE JR.",
+    "branch": "U.S. Army",
+    "service": "1970–1971",
+    "note": "SGT"
+  },
+  {
+    "name": "CALVIN G. DYE",
+    "branch": "U.S. Army Air Corps",
+    "service": "1944–1946",
+    "note": "PFC"
+  },
+  {
+    "name": "ELWYN BARTLETT JR",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1949–1952",
+    "note": "SGT"
+  },
+  {
+    "name": "CLARENCE W. DYE",
+    "branch": "U.S. Army",
+    "unit": "16 Co 158 Depot Brig",
+    "conflict": "WWI",
+    "service": "Jan. 1897–May 1954",
+    "rank": "PVT"
+  },
+  {
+    "name": "ROBERT W. DOBBINS",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "GERALD THOMAS",
+    "branch": "U.S. Army",
+    "service": "1960–1963",
+    "note": "SGT"
+  },
+  {
+    "name": "DAVID A. REED",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "HARRY M. DYE",
+    "branch": "U.S. Army",
+    "unit": "Cook",
+    "conflict": "WWI",
+    "service": "1917–1919",
+    "note": "SGT"
+  },
+  {
+    "name": "ROYCE TOWNSEND",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "TIMOTHY C. TILTON",
+    "branch": "U.S. Air Force",
+    "service": "1971–1975"
+  },
+  {
+    "name": "JONATHAN W. REED",
+    "branch": "U.S. Marine Corps",
+    "service": "1997–2004"
+  },
+  {
+    "name": "ROGER LEE DYE",
+    "branch": "U.S. Marine Corps",
+    "unit": "F. Co. 26th Marines, Khe Sanh",
+    "service": "1967–1968",
+    "rank": "L/CPL"
+  },
+  {
+    "name": "IVEN TOWNSEND",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "GENE ALLEN SCHOB",
+    "branch": "U.S. Air Force",
+    "service": "1966–1969",
+    "note": "SGT"
+  },
+  {
+    "name": "DOUG SEELEY",
+    "branch": "U.S. Air Force",
+    "conflict": "Vietnam",
+    "note": "CAPT MIA"
+  },
+  {
+    "name": "ROBERT ARCHER",
+    "branch": "U.S. Army",
+    "unit": "Engineer",
+    "conflict": "Vietnam",
+    "service": "1969–1970",
+    "rank": "LTC"
+  },
+  {
+    "name": "DANNY L. HILLS",
+    "branch": "Army National Guard",
+    "service": "May 1981–May 1987",
+    "note": "SSG"
+  },
+  {
+    "name": "RAYMOND H. HIENER",
+    "branch": "U.S. Navy",
+    "unit": "Signalman 1st Cl",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "JAMES SLATE",
+    "branch": "U.S. Navy",
+    "note": "RM 1st C",
+    "service": "1942–1945"
+  },
+  {
+    "name": "LOUIS W. HESS",
+    "branch": "U.S. Navy",
+    "note": "MR 1, Ret. WWII, Korea, Vietnam"
+  },
+  {
+    "name": "DEAN F. FLEMING",
+    "branch": "U.S. Air Force",
+    "rank": "Lt. Col.",
+    "note": "Jet Fighter Pilot"
+  },
+  {
+    "name": "JESSE D. HALLETT",
+    "branch": "U.S. Army",
+    "service": "1942–1946"
+  },
+  {
+    "name": "FRED L. TILTON",
+    "branch": "U.S. Army Air Corps",
+    "service": "1942–1946"
+  },
+  {
+    "name": "WILLIAM A. HARRIS",
+    "branch": "U.S. Air Force",
+    "service": "1950–1954"
+  },
+  {
+    "name": "GEORGE J. DYE",
+    "branch": "U.S. Air Force",
+    "service": "1953–1957",
+    "note": "Korean Conflict"
+  },
+  {
+    "name": "DONALD A. TOWNSEND",
+    "branch": "U.S. Air Force",
+    "service": "1951–1955"
+  },
+  {
+    "name": "ROBERT T. SINNETT JR.",
+    "branch": "U.S. Army",
+    "note": "Chaplain"
+  },
+  {
+    "name": "JAMES BONDURANT",
+    "branch": "U.S. Army Air Corps",
+    "service": "1945–1946",
+    "note": "SGT"
+  },
+  {
+    "name": "ROBERT H. DYE",
+    "branch": "U.S. Marines",
+    "service": "1952–1958",
+    "note": "S/SGT, Korean Conflict"
+  },
+  {
+    "name": "RON SINNETT SR.",
+    "branch": "U.S. Air Force",
+    "service": "1949–1952"
+  },
+  {
+    "name": "DARRELL W. DEEM",
+    "branch": "U.S. Marine Corps / U.S. Army",
+    "conflict": "WWII, Korea"
+  },
+  {
+    "name": "V. D. JIGGS COCHRAN",
+    "branch": "U.S. Army",
+    "unit": "8th Inf. Div.",
+    "conflict": "WWII",
+    "rank": "PVT"
+  },
+  {
+    "name": "LEE W. GREEN",
+    "branch": "U.S. Army",
+    "service": "1951–1953",
+    "rank": "CPL"
+  },
+  {
+    "name": "CHUCK COCHRAN",
+    "branch": "U.S. Navy",
+    "unit": "RM3",
+    "service": "1962–1966"
+  },
+  {
+    "name": "GARY W. COCHRAN",
+    "branch": "U.S. Navy",
+    "unit": "Seabees",
+    "service": "1958–1962",
+    "rank": "E-5"
+  },
+  {
+    "name": "ELWOOD HOSSMAN",
+    "branch": "U.S. Navy",
+    "unit": "QM 1/C WWII PT Boat 250"
+  },
+  {
+    "name": "M. E. (CASEY) JONES",
+    "branch": "U.S. Navy",
+    "service": "1950–1953",
+    "conflict": "Korea"
+  },
+  {
+    "name": "GAIL TOWNSEND",
+    "branch": "U.S. Air Force",
+    "service": "1959–1963"
+  },
+  {
+    "name": "GARNOLD TOWNSEND",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1945–1946"
+  },
+  {
+    "name": "WILLIAM H. HAAS",
+    "branch": "U.S. Army",
+    "unit": "Pacific Signal Corps",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MICHAEL A. CORKRAN",
+    "branch": "U.S. Air Force",
+    "service": "1969–1973",
+    "rank": "SGT"
+  },
+  {
+    "name": "WILBERT \"WEB\" WARD",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "MIKE SMITH",
+    "branch": "U.S. Army National Guard",
+    "service": "1987–1993",
+    "rank": "SP4"
+  },
+  {
+    "name": "O. DEAN ROUGH",
+    "branch": "U.S. Navy",
+    "rank": "MOMM 1st Class",
+    "service": "1940–1946"
+  },
+  {
+    "name": "TOM SMITH",
+    "branch": "U.S. Army",
+    "service": "1953–1955",
+    "rank": "SP4"
+  },
+  {
+    "name": "DALE WORSTELL",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "1918–1919"
+  },
+  {
+    "name": "HOWARD E. WRIGHT JR.",
+    "branch": "U.S. Navy",
+    "rank": "RM1",
+    "service": "1948–1957",
+    "conflict": "Korea"
+  },
+  {
+    "name": "ROBERT E. LEE JR.",
+    "branch": "U.S. Army",
+    "unit": "41st Div.",
+    "service": "1941–1945"
   }
 ]
