@@ -128,7 +128,7 @@
     "name": "VIRGIL RHODES",
     "branch": "U.S. Army",
     "conflict": "WWII",
-    "service": "11-6-43 to 2-8-46",
+    "service": "1943–1946",
     "note": "TEC5"
   },
   {
@@ -143,8 +143,8 @@
   },
   {
     "name": "JOHN RHODES",
-    "note": "Revolutionary War Jan 1777–June 1783",
-    "rank": "CPL"
+    "rank": "CPL",
+    "note": "Revolutionary War Jan 1777–June 1783"
   },
   {
     "name": "DUANE ROSS BROWN",
@@ -300,8 +300,8 @@
   },
   {
     "name": "DEAN F. FLEMING",
-    "branch": "U.S. Air Force",
     "rank": "Lt. Col.",
+    "branch": "U.S. Air Force",
     "note": "Jet Fighter Pilot"
   },
   {
@@ -460,3 +460,4 @@
     "service": "1941–1945"
   }
 ]
+
