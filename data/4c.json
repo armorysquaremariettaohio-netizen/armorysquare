@@ -1,7 +1,420 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "HERMAN E. THOMAS",
+    "branch": "U.S. Navy",
+    "service": "1951–1955"
+  },
+  {
+    "name": "LT. CHRIS RUTHERFORD",
+    "branch": "U.S. Army",
+    "conflict": "Iraqi Freedom",
+    "note": "KIA",
+    "service": "2005–2007"
+  },
+  {
+    "name": "WALLACE BRUNTON",
+    "branch": "U.S. Navy",
+    "unit": "USS Callaghan DD792",
+    "conflict": "WWII"
+  },
+  {
+    "name": "DONALD RAY STEWART",
+    "branch": "U.S. Marine Corps",
+    "rank": "SGT",
+    "service": "1964–1967"
+  },
+  {
+    "name": "PHILIP C. ACKER",
+    "branch": "U.S. Army",
+    "conflict": "WWI"
+  },
+  {
+    "name": "GARY E. BENNETT",
+    "branch": "U.S. Army",
+    "service": "1975–1983"
+  },
+  {
+    "name": "T/5 PAUL E. WILLIAMS",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "RANKIN G. BRUTTON",
+    "branch": "U.S. Navy",
+    "rank": "EOM3",
+    "unit": "USS Fletcher"
+  },
+  {
+    "name": "SSGT ROBERT C. MURRAY",
+    "branch": "U.S. Army",
+    "unit": "1751 Engineer Co.",
+    "conflict": "WWII",
+    "note": "KIA Nov. 10, 1945"
+  },
+  {
+    "name": "RALPH L. CONTRILL",
+    "branch": "U.S. Navy",
+    "rank": "Seaman 1/C",
+    "conflict": "WWII",
+    "note": "KIA, 1942"
+  },
+  {
+    "name": "DONALD V. MURRAY",
+    "branch": "U.S. Marines",
+    "rank": "PFC",
+    "conflict": "Korea",
+    "note": "KIA Nov. 1950"
+  },
+  {
+    "name": "JOSEPH S. BANFIELD",
+    "branch": "U.S. Army",
+    "conflict": "Operation Iraqi Freedom"
+  },
+  {
+    "name": "CPL ROBERT BOLEY",
+    "branch": "U.S. Marines",
+    "service": "2000–2004",
+    "conflict": "Operation Iraqi Freedom"
+  },
+  {
+    "name": "CMDRE ABE WHIPPLE",
+    "branch": "U.S. Navy",
+    "service": "1775–1783",
+    "note": "Revolutionary War"
+  },
+  {
+    "name": "KENNETH C. TISSOT",
+    "branch": "U.S. Army",
+    "unit": "90th Infantry Div.",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "RM2 RICHARD SAMS",
+    "branch": "U.S. Navy",
+    "unit": "LST-177",
+    "service": "1965–1974"
+  },
+  {
+    "name": "BERNARD ROUSH",
+    "branch": "U.S. Navy",
+    "theater": "Pacific"
+  },
+  {
+    "name": "ELMER J. BARTH",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1942–1946"
+  },
+  {
+    "name": "BUZZIE C. FRIEND",
+    "branch": "U.S. Air Force",
+    "service": "1942–1966",
+    "conflict": "WWII"
+  },
+  {
+    "name": "SPC SCOTT E. ALDEN",
+    "branch": "U.S. Army",
+    "unit": "Alpha Co., 96 ASB"
+  },
+  {
+    "name": "PAUL G. FORSHEY JR.",
+    "branch": "U.S. Army",
+    "rank": "Lieutenant Colonel",
+    "conflict": "Operation Enduring Freedom"
+  },
+  {
+    "name": "TYLER P. CUNNINGHAM",
+    "branch": "U.S. Marines"
+  },
+  {
+    "name": "REGIS EARL MOLLOY",
+    "branch": "U.S. Army",
+    "rank": "SP5",
+    "note": "Track Vehicle Mechanic",
+    "service": "1954–1956"
+  },
+  {
+    "name": "SSGT FLOYD E. BARTH",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "SHERWIN W. HILL",
+    "branch": "U.S. Navy",
+    "unit": "USS Neptune ARC2",
+    "service": "1970–1976"
+  },
+  {
+    "name": "JOSEPH D. PARLIN",
+    "branch": "U.S. Navy",
+    "note": "Communicationman"
+  },
+  {
+    "name": "WILBERT MECKBACKER",
+    "branch": "U.S. Army",
+    "rank": "TEC5",
+    "conflicts": ["WWII","Korea"],
+    "service": "1944–1953",
+    "note": "Parkman"
+  },
+  {
+    "name": "PVT HARRY E. BARTH",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Iwo Jima",
+    "note": "KIA Feb. 21, 1945"
+  },
+  {
+    "name": "SGT DUANE E. BARTH",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1941–1945"
+  },
+  {
+    "name": "CPL HOWARD S. PERRY",
+    "branch": "U.S. Army",
+    "unit": "Cannon Co., 23rd Inf.",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SGT TED O. PARLIN",
+    "branch": "U.S. Air Force",
+    "conflict": "Korea",
+    "service": "1929–2008"
+  },
+  {
+    "name": "JOE R. STRAHLER",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "SEAMAN RAY M. PARKS",
+    "branch": "U.S. Navy",
+    "conflict": "WWI"
+  },
+  {
+    "name": "JOE R. STAHLER",
+    "branch": "U.S. Army",
+    "service": "1944–1945"
+  },
+  {
+    "name": "JERRY L. NEADER",
+    "branch": "U.S. Air Force",
+    "service": "1955–1958"
+  },
+  {
+    "name": "B.P. “BERNIE” WERNER",
+    "branch": "U.S. Marines",
+    "service": "1942–1946"
+  },
+  {
+    "name": "FRANK B. AMRINE JR.",
+    "branch": "U.S. Navy",
+    "rank": "MAJ",
+    "unit": "504 AAA Gun Bn",
+    "conflict": "WWII PAC THR",
+    "service": "1942–1945"
+  },
+  {
+    "name": "JACK R. MALONE",
+    "branch": "U.S. Navy",
+    "rank": "SSM2C",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MICHAEL R. AMRINE",
+    "branch": "U.S. Army",
+    "rank": "CPT",
+    "unit": "4-64 Armor, 3rd ID",
+    "service": "1997–2002"
+  },
+  {
+    "name": "GREGORY A. MALONE",
+    "branch": "U.S. Navy",
+    "rank": "EM3",
+    "service": "1995–1999"
+  },
+  {
+    "name": "FRANKLIN E. ONDESTER",
+    "branch": "U.S. Army Reserve",
+    "service": "1970–1976"
+  },
+  {
+    "name": "PVT ROE MALONE",
+    "branch": "U.S. Army",
+    "conflict": "WWI Infantry",
+    "service": "1918–1919"
+  },
+  {
+    "name": "LEONARD D. STARKEY",
+    "branch": "U.S. Army",
+    "rank": "SGT",
+    "conflict": "Korea",
+    "service": "1947–1951"
+  },
+  {
+    "name": "RAYFIELD LANE",
+    "branch": "U.S. Army",
+    "service": "1920–1923"
+  },
+  {
+    "name": "CLARENCE O. STARKEY",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "1918–1919"
+  },
+  {
+    "name": "JERRY A. LAREW SR.",
+    "branch": "U.S. Army",
+    "unit": "Combat Corps",
+    "rank": "SP5 E-4"
+  },
+  {
+    "name": "MARK D. WECKBACHER",
+    "branch": "U.S. Army",
+    "rank": "CPL",
+    "conflict": "Korea",
+    "service": "1952–1953"
+  },
+  {
+    "name": "ROGER L. PATTERSON",
+    "branch": "U.S. Army",
+    "rank": "SP4",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "C. GLEN REESE JR.",
+    "branch": "U.S. Navy",
+    "rank": "Airman",
+    "service": "1947–1952"
+  },
+  {
+    "name": "JOHN W. COCHRAN",
+    "branch": "U.S. Navy",
+    "service": "1970–1976"
+  },
+  {
+    "name": "STEVEN C. ULLMAN",
+    "branch": "U.S. Army",
+    "service": "1966–1969"
+  },
+  {
+    "name": "SSGT NED O. PARLIN",
+    "branch": "U.S. Air Force",
+    "conflict": "Korea",
+    "service": "1948–1952"
+  },
+  {
+    "name": "EVERETT F. JETT",
+    "branch": "U.S. Navy",
+    "note": "Medical Technician",
+    "service": "1942–1945"
+  },
+  {
+    "name": "RAYMOND A. ROBINSON",
+    "branch": "U.S. Marine Corps",
+    "rank": "Stfs Sgt",
+    "conflict": "Korea",
+    "service": "1948–1952"
+  },
+  {
+    "name": "BENJAMIN MCCALL",
+    "branch": "Union Army",
+    "service": "1862–1865"
+  },
+  {
+    "name": "CHARLES D. BARTH",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "SSGT DANA BUTTS",
+    "branch": "U.S. Air Force",
+    "service": "1951–1955"
+  },
+  {
+    "name": "SGT CARL C. BURNS",
+    "branch": "U.S. Army Air Forces",
+    "service": "1943–1946"
+  },
+  {
+    "name": "JAMES MCCALL",
+    "branch": "Union Army",
+    "service": "1861–1864"
+  },
+  {
+    "name": "VIRGIL R. BARTH",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "PFC CARL BUD HILL",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "KIA"
+  },
+  {
+    "name": "LTJG RICHARD HILLE",
+    "branch": "U.S. Navy",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SGT TED O. PARLIN",
+    "branch": "U.S. Air Force",
+    "conflict": "Korea"
+  },
+  {
+    "name": "SEAMAN RAY K. PRICE",
+    "branch": "U.S. Navy",
+    "conflict": "WWI"
+  },
+  {
+    "name": "JERRY L. LEADER",
+    "branch": "U.S. Air Force",
+    "service": "1954–1958"
+  },
+  {
+    "name": "CHARLES H. BUTTS",
+    "branch": "U.S. Air Force",
+    "service": "1950–1953"
+  },
+  {
+    "name": "THOMAS C. NEADER",
+    "branch": "U.S. Air Force",
+    "service": "1956–1960"
+  },
+  {
+    "name": "RAYMOND PAPE",
+    "branch": "U.S. Army",
+    "rank": "PFC",
+    "service": "1945–1946"
+  },
+  {
+    "name": "PAUL BEARDMORE",
+    "branch": "U.S. Air Force",
+    "service": "1955–1959"
+  },
+  {
+    "name": "CWO-4 JOHN VIZZUTO",
+    "branch": "U.S. Marine Corps Reserve",
+    "service": "1960–1968, 1973–1989"
+  },
+  {
+    "name": "JAMES G. ARNOLD",
+    "branch": "U.S. Navy",
+    "rank": "CTO2",
+    "conflict": "Vietnam",
+    "service": "1967–1970"
+  },
+  {
+    "name": "TODD MORROW",
+    "conflict": "Desert Storm",
+    "service": "1991–1992"
+  },
+  {
+    "name": "ARNOLD MM2/C",
+    "branch": "U.S. Naval Reserve"
   }
 ]
