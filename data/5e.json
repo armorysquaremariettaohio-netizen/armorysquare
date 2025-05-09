@@ -1,7 +1,440 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "WILLIAM J. DENNIS",
+    "conflict": "WWI",
+    "service": "1918–1919"
+  },
+  {
+    "name": "DENZILD BAILEY",
+    "rank": "SP3",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1953–1955"
+  },
+  {
+    "name": "MSG. VIRGIL W. YERMAN",
+    "branch": ["U.S. Army", "USAF"],
+    "service": ["1945–1948", "1948–1965"],
+    "note": "Retired"
+  },
+  {
+    "name": "CARL CARPENTER JR.",
+    "branch": "USAF",
+    "note": "Crew Chief",
+    "service": "1981–1984"
+  },
+  {
+    "name": "SGT. CHARLES WHALEN JR.",
+    "branch": "U.S. Army",
+    "conflict": ["OIF", "OEF"]
+  },
+  {
+    "name": "LAWRENCE E. HURST",
+    "branch": "U.S. Army",
+    "unit": "101st Airborne Div."
+  },
+  {
+    "name": "GARY L. OFFENBERGER",
+    "branch": "U.S. Army",
+    "unit": "Tank Corps",
+    "service": "1955–1982"
+  },
+  {
+    "name": "SFC. WARDEN HOWARD",
+    "branch": "U.S. Army",
+    "conflict": ["WWII", "Korea"]
+  },
+  {
+    "name": "MICHAEL LEE HURST",
+    "branch": ["USMC", "U.S. Army"],
+    "service": ["1996–2000", "2000–Present"]
+  },
+  {
+    "name": "CARL CARPENTER SR.",
+    "branch": "U.S. Army Artillery",
+    "service": "1952–1955",
+    "conflict": "Korea"
+  },
+  {
+    "name": "DARREL E. LEISTER",
+    "branch": "USAF",
+    "service": "1968–1972"
+  },
+  {
+    "name": "SMSGT. JAMES M. LOHR",
+    "branch": ["U.S. Army", "U.S. Air Force"],
+    "service": "1966–1994"
+  },
+  {
+    "name": "MSGT. RALPH C. SMITH",
+    "unit": "293rd Engr. C. Bat.",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "theater": "Europe"
+  },
+  {
+    "name": "CPL. JAMES W. SHAWD",
+    "branch": "U.S. Army",
+    "service": "1952–1954"
+  },
+  {
+    "name": "CPL. PAUL L. VAN WEY",
+    "branch": "U.S. Marine Corps",
+    "service": "1945–1947"
+  },
+  {
+    "name": "SP4 KEN THRASHER",
+    "branch": "U.S. Army",
+    "service": "1967–1969"
+  },
+  {
+    "name": "NE “SARGE” VERNHAM",
+    "branch": "U.S. Army",
+    "unit": "Co E, 112 AMN. Train",
+    "service": "1916–1919"
+  },
+  {
+    "name": "BERKLEY BURL PERRY",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "PVT. JOHN D. RYAN",
+    "branch": "U.S. Army",
+    "unit": "Co. H, 4th Inf., 3rd Army",
+    "conflict": "WWII",
+    "theater": "Safer, Germany"
+  },
+  {
+    "name": "WILLIAM E. CARVER",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "BURL DUANE PERRY",
+    "branch": "U.S. Army",
+    "service": "1972"
+  },
+  {
+    "name": "THOMAS O. RYAN",
+    "conflict": "WWII",
+    "unit": "99th Div. Inf.",
+    "note": "POW, Battle of the Bulge"
+  },
+  {
+    "name": "SGT. TOMMIE L. DAVIS",
+    "branch": "U.S. Army",
+    "service": "1941–1945"
+  },
+  {
+    "name": "PAUL E. RYAN",
+    "rank": "SP4",
+    "unit": "A Btry., 527 Art.",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "CHARLES W. EMERSON",
+    "rank": "PFC",
+    "conflict": "WWI",
+    "service": "1917–1919"
+  },
+  {
+    "name": "W. SPENCER KLINE",
+    "conflict": "WWII",
+    "branch": "U.S. Navy",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SPEC4 DOUGLAS LOVE",
+    "branch": "U.S. Army National Guard",
+    "service": "1971–1977"
+  },
+  {
+    "name": "CPL. TONY E. WITTEKIND",
+    "branch": "U.S. Army",
+    "service": "1988–1993"
+  },
+  {
+    "name": "WILLIAM S. KLINE JR.",
+    "branch": "USAF",
+    "note": "Interpreter",
+    "conflict": "Korean War",
+    "service": "1950–1955"
+  },
+  {
+    "name": "FP1. ROBERT EMERICK",
+    "branch": "U.S. Navy",
+    "service": "1952–1956"
+  },
+  {
+    "name": "ORVAL W. “JACK” MILES",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "service": "1944–1946"
+  },
+  {
+    "name": "BG JOSEPH HEINRICH",
+    "branch": "U.S. Army",
+    "service": "1928–1963",
+    "conflicts": ["WWII", "Korea", "Vietnam"]
+  },
+  {
+    "name": "VIRGINIA M. BRANSON",
+    "unit": "WAVES",
+    "branch": "U.S. Navy",
+    "service": "1944–1945"
+  },
+  {
+    "name": "CLIFFORD D. CARPENTER",
+    "rank": "PFC",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1952–1954"
+  },
+  {
+    "name": "PFC. RALPH LONG",
+    "branch": "U.S. Army",
+    "service": "1951–1953"
+  },
+  {
+    "name": "SSGT. GARY D. NUTTER",
+    "branch": ["USAF", "Ohio ANG"],
+    "service": "1938–2000"
+  },
+  {
+    "name": "LARRY H. GOODMAN",
+    "rank": "LCPL",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "CHARLES L. O’BRIEN",
+    "branch": "U.S. Air Force",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SGT. RANDY TROTTER",
+    "branch": "U.S. Air Force",
+    "service": "1972–1976"
+  },
+  {
+    "name": "CAPT. KEL OTSOT",
+    "note": "B-24 Pilot",
+    "conflict": "WWII",
+    "unit": "13th AAF, South Pacific"
+  },
+  {
+    "name": "A1C WILLIAM D. O’GRADY",
+    "branch": "U.S. Air Force",
+    "service": "1963–1969"
+  },
+  {
+    "name": "DENNIS TROTTER",
+    "note": "B-17, 15th Air Force, 97th Bomb Group",
+    "conflict": "WWII"
+  },
+  {
+    "name": "HAROLD W. MCANIN",
+    "unit": ["0811 Artillery", "0311 Rifleman"],
+    "branch": "USMC",
+    "service": "1974"
+  },
+  {
+    "name": "SP5 TONY C. BOOTHBY",
+    "conflict": "Vietnam",
+    "service": "1968–1974"
+  },
+  {
+    "name": "CALVIN MENDENHALL",
+    "rank": "LT. JG",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "HA R.W. (BOB) MCCAIN",
+    "unit": "USS Strong DD-758",
+    "branch": "U.S. Navy",
+    "service": "1947–1950"
+  },
+  {
+    "name": "SP3 HAROLD R. TAYLOR",
+    "branch": "U.S. Army",
+    "service": "1954–1956"
+  },
+  {
+    "name": "GUY K. MENDENHALL",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "1918–1919"
+  },
+  {
+    "name": "JERRY L. BOOTHBY",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "service": "Sep 1977–Jul 1984"
+  },
+  {
+    "name": "JOHN W. HALL",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "1917–1919"
+  },
+  {
+    "name": "PFC. CHARLES O. CARPENTER",
+    "conflict": "WWI",
+    "service": "1918"
+  },
+  {
+    "name": "PFC. FRANK WATERMAN",
+    "note": "Glider Pilot",
+    "service": "1942–1944"
+  },
+  {
+    "name": "JOHN W. HALL JR.",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1949–1952"
+  },
+  {
+    "name": "CPL. JAMES A. YATES",
+    "branch": "U.S. Marine Corps",
+    "service": "1954–1957"
+  },
+  {
+    "name": "SFC. DANIEL J. WATERMAN",
+    "branch": "U.S. Army",
+    "service": "1946–1952"
+  },
+  {
+    "name": "ALLEN W. MORRIS",
+    "note": "Silver Star",
+    "branch": "U.S. Army",
+    "service": "1948–1954"
+  },
+  {
+    "name": "SGT. RYAN C. RUSSELL",
+    "branch": "U.S. Army",
+    "conflict": "Operation Iraqi Freedom"
+  },
+  {
+    "name": "CAPT. CARL HENRICH",
+    "branch": "USAR",
+    "service": ["1955–1964", "1966–2002"],
+    "conflict": "OMR"
+  },
+  {
+    "name": "CHARLES M. ALLEN",
+    "rank": "SP5",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "service": "1969–1970"
+  },
+  {
+    "name": "JOHN R. CHRISTY",
+    "note": "Corpsman",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "DAYMON H. WISE",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "GLEN CORBETT",
+    "branch": "U.S. Army",
+    "unit": "9th Inf. Div.",
+    "conflict": "Vietnam",
+    "service": "1967"
+  },
+  {
+    "name": "DON E. FUNK JR.",
+    "branch": "U.S. Army",
+    "service": "1965–1968",
+    "unit": "ABN GCP Group"
+  },
+  {
+    "name": "H.C. “DUTCH” HOLLAND",
+    "rank": "Master Sergeant",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "ALBERT M. REICHARDT",
+    "branch": "U.S. Army",
+    "service": "1941–1945"
+  },
+  {
+    "name": "DON E. FUNK SR.",
+    "branch": "U.S. Navy",
+    "service": "1943–1946"
+  },
+  {
+    "name": "CPL. LARRY O’BRIEN",
+    "branch": "U.S. Marine Corps",
+    "service": "1969–1971"
+  },
+  {
+    "name": "LAWRENCE LEO OFFENBERGER",
+    "branch": "U.S. Army",
+    "conflict": "Korean Conflict"
+  },
+  {
+    "name": "PATRICK G. BAKE JR.",
+    "rank": "STG2",
+    "branch": "U.S. Navy",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "SGT. RANDALL O’BRIEN",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "service": "1968–1970"
+  },
+  {
+    "name": "FLOYD A. MCKITRICK",
+    "branch": "U.S. Navy",
+    "service": "1943–1945"
+  },
+  {
+    "name": "SFC OSCAR GOBER IV",
+    "branch": "U.S. Army",
+    "service": "1994–2019"
+  },
+  {
+    "name": "THOMAS FINLEY JOHNSON",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "MSGT. JACK L. CONANT",
+    "branch": "U.S. Air Force",
+    "service": "1962–1982"
+  },
+  {
+    "name": "PVT. SIDNEY F. FARLEY",
+    "branch": "U.S. Army",
+    "service": "1943–1944"
+  },
+  {
+    "name": "CPL. CHARLES OFFENBERGER",
+    "branch": "U.S. Army",
+    "service": "Apr 1953–Apr 1955"
+  },
+  {
+    "name": "PVT. GEORGE J. YATES",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "WILLIAM P. TURNER",
+    "rank": "MSGT",
+    "branch": "USAFR",
+    "note": "Retired"
+  },
+  {
+    "name": "CAPT. KEITH FOSTER",
+    "branch": "U.S. Army",
+    "service": "1963–1966"
   }
 ]
