@@ -1,7 +1,420 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "CARL E. DARNELL",
+    "branch": "U.S. Marine Corps",
+    "conflict": "WWII"
+  },
+  {
+    "name": "BRADY D. SMITH",
+    "branch": "U.S. Army",
+    "service": "1917–1919"
+  },
+  {
+    "name": "JEFFERY BAILES",
+    "branch": "U.S. Army",
+    "note": "CPT SP. PA-C, Ret."
+  },
+  {
+    "name": "JOSHUA TAYLOR",
+    "branch": "U.S. Marine Corps",
+    "service": "2010–2013",
+    "note": "KIA"
+  },
+  {
+    "name": "JOSHUA J. ARNOLD",
+    "branch": "U.S. Army",
+    "service": "1998–2005"
+  },
+  {
+    "name": "JERRY B. DEVOL",
+    "branch": "USAF, USN, USA",
+    "note": "Korea, Desert Storm"
+  },
+  {
+    "name": "DARRELL L. SCHULTHEIS",
+    "branch": "U.S. Navy",
+    "service": "1938–1945"
+  },
+  {
+    "name": "H. MERKE",
+    "branch": "U.S. Air Force",
+    "service": "1974"
+  },
+  {
+    "name": "JEFFRY HENDRICKSON",
+    "unit": "PV-2",
+    "branch": "U.S. Army",
+    "service": "1975–1976"
+  },
+  {
+    "name": "HAROLD E. BONNETTE",
+    "unit": "SP-3",
+    "branch": "U.S. Army",
+    "service": "1955–1957"
+  },
+  {
+    "name": "W. WAYNE STEPHENSON",
+    "branch": "U.S. Navy & U.S. Army",
+    "conflict": "WWII, Korea"
+  },
+  {
+    "name": "BYRON V. EDWARDS",
+    "branch": "U.S. Army",
+    "service": "1943–1945",
+    "conflict": "WWII"
+  },
+  {
+    "name": "ROBERT F. SPICER",
+    "branch": "U.S. Army",
+    "service": "1943–1945",
+    "note": "Purple Heart, D-Day Invasion"
+  },
+  {
+    "name": "DONALD FLEMING JR.",
+    "unit": "PFC, 307th A.A.F.",
+    "service": "1944–1946"
+  },
+  {
+    "name": "G.K. SEXTON",
+    "rank": "SSGT",
+    "branch": "U.S. Air Force",
+    "service": "1968–1972",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "P. NOWELL",
+    "branch": "U.S. Navy"
+  },
+  {
+    "name": "JAMES GRACE",
+    "rank": "SGT",
+    "branch": "U.S. Air Force",
+    "service": "1951–1955"
+  },
+  {
+    "name": "DENNIS PHILLIPS",
+    "rank": "PFC",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "note": "KIA July 7, 1966"
+  },
+  {
+    "name": "DANIEL QUIMBY",
+    "rank": "LCPL",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam",
+    "note": "KIA October 7, 1966"
+  },
+  {
+    "name": "CLYDE R. HUDDLESTON",
+    "branch": "U.S. Navy",
+    "service": "1956–1960"
+  },
+  {
+    "name": "EMMETT R. BALL",
+    "branch": "U.S. Navy",
+    "service": "Mar 1952–Mar 1953",
+    "conflict": "Korean War"
+  },
+  {
+    "name": "OTIS D. BALL",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "EDWARD GUY ADAMS",
+    "unit": "Army Security Agency",
+    "service": "1947–1980",
+    "note": "Germany"
+  },
+  {
+    "name": "GARY S. ADAMS",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "service": "1962–1966"
+  },
+  {
+    "name": "WILLIAM H. ROWEKAMP",
+    "unit": "1st Lt. Army Artillery",
+    "service": "1954–1956"
+  },
+  {
+    "name": "KENNETH BARNHOUSE",
+    "unit": "Co C, 735th Tank Bn",
+    "service": "1941–1945",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "JOE A. MATTHEWS",
+    "rank": "CPL",
+    "branch": "U.S. Marine Corps",
+    "service": "1950–1953"
+  },
+  {
+    "name": "DALE E. FERRELL",
+    "rank": "CPL",
+    "branch": "U.S. Marine Corps",
+    "service": "1964–1967"
+  },
+  {
+    "name": "KLAGE 2",
+    "note": "PNRM VEXI (abbreviation unclear)"
+  },
+  {
+    "name": "GEN. BEN J.D. FEARING",
+    "unit": "77th & 92nd OVI & BR CMDR",
+    "service": "1861–1865",
+    "conflict": "Civil War"
+  },
+  {
+    "name": "DWIGHT BISHOP",
+    "rank": "CPL",
+    "unit": "AIE MC (abbreviation unclear)",
+    "service": "1956–1958"
+  },
+  {
+    "name": "RANDALL L. ADAMS",
+    "branch": "U.S. Army",
+    "service": "1968–1978",
+    "note": "Security Agency"
+  },
+  {
+    "name": "RICHARD H. PURSELL",
+    "rank": "ET2",
+    "branch": "U.S. Navy",
+    "service": "1946–1948"
+  },
+  {
+    "name": "COL DONALD BENNETT",
+    "branch": "U.S. Marines",
+    "service": "1942–1945",
+    "conflict": "WWII South Pacific"
+  },
+  {
+    "name": "MICK McBRIDE",
+    "rank": "SSGT",
+    "branch": "U.S. Marine Corps",
+    "service": "1967–1975",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "STEVE JUPINKO",
+    "rank": "HM2",
+    "branch": "U.S. Navy",
+    "unit": "Corpsman",
+    "conflict": "Vietnam - Tet",
+    "service": "1969"
+  },
+  {
+    "name": "ANDREW ARNOLD",
+    "branch": "U.S. Navy",
+    "service": "1974–1978"
+  },
+  {
+    "name": "CHARLES ARNOLD",
+    "rank": "MSGT",
+    "branch": "U.S. Air Force",
+    "service": "1975–1996"
+  },
+  {
+    "name": "JAMES T. ARNOLD",
+    "branch": "U.S. Army",
+    "service": "1983–1987"
+  },
+  {
+    "name": "DAVID K. GREGORY",
+    "rank": "Lieutenant",
+    "branch": "U.S. Navy",
+    "service": "1979–1987"
+  },
+  {
+    "name": "JAMES A. GREGORY",
+    "rank": "BTCS",
+    "branch": "U.S. Navy",
+    "service": "1954–1974"
+  },
+  {
+    "name": "EDWARD H. MENKE",
+    "rank": "Col.",
+    "branch": "U.S. Air Force",
+    "service": "1951–1977"
+  },
+  {
+    "name": "WILLIAM S. HARVEY",
+    "branch": "U.S. Marine Corps",
+    "service": "1967–1971",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "WILBERT C. ANTILL",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Korean War"
+  },
+  {
+    "name": "DONN V. EDWARDS",
+    "unit": "101st Airborne Div",
+    "conflict": "Vietnam Infantry"
+  },
+  {
+    "name": "WENDY J. FRYE",
+    "rank": "SGT",
+    "branch": "U.S. Air Force",
+    "service": "1975–1979"
+  },
+  {
+    "name": "JOSEPH E. TEIBERT",
+    "unit": "3rd Class Petty Officer",
+    "note": "Hull Maintenance Technician",
+    "service": "1984–1988"
+  },
+  {
+    "name": "LELAND C. NICHOLS",
+    "rank": "SGT",
+    "branch": "U.S. Air Force",
+    "unit": "AP Mechanic (F100/F102)",
+    "service": "1950–1954"
+  },
+  {
+    "name": "OLIN D. LUCAS",
+    "branch": "U.S. Marine Corps",
+    "service": "1942–1946"
+  },
+  {
+    "name": "PAUL LORAIN LUCAS",
+    "branch": "U.S. Navy",
+    "service": "1943–1946",
+    "conflict": "WWII"
+  },
+  {
+    "name": "SAMUEL E. HURST",
+    "rank": "SSG",
+    "unit": "11th Engineer",
+    "branch": "U.S. Army",
+    "service": "1941–1945",
+    "conflict": "WWII"
+  },
+  {
+    "name": "KEITH HURST",
+    "branch": "U.S. Army",
+    "service": "1942–1946",
+    "conflict": "WWII"
+  },
+  {
+    "name": "CLYDE R. HUGGLESTON",
+    "branch": "U.S. Army",
+    "service": "1966–1968"
+  },
+  {
+    "name": "NIAL WHEELER",
+    "branch": "U.S. Navy",
+    "service": "1962–1965"
+  },
+  {
+    "name": "THOMAS ADAMS",
+    "unit": "Co H, 1st Ohio Artillery",
+    "service": "1861–1863"
+  },
+  {
+    "name": "HENRY H. ADAMS",
+    "unit": "127th Infantry AEF",
+    "service": "1917–1919",
+    "conflict": "France"
+  },
+  {
+    "name": "KENNETH W. BRUFFMAN",
+    "branch": "U.S. Navy",
+    "note": "Vietnam Veteran"
+  },
+  {
+    "name": "ORION A. MASTERS",
+    "branch": "U.S. Army",
+    "unit": "Private",
+    "service": "1917–1920"
+  },
+  {
+    "name": "C. RICHARD WILLAMAN",
+    "branch": "U.S. Navy"
+  },
+  {
+    "name": "CHRISTOPHER SMITH",
+    "rank": "SSG",
+    "branch": "U.S. Army",
+    "service": "2001–2010"
+  },
+  {
+    "name": "DAVID DUANE LOVE",
+    "branch": "U.S. Army",
+    "service": "1968–1970",
+    "note": "Purple Heart"
+  },
+  {
+    "name": "VINCENT BEATTY",
+    "rank": "SP 5",
+    "unit": "Liaison Officer, 113th CIG Group",
+    "conflict": "WWII"
+  },
+  {
+    "name": "FRANK TARR JR.",
+    "unit": "Medic",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "JAMES L. LOWTHER",
+    "branch": "U.S. Marine Corps",
+    "service": "1960–1963"
+  },
+  {
+    "name": "DOUG GEORGEN",
+    "rank": "Capt.",
+    "branch": "U.S. Air Force",
+    "conflict": "Vietnam",
+    "note": "MIA/POW"
+  },
+  {
+    "name": "DAVID W. COOK",
+    "rank": "SSG",
+    "branch": "ARNG",
+    "service": "2000–2020"
+  },
+  {
+    "name": "TIMOTHY MARTIN",
+    "rank": "SGT",
+    "unit": "Patriot Missile",
+    "conflict": "Persian Gulf"
+  },
+  {
+    "name": "JAMES A. DUKAS",
+    "rank": "EM 2",
+    "branch": "U.S. Navy",
+    "service": "1944–1946",
+    "conflict": "WWII"
+  },
+  {
+    "name": "DEAN W. PATTEN",
+    "unit": "Bronze Star",
+    "branch": "U.S. Army",
+    "service": "1943–1947",
+    "conflict": "WWII"
+  },
+  {
+    "name": "DARRYL L. HILLS",
+    "rank": "SSG",
+    "branch": "WV Natl Guard Army",
+    "service": "1981–1996"
+  },
+  {
+    "name": "LTC. RICK SCOTT",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "ATHAL E. HAYES",
+    "unit": "Mailman 1st Class",
+    "conflict": "WWII"
+  },
+  {
+    "name": "JAMES F. CAMERON",
+    "branch": "U.S. Army"
   }
 ]
