@@ -85,7 +85,7 @@
   {
     "name": "SGT. RAY P. RHODES",
     "branch": "U.S. Army Air Corps",
-    "conflict": "World War II"
+    "conflict": "WWII"
   },
   {
     "name": "C. RICHARD MARTIN",
@@ -153,13 +153,13 @@
     "service": "1952–1954"
   },
   {
-    "name": "CPL. DWIGHT A. BALL",
+    "name": "CPL DWIGHT A. BALL",
     "branch": "U.S. Army",
     "conflict": "Vietnam War",
     "service": "1970"
   },
   {
-    "name": "SGT. ROBERT DICKSON",
+    "name": "SGT ROBERT DICKSON",
     "branch": "U.S. Army",
     "unit": "278th Engineer",
     "conflict": "Korea",
@@ -204,7 +204,7 @@
     "service": "1966–1969"
   },
   {
-    "name": "PFC. KENNETH MURRAY",
+    "name": "PFC KENNETH MURRAY",
     "branch": "U.S. Army",
     "service": "1964–1966",
     "note": "Vietnam Expert Rifleman M14"
@@ -232,7 +232,7 @@
     "note": "Purple Heart"
   },
   {
-    "name": "PFC. CARL B. WARD",
+    "name": "PFC CARL B. WARD",
     "branch": "U.S. Army",
     "unit": "Atlantic, WWII",
     "service": "1942–1945"
@@ -378,4 +378,34 @@
     "service": "1892–1946"
   },
   {
-    "name": "CPL
+    "name": "CPL CHAD WRIGHT",
+    "branch": "U.S. Marine Corps",
+    "service": "1999–2003"
+  },
+  {
+    "name": "OTIS B. MYSEL",
+    "branch": "U.S. Army",
+    "unit": "Co K 305 Infantry",
+    "conflict": "WWI"
+  },
+  {
+    "name": "W. FRANK McGRADE SR.",
+    "branch": "U.S. Army",
+    "service": "1941–1946"
+  },
+  {
+    "name": "GEORGE SLATER",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "PAUL L. AMMEL",
+    "rank": "Seaman 2nd Class",
+    "unit": "USS Chicago",
+    "branch": "U.S. Navy",
+    "conflict": "WWII Pacific"
+  }
+]
+
+  
+  
