@@ -1,7 +1,294 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "ANTHONY J. WAGGONER",
+    "branch": "U.S. ARMY",
+    "notes": "Bronze Star",
+    "years": "1943–1946"
+  },
+  {
+    "name": "S/SGT. VENTAL A. WAGGONER",
+    "branch": "U.S. AIR FORCE",
+    "years": "1946–1949"
+  },
+  {
+    "name": "REX LINDSEY WAGGONER",
+    "branch": "USAF & USN",
+    "notes": "MSG & Seaman 2nd Class",
+    "years": "1950–1984 / 1945–1946"
+  },
+  {
+    "name": "ROBERT F. WAGGONER",
+    "branch": "U.S. ARMY Cavalry",
+    "years": "1948–1952"
+  },
+  {
+    "name": "WILLIAM E. COURTNEY",
+    "branch": "U.S. NAVY",
+    "notes": "MM1C (T)",
+    "years": "1942–1945"
+  },
+  {
+    "name": "GLENN A. COURTNEY",
+    "branch": "U.S. ARMY",
+    "notes": "Purple Heart",
+    "years": "1941–1944"
+  },
+  {
+    "name": "HARRY H. COURTNEY",
+    "branch": "U.S. ARMY",
+    "years": "1941–1945"
+  },
+  {
+    "name": "DALE COURTNEY",
+    "branch": "U.S. ARMY",
+    "years": "1942–1945"
+  },
+  {
+    "name": "SGT. NORBERT L. LANG",
+    "branch": "U.S. ARMY",
+    "notes": "Korean Conflict",
+    "years": "1951–1953"
+  },
+  {
+    "name": "TODD ANDREW ZOLLER",
+    "branch": "U.S. ARMY",
+    "notes": "Persian Gulf War",
+    "years": "1986–1993"
+  },
+  {
+    "name": "CPL DONALD NARVIN",
+    "branch": "U.S. MARINE CORPS",
+    "notes": "Vietnam Veteran",
+    "years": null
+  },
+  {
+    "name": "GEORGE F. HUPP",
+    "branch": "U.S. ARMY",
+    "notes": "Vietnam",
+    "years": "1970–1972"
+  },
+  {
+    "name": "CAPT CHARLES SCHOB",
+    "branch": "U.S. AIR FORCE",
+    "years": "1953–1957"
+  },
+  {
+    "name": "DAVID LEE BATTEN",
+    "branch": "U.S. NAVY",
+    "years": "1969–1973"
+  },
+  {
+    "name": "SFC ROBERT FITZGERALD",
+    "branch": "U.S. ARMY",
+    "years": "1984–2017"
+  },
+  {
+    "name": "FRANK C. PADGITT",
+    "branch": "U.S. ARMY",
+    "notes": "826 Tank BN",
+    "years": "1954–1956"
+  },
+  {
+    "name": "CRP. GEORGE E. HAYES",
+    "branch": "U.S. ARMY AEF",
+    "notes": "WWI",
+    "years": null
+  },
+  {
+    "name": "HERBERT N. HAYES",
+    "branch": "U.S. ARMY AEF",
+    "notes": "WWI",
+    "years": null
+  },
+  {
+    "name": "MARY ELLEN HAYES",
+    "branch": "Red Cross Ambulance Driver",
+    "notes": "WWI France",
+    "years": null
+  },
+  {
+    "name": "CLYDE E. MALONE",
+    "branch": "U.S. ARMY",
+    "notes": "Private, WWI",
+    "years": "1918–1919"
+  },
+  {
+    "name": "MAX L. MALONE",
+    "branch": "U.S. AIR FORCE",
+    "notes": "A2C",
+    "years": "1956–1960"
+  },
+  {
+    "name": "ANDREW B. MCGREGOR",
+    "branch": "U.S. AIR FORCE",
+    "notes": "MSGT",
+    "years": "1968–2006"
+  },
+  {
+    "name": "BENEDICTA A. RODDY",
+    "branch": "USNR",
+    "notes": "Seaman 1C, WWII",
+    "years": "1944–1945"
+  },
+  {
+    "name": "1ST. SGT. ANDREW HOLDEN",
+    "branch": "73rd OVI",
+    "notes": "Co F, Civil War",
+    "years": "1861–1865"
+  },
+  {
+    "name": "ANDREW L. RODDY",
+    "branch": "Ohio Defense Guard",
+    "years": "1943–1962"
+  },
+  {
+    "name": "MAJ. CARRIE L. RODDY",
+    "branch": "U.S. ARMY",
+    "notes": "UH1/UH60 Pilot",
+    "years": "1991–2014"
+  },
+  {
+    "name": "MARY L. ANDERSON",
+    "branch": "U.S. NAVY",
+    "notes": "CAPT",
+    "years": "1979–2010"
+  },
+  {
+    "name": "WILLIAM G. DUNN JR",
+    "branch": "U.S. NAVY",
+    "notes": "MMC",
+    "years": "1971–1985"
+  },
+  {
+    "name": "MSGT. STEVEN R. DUNN",
+    "branch": "U.S. AIR FORCE",
+    "years": "1973–1996",
+    "notes": "Wife: Mia van Eygen"
+  },
+  {
+    "name": "RICHARD DUNN",
+    "branch": "U.S. AIR FORCE",
+    "years": "2007"
+  },
+  {
+    "name": "LT. COL. DONALD DUNN & RENAE",
+    "branch": "U.S. AIR FORCE",
+    "notes": "Pilot",
+    "years": "1974–2005"
+  },
+  {
+    "name": "LT. COL. WILLIAM DUNN",
+    "branch": "U.S. AIR FORCE",
+    "years": "1951–1983"
+  },
+  {
+    "name": "EDGAR “DOYLE” WAGGONER",
+    "branch": "U.S. NAVY",
+    "notes": "Carpenter Mate 2nd Class",
+    "years": "1944–1946"
+  },
+  {
+    "name": "HARVEY WAGGONER",
+    "branch": "U.S. NAVY",
+    "notes": "Chief Carpenter’s Mate",
+    "years": "1942–1945"
+  },
+  {
+    "name": "LARRY F. HIGGINS",
+    "branch": "U.S. AIR FORCE",
+    "years": "1957–1961"
+  },
+  {
+    "name": "CSM JAY A. HOUSER",
+    "branch": "U.S. ARMY",
+    "notes": "HHC 1092nd ECB, OIF I & II",
+    "years": null
+  },
+  {
+    "name": "PFC GLENN RAUCH",
+    "branch": "U.S. ARMY",
+    "notes": "4th Armor Div MP",
+    "years": "1961–1963"
+  },
+  {
+    "name": "A1C RAYMOND PECKENS",
+    "branch": "U.S. AIR FORCE",
+    "years": "1953–1960"
+  },
+  {
+    "name": "SGT SCOTT BARTLETT",
+    "branch": "U.S. ARMY",
+    "years": "2009–2022"
+  },
+  {
+    "name": "EARL STARKEY",
+    "branch": "U.S. ARMY",
+    "notes": "SP4",
+    "years": "1960–1966"
+  },
+  {
+    "name": "DONALD O. HINTON",
+    "branch": "U.S. ARMY",
+    "notes": "TEC5 – Sharpshooter",
+    "years": "1942–1945"
+  },
+  {
+    "name": "WILLIAM B. DUNHAM",
+    "branch": "U.S. ARMY",
+    "notes": "PFC – Chinese Combat",
+    "years": "1943–1947"
+  },
+  {
+    "name": "CARL E. VAJDICH",
+    "branch": "U.S. ARMY",
+    "years": "1961–1964"
+  },
+  {
+    "name": "PFC CALVIN LAFABER",
+    "branch": "U.S. ARMY",
+    "notes": "Infantry, WWII (1/31/1945)",
+    "years": null
+  },
+  {
+    "name": "SPC MITCHELL DAMON",
+    "branch": "U.S. ARMY",
+    "years": "2019–2022"
+  },
+  {
+    "name": "DAVID DUANE LOVE",
+    "branch": "U.S. ARMY",
+    "notes": "Purple Heart",
+    "years": "1968–1970"
+  },
+  {
+    "name": "COL. JAMES KLUCKMAN & TAMIE (DUNN)",
+    "branch": "U.S. ARMY",
+    "years": "1974–2004"
+  },
+  {
+    "name": "CPT. SEAN KLUCKMAN & MAJ. BRI KLUCKMAN",
+    "branch": "U.S. ARMY",
+    "years": "2015"
+  },
+  {
+    "name": "CPT. BRIAN & LAUREN KLUCKMAN",
+    "branch": "U.S. MARINE CORPS",
+    "years": "2012–2016"
+  },
+  {
+    "name": "CLARK C. DUNHAM",
+    "branch": "U.S. ARMY",
+    "notes": "PVT – Sharpshooter",
+    "years": "1965–1968"
+  },
+  {
+    "name": "ROBERT M. BOSSERT",
+    "branch": "U.S. ARMY Airborne",
+    "years": "1946–1949"
+  },
+  {
+    "name": "SGT WILLIAM WHITE",
+    "branch": "U.S. MARINE CORPS",
+    "years": "1967–1973"
   }
 ]
