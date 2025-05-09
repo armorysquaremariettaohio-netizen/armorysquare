@@ -1,7 +1,217 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "WILLIAM CLETIS WEST",
+    "branch": "U.S. Army",
+    "notes": "Staff Sergeant, WWII Airborne"
+  },
+  {
+    "name": "CHESTER C. WILSON",
+    "branch": "U.S. Army Artillery",
+    "notes": "PFC",
+    "years": "1967–1968"
+  },
+  {
+    "name": "JAMES E. RUBLE",
+    "branch": "U.S. Navy",
+    "notes": "USS Proteus (AS-19)",
+    "years": "1959–1963"
+  },
+  {
+    "name": "JAMES L. RANEY",
+    "branch": "U.S. Army",
+    "notes": "Major",
+    "years": "1974–1994"
+  },
+  {
+    "name": "ROBERT L. GEARHART",
+    "branch": "U.S. Army",
+    "notes": "SP4",
+    "years": "1958–1965"
+  },
+  {
+    "name": "FRANCES J. MECKEL",
+    "branch": "U.S. Army",
+    "years": "1976–1980"
+  },
+  {
+    "name": "MARION M. OGLE",
+    "branch": "U.S. Navy",
+    "notes": "Fireman 1st Class",
+    "years": "1944–1946"
+  },
+  {
+    "name": "SGT. LARRY A. BATES",
+    "branch": "U.S. Army",
+    "notes": "541st Engineer Co.",
+    "years": "1963–1965"
+  },
+  {
+    "name": "BENJAMIN E. HEPPNER",
+    "branch": "Army Security Agency",
+    "notes": "SP/4 ASA 05H20 (Morse Intercept Operator)",
+    "years": "1971–1974"
+  },
+  {
+    "name": "JOHN E. TRIPLETT JR.",
+    "branch": "U.S. Army",
+    "notes": "Captain, Judge",
+    "years": "2019–2020"
+  },
+  {
+    "name": "WILLIAM H. ELLIOTT II",
+    "branch": "U.S. Army",
+    "years": "2006–"
+  },
+  {
+    "name": "THOMAS A. DEARTH JR.",
+    "branch": "U.S. Army",
+    "notes": "SGT",
+    "years": "1986–1993"
+  },
+  {
+    "name": "SGT. TAMMY DEARTH",
+    "branch": "Army National Guard",
+    "years": "1985–2000"
+  },
+  {
+    "name": "AN ROBERT HAMPTON",
+    "branch": "U.S. Navy",
+    "notes": "Airman, VS-22 Checkmates"
+  },
+  {
+    "name": "CARL “JIM” ROSE JR.",
+    "branch": "U.S. Navy",
+    "years": "1945–1946"
+  },
+  {
+    "name": "JOSHUA WOODGERD",
+    "branch": "U.S. Navy",
+    "notes": "CVA-66 USS America"
+  },
+  {
+    "name": "CHARLES W. HAMPTON",
+    "branch": "U.S. Air Force",
+    "notes": "6th Weather Squadron",
+    "years": "1961–1965"
+  },
+  {
+    "name": "CPT. DENNIS URBAN",
+    "branch": "U.S. Air Force & U.S. Army",
+    "years": "1957–1961 & 1966–1982"
+  },
+  {
+    "name": "WJ LANDSITTEL",
+    "branch": "U.S. Navy",
+    "years": "1959–1980"
+  },
+  {
+    "name": "PAUL T. LANDSITTEL",
+    "branch": "U.S. Air Force & U.S. Army",
+    "years": "Feb 1957–Jan 1998"
+  },
+  {
+    "name": "JOHN E. LANDSITTEL",
+    "branch": "U.S. Navy",
+    "years": "1961–1981"
+  },
+  {
+    "name": "PAUL J. LANDSITTEL",
+    "branch": "U.S. Navy",
+    "notes": "AVCM(AW)",
+    "years": "1984–2014"
+  },
+  {
+    "name": "PJ LANDSITTEL",
+    "branch": "U.S. Navy",
+    "notes": "2nd BM1(SW)",
+    "years": "2012–2023"
+  },
+  {
+    "name": "CURTIS W. BINEGAR",
+    "branch": "U.S. Army",
+    "notes": "PVT",
+    "years": "1943–1944"
+  },
+  {
+    "name": "GEORGE GALE BINEGAR",
+    "branch": "U.S. Navy",
+    "notes": "MM2, AO-56",
+    "years": "1952–1956"
+  },
+  {
+    "name": "ROBERT P. BINEGAR",
+    "branch": "U.S. Marine Corps",
+    "notes": "SGT",
+    "years": "1953–1957"
+  },
+  {
+    "name": "SGT. W. E. STRAHLER",
+    "branch": "U.S. Army",
+    "notes": "25th Div. Bobcats – PH Vietnam",
+    "years": "1967–1968"
+  },
+  {
+    "name": "TSGT RICHARD COZZENS",
+    "branch": "U.S. Army",
+    "notes": "HQ Co 3rd Bn 7th Infantry",
+    "years": "1941–1945"
+  },
+  {
+    "name": "SGT. PAUL A. STRAHLER",
+    "branch": "U.S. Air Force",
+    "notes": "TAC",
+    "years": "1968–1974"
+  },
+  {
+    "name": "ALL MEMBERS",
+    "branch": "Army & Navy",
+    "notes": "MRF Vietnam"
+  },
+  {
+    "name": "EDWIN LANDSITTEL",
+    "branch": "U.S. Navy",
+    "years": "July 1961–April 1989"
+  },
+  {
+    "name": "RICHARD DICKINSON",
+    "branch": "U.S. Army",
+    "years": "1945–1947"
+  },
+  {
+    "name": "CHARLES H. BINEGAR",
+    "branch": "U.S. Army",
+    "notes": "SP4",
+    "years": "1969–1970"
+  },
+  {
+    "name": "THOMAS E. BROOKOVER",
+    "branch": "U.S. Army",
+    "notes": "SFC, Retired",
+    "years": "1948–1972"
+  },
+  {
+    "name": "REGIS D. STRAHLER",
+    "branch": "U.S. Army",
+    "notes": "World War II"
+  },
+  {
+    "name": "LAWRENCE W. STRAHLER",
+    "branch": "U.S. Army",
+    "notes": "WWII POW, Purple Heart"
+  },
+  {
+    "name": "RICHARD G. STRAHLER",
+    "branch": "U.S. Navy",
+    "notes": "Seabee, WWII"
+  },
+  {
+    "name": "ALBERT F. STRAHLER",
+    "branch": "U.S. Army",
+    "notes": "World War II"
+  },
+  {
+    "name": "DOYLE A. WEAVER",
+    "branch": "U.S. Marine Corps",
+    "years": "1967–1970"
   }
 ]
