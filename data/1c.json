@@ -1,7 +1,381 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
-  }
-]
+    "name": "HOMAS E. CASTO SR.",
+    "branch": "U.S. Air Force",
+    "conflict": "Korean War",
+    "service": "1950–1954"
+  },
+  {
+    "name": "SGT. VIRGIL G. LISK",
+    "branch": "U.S. Army Infantry",
+    "conflict": "WWII",
+    "service": "1946–1947"
+  },
+  {
+    "name": "ERNEST RANG JR.",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SGT. JOHN ROBERTS",
+    "branch": "U.S. Air Force",
+    "note": "Communication Specialist",
+    "service": "1974–1978"
+  },
+  {
+    "name": "CPL. LARRY VAN J. LISK",
+    "branch": "U.S. Army",
+    "conflict": "Korea"
+  },
+  {
+    "name": "PFC. ARNOLD J. HASSY",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1944",
+    "note": "KIA Belgium Dec. 22, 1944"
+  },
+  {
+    "name": "CPL. GORDON H. MOORE",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SGT. D. STONWASSER",
+    "branch": "U.S. Army",
+    "conflict": "Korea"
+  },
+  {
+    "name": "SGT. RAYMOND M. HASSY",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SSGT. HARRY S. SALZMAN",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "TSGT. MIKE MULLENIX",
+    "branch": "U.S. Air Force"
+  },
+  {
+    "name": "THOMAS E. COLLINS",
+    "branch": "U.S. Army",
+    "unit": "5th Armored Division"
+  },
+  {
+    "name": "MARK A. FERNIHOUGH",
+    "branch": "U.S. Army",
+    "service": "1976–1979"
+  },
+  {
+    "name": "CLYDE DUTTON",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "CPL. GLEN E. MILLER",
+    "branch": "U.S. Army",
+    "service": "1944–1946"
+  },
+  {
+    "name": "SGT. RAY P. RHODES",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "World War II"
+  },
+  {
+    "name": "C. RICHARD MARTIN",
+    "branch": "U.S. Navy (Ret.)",
+    "service": "1956–1982",
+    "note": "CTC Jackson Co. VADIR the Med"
+  },
+  {
+    "name": "E-5 STEVEL BROWN",
+    "branch": "U.S. Army",
+    "service": "1973–1977",
+    "note": "NAS Bermuda"
+  },
+  {
+    "name": "R. L. HENDERSON",
+    "branch": "U.S. Army",
+    "service": "1966–1970",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "BARRY E. WARDEN",
+    "branch": "U.S. Navy",
+    "service": "1966–1969"
+  },
+  {
+    "name": "C. FRED MILLER JR.",
+    "branch": "U.S. Army Air Corps / USAF",
+    "service": "1944–45, 1950–51"
+  },
+  {
+    "name": "JAMES D. FERNIHOUGH",
+    "branch": "U.S. Navy",
+    "conflict": "Korea",
+    "service": "1951–1952"
+  },
+  {
+    "name": "RUSSELL H. FURLER",
+    "branch": "U.S. Army",
+    "service": "1972–1978"
+  },
+  {
+    "name": "WILLIAM K. KEELIN",
+    "branch": "U.S. Navy / U.S. Army",
+    "service": "1947–1948, 1955–1956"
+  },
+  {
+    "name": "A1C RICHARD GUYER",
+    "branch": "U.S. Air Force",
+    "service": "1954–1958"
+  },
+  {
+    "name": "WILLIAM FERNIHOUGH",
+    "branch": "U.S. Army Air Corps",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SP4 BROCK A. TURNER",
+    "branch": "U.S. Army",
+    "service": "2018–2021"
+  },
+  {
+    "name": "GEORGE A. BAKER",
+    "branch": "U.S. Army",
+    "rank": "CPL",
+    "service": "1952–1954"
+  },
+  {
+    "name": "CPL. DWIGHT A. BALL",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam War",
+    "service": "1970"
+  },
+  {
+    "name": "SGT. ROBERT DICKSON",
+    "branch": "U.S. Army",
+    "unit": "278th Engineer",
+    "conflict": "Korea",
+    "service": "1951–1953"
+  },
+  {
+    "name": "PFC RAY D. DENNIS",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SP4 JACK K. MYGEL",
+    "branch": "U.S. Army",
+    "service": "1972–1975"
+  },
+  {
+    "name": "KENNETH D. TREADWAY SR.",
+    "branch": "U.S. Army",
+    "unit": "3rd Armored Inf. Bn",
+    "service": "1944–1946"
+  },
+  {
+    "name": "FRED D. MCGRADY SR.",
+    "branch": "U.S. Army",
+    "service": "1957–1960"
+  },
+  {
+    "name": "MICHAEL MILLER",
+    "branch": "U.S. Air Force",
+    "rank": "SGT",
+    "service": "1966–1969"
+  },
+  {
+    "name": "CHARLES McCRACKEN",
+    "branch": "U.S. Army",
+    "unit": "Co F 26th Infantry",
+    "service": "1942–1945"
+  },
+  {
+    "name": "RONALD G. KEHL",
+    "branch": "U.S. Navy",
+    "service": "1966–1969"
+  },
+  {
+    "name": "PFC. KENNETH MURRAY",
+    "branch": "U.S. Army",
+    "service": "1964–1966",
+    "note": "Vietnam Expert Rifleman M14"
+  },
+  {
+    "name": "RAYMOND WILLIAMS",
+    "branch": "U.S. Navy Reserve (Ret.)",
+    "conflict": "WWII",
+    "service": "1944–1979"
+  },
+  {
+    "name": "DEFOREST VIGNERON",
+    "note": "Infantry, WWII"
+  },
+  {
+    "name": "ROY E. BARNES JR.",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "HOWARD WILLIAMS",
+    "branch": "U.S. Army",
+    "service": "1943–1945",
+    "note": "Purple Heart"
+  },
+  {
+    "name": "PFC. CARL B. WARD",
+    "branch": "U.S. Army",
+    "unit": "Atlantic, WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SP4 GERALD D. WARD",
+    "branch": "U.S. Army",
+    "service": "1946–1952"
+  },
+  {
+    "name": "SFC RAYMOND C. WARD",
+    "branch": "U.S. Army",
+    "service": "1946–1969"
+  },
+  {
+    "name": "CHARLES FERNINHOUGH",
+    "branch": "U.S. Army Air Corps",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SIDNEY W. SCHNEIDER",
+    "branch": "U.S. Army",
+    "service": "1941–1945"
+  },
+  {
+    "name": "ADRIAN L. DEVOL",
+    "rank": "PFC",
+    "unit": "Ohio Infantry",
+    "conflict": "WWII Pacific"
+  },
+  {
+    "name": "SAMUEL T. NEALIS",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1941–1946"
+  },
+  {
+    "name": "RALPH W. WARDEN",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1945–1947"
+  },
+  {
+    "name": "LESLIE E. HESSON",
+    "branch": "U.S. Army",
+    "service": "1942–1945",
+    "conflict": "WWII"
+  },
+  {
+    "name": "FRANCIS T. HUCK",
+    "branch": "U.S. Army",
+    "service": "1941–1946"
+  },
+  {
+    "name": "FRANK SCHWENDEMAN",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "1918–1919"
+  },
+  {
+    "name": "T/5 CLINTON J. MYSEL",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "DARRELL E. MCGRADE",
+    "branch": "U.S. Air Force / U.S. Army Reserve",
+    "service": "1958–1978"
+  },
+  {
+    "name": "STEPHEN SLATER",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "SGT. D.C. HARRIS",
+    "branch": "U.S. Army",
+    "service": "1972–1976"
+  },
+  {
+    "name": "ALFRED D. MCCRAGE",
+    "branch": "U.S. Army",
+    "service": "1962–1965"
+  },
+  {
+    "name": "DR. MIKE MCCRAGE",
+    "branch": "U.S. Army",
+    "service": "1969–1973"
+  },
+  {
+    "name": "ROBERT COX",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "GEORGE R. VANFOSSON",
+    "unit": "USS Conyngham – Pacific Gunner",
+    "service": "1943–1946"
+  },
+  {
+    "name": "PFC. F. DEAN BERGA",
+    "branch": "U.S. Marine Corps",
+    "service": "1945–1946"
+  },
+  {
+    "name": "ROBERT D. VANFOSSON",
+    "branch": "U.S. Air Force",
+    "rank": "SSGT",
+    "service": "1948–1952"
+  },
+  {
+    "name": "GARY R. PATTERSON",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "JAKE KOON",
+    "unit": "Co F 12th Infantry",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "ROBERT A. PATTERSON",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "EMMET A. HALL",
+    "branch": "U.S. Navy Seabees",
+    "conflict": "Korean War",
+    "rank": "BM2",
+    "service": "1950–1954"
+  },
+  {
+    "name": "1T2 DON GILLETTE",
+    "branch": "U.S. Navy",
+    "service": "1967–1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "HARLAND M. SMITH",
+    "conflict": "World War I",
+    "service": "1892–1946"
+  },
+  {
+    "name": "CPL
