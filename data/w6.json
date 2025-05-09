@@ -1,7 +1,196 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "PO2 JON GRIMM",
+    "branch": "U.S. NAVY",
+    "notes": "USS IOWA BB–61",
+    "years": "1987–1990"
+  },
+  {
+    "name": "PVT. WILLIAM F. OLIVER",
+    "branch": "U.S. ARMY",
+    "notes": "WWII father – Wm. H – Robert F.",
+    "years": null
+  },
+  {
+    "name": "ROBERT F. OLIVER",
+    "branch": "U.S. ARMY",
+    "notes": "CPL, Korea, Purple Heart",
+    "years": null
+  },
+  {
+    "name": "GMG3 WILLIAM H. OLIVER",
+    "branch": "U.S. NAVY",
+    "notes": "Vietnam",
+    "years": "1963–1966"
+  },
+  {
+    "name": "THOMAS E. BROOKOVER",
+    "branch": "U.S. ARMY",
+    "notes": "SFC (Retired)",
+    "years": "1948–1972"
+  },
+  {
+    "name": "NICHOLAS H. ABBOTT",
+    "branch": "U.S. ARMY",
+    "notes": "Active Duty, Iraqi Freedom",
+    "years": null
+  },
+  {
+    "name": "KENNETH G. ABBOTT",
+    "branch": "U.S. NAVY & USAF",
+    "notes": "PT1 & Capt.",
+    "years": "1975–1981, 1989–1998"
+  },
+  {
+    "name": "RALPH DUANE ABBOTT",
+    "branch": "U.S. NAVY",
+    "notes": "World War II",
+    "years": null
+  },
+  {
+    "name": "SGT M. BRICE GOUDY",
+    "branch": "U.S. ARMY",
+    "notes": "82nd Airborne, 508PIR",
+    "years": "1942–1945"
+  },
+  {
+    "name": "SGT WALTER GRIMM",
+    "branch": "US Army Air Corps",
+    "notes": "4000th AAF BU",
+    "years": "1943–1946"
+  },
+  {
+    "name": "CPL. GLENN MARTIN",
+    "branch": "U.S. ARMY",
+    "years": "1944–1946"
+  },
+  {
+    "name": "RONALD HOLMES",
+    "branch": "U.S. ARMY",
+    "notes": "SP5",
+    "years": "1965–1967"
+  },
+  {
+    "name": "RONALD L. ABBOTT",
+    "branch": "U.S. NAVY",
+    "years": "1955–1959"
+  },
+  {
+    "name": "LT. BRIAN D. ABBOTT",
+    "branch": "U.S. NAVY",
+    "years": "1992–"
+  },
+  {
+    "name": "GORDON ABBOTT",
+    "branch": "U.S. NAVY",
+    "notes": "DC3, Korean War",
+    "years": "1948–1952"
+  },
+  {
+    "name": "GLEN L. ABBOTT",
+    "branch": "U.S. NAVY",
+    "notes": "LSMR 525, Korean War",
+    "years": "1950–1953"
+  },
+  {
+    "name": "DAVID ABBOTT",
+    "branch": "U.S. ARMY",
+    "notes": "Vietnam",
+    "years": "1970–1971"
+  },
+  {
+    "name": "SP4 MAX D. PUGH",
+    "branch": "U.S. ARMY",
+    "years": "1956–1958"
+  },
+  {
+    "name": "BRUCE ABBOTT",
+    "branch": "U.S. ARMY",
+    "years": null
+  },
+  {
+    "name": "KELVIN L. ABBOTT",
+    "branch": "U.S. NAVY",
+    "years": "1977–1981"
+  },
+  {
+    "name": "PEGGY A. ABBOTT",
+    "branch": "U.S. NAVY",
+    "notes": "Retired",
+    "years": "1978–1998"
+  },
+  {
+    "name": "BRENT M. ABBOTT",
+    "branch": "U.S. NAVY",
+    "notes": "Active Duty, CVN–73",
+    "years": null
+  },
+  {
+    "name": "SPC4 MARVIN CANTERBURY",
+    "branch": "U.S. ARMY",
+    "notes": "KIA 1969",
+    "years": "1968–1969"
+  },
+  {
+    "name": "RICK CANTERBURY",
+    "branch": "U.S. ARMY National Guard",
+    "years": "1965–1971"
+  },
+  {
+    "name": "JUNE MORRIS NOLAN",
+    "branch": "U.S. NAVY",
+    "years": "1944–1945"
+  },
+  {
+    "name": "ROBERT S. THOMAS",
+    "branch": "U.S. AIR FORCE",
+    "notes": "Capt. (Retired)",
+    "years": "1971–1994"
+  },
+  {
+    "name": "ARTHUR E. THOMAS",
+    "branch": "U.S. ARMY",
+    "notes": "Tec. 5 Medic, Germany",
+    "years": "1942–1945"
+  },
+  {
+    "name": "PO3 RACHEL GEORGE",
+    "branch": "U.S. NAVY",
+    "notes": "Petty Officer 3rd Class",
+    "years": "1994–1998"
+  },
+  {
+    "name": "MICHELE GEORGE",
+    "branch": "U.S. NAVY",
+    "notes": "MCPO, Op Iraqi Freedom",
+    "years": "1993–2015"
+  },
+  {
+    "name": "SGT KEVIN WARD",
+    "branch": "U.S. ARMY",
+    "years": "1985–1989"
+  },
+  {
+    "name": "ROBERT E. THOMAS",
+    "branch": "U.S. AIR FORCE",
+    "notes": "CMSgt (Retired)",
+    "years": "1949–1969"
+  },
+  {
+    "name": "PFC CLYDE H. THOMAS",
+    "branch": "U.S. ARMY",
+    "notes": "388th AAA AW Bn",
+    "years": "1942–1945"
+  },
+  {
+    "name": "THOMAS MARTIN",
+    "branch": "U.S. NAVY",
+    "notes": "HA1C",
+    "years": "1944–1946"
+  },
+  {
+    "name": "SGT ALBERT MARTIN",
+    "branch": "U.S. ARMY",
+    "years": "1943–1945"
   }
 ]
