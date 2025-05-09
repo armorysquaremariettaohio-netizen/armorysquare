@@ -1,7 +1,396 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "LARRY E. HUNE",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "LOUIS B. KALTER",
+    "branch": "U.S. Navy",
+    "service": "1944–1945"
+  },
+  {
+    "name": "CHARLES A. MULLIGAN",
+    "branch": "U.S. Army Air Forces",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MICHAEL A. MULLIGAN",
+    "branch": "U.S. Army",
+    "service": "1963–1969"
+  },
+  {
+    "name": "SSGT. TIM PETERSON",
+    "unit": "196th Infantry",
+    "conflict": "Vietnam",
+    "service": "1968–1969"
+  },
+  {
+    "name": "JOHN J. HENDERSHOT",
+    "rank": "SP4",
+    "branch": "U.S. Army ASA",
+    "service": "1956–1959"
+  },
+  {
+    "name": "SSGT. CLYDE BUTLER",
+    "branch": "U.S. Army",
+    "conflicts": ["Korea", "Vietnam"],
+    "service": "1950 (retired 1972)"
+  },
+  {
+    "name": "SPEC4 RICHARD GOUBEAUD",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1955–1963"
+  },
+  {
+    "name": "HARRY RAY FARMER",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "conflict": "WWI"
+  },
+  {
+    "name": "PERL LEE FREELAND",
+    "branch": "U.S. Army",
+    "service": "1944–1945"
+  },
+  {
+    "name": "ORISON S. REED",
+    "rank": "Corp.",
+    "note": "Grand Army Civil War"
+  },
+  {
+    "name": "TEC4 ARTHUR F. REED",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SP4 DAVID R. COPEN",
+    "branch": "U.S. Army",
+    "service": "1970–1972"
+  },
+  {
+    "name": "CLIFTON G. ROSE",
+    "branch": "U.S. Navy",
+    "unit": "LST-652",
+    "service": "1944–1946"
+  },
+  {
+    "name": "PFC. JAMES FLANIGAN",
+    "note": "Medical Aidman",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "FREDERICK E. BROOKER",
+    "rank": "SP5",
+    "branch": "U.S. Army",
+    "service": "1968–1970"
+  },
+  {
+    "name": "AMY M. MEEKS",
+    "note": "West Point 1990–1994",
+    "rank": "LTC",
+    "branch": "U.S. Army",
+    "service": "1994–"
+  },
+  {
+    "name": "KENNETH L. MILLER",
+    "branch": "U.S. Navy",
+    "service": "Apr. 1970–Jun. 1971"
+  },
+  {
+    "name": "DONALD L. MILLER",
+    "branch": "U.S. Air Force",
+    "service": "Mar. 1967–Feb. 1971"
+  },
+  {
+    "name": "GARY EUGENE MILLER",
+    "branch": "U.S. Army",
+    "service": "Nov. 1965–Sep. 1967"
+  },
+  {
+    "name": "SPC4 DALE E. BAILEY",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam War",
+    "service": "1967–1970"
+  },
+  {
+    "name": "PFC. RAYMOND D. BAILEY",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "PRT. WESLEY D. BAILEY",
+    "branch": "U.S. Army",
+    "conflict": "WWI"
+  },
+  {
+    "name": "MICHAELA MULLIGAN",
+    "branch": "U.S. Army",
+    "service": "1963–1969"
+  },
+  {
+    "name": "JERRY L. BOOTH",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "CPL. KENNETH E. WEST",
+    "branch": "U.S. Army",
+    "service": "1942–1945",
+    "note": "4 Bronze Stars"
+  },
+  {
+    "name": "JOSEPH C. GRAY",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "service": "1963–1966"
+  },
+  {
+    "name": "ALLENE (ROSE) REEVES",
+    "branch": "U.S. Army Nurse",
+    "conflict": "World War II"
+  },
+  {
+    "name": "CPL. JACK D. ROSE",
+    "branch": "U.S. Army",
+    "service": "10/1/1942–11/19/1945"
+  },
+  {
+    "name": "CPO REGINA M. ROSE",
+    "branch": "U.S. Navy WAVES",
+    "conflict": "World War II"
+  },
+  {
+    "name": "CHARLES E. MEEKS",
+    "branch": "U.S. Navy",
+    "service": "1962–1964"
+  },
+  {
+    "name": "JAMES C. STARNER",
+    "note": "Paratrooper, 17th Airborne",
+    "conflict": "WWII",
+    "service": "1943–1946"
+  },
+  {
+    "name": "ROBERT WM. MILLER",
+    "branch": "U.S. Army Air Forces",
+    "service": "Oct. 1943–Mar. 1946"
+  },
+  {
+    "name": "DONALD E. BAILEY",
+    "rank": "PFC",
+    "branch": "USMC Infantry",
+    "conflict": "Korean War",
+    "service": "1952–1954"
+  },
+  {
+    "name": "DONALD E. BAILEY JR.",
+    "rank": "CPL",
+    "branch": "USMC Infantry",
+    "conflict": "Vietnam",
+    "service": "1973–1977"
+  },
+  {
+    "name": "GRAHAM METZGER",
+    "branch": "U.S. Army",
+    "note": "Purple Heart",
+    "service": "1943–1945"
+  },
+  {
+    "name": "WILLIAM J. BOZETT",
+    "note": "Battle of the Bulge",
+    "conflict": "WWII",
+    "service": "1942–1946"
+  },
+  {
+    "name": "LCPL. RICK SEEVERS",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam",
+    "service": "1969–1975"
+  },
+  {
+    "name": "CRAIG JOSEPH",
+    "rank": "PVT2",
+    "branch": "U.S. Army",
+    "service": "12/4/1973–8/7/1974"
+  },
+  {
+    "name": "SFC. JOSEPH NNAAS",
+    "branch": "U.S. Army National Guard",
+    "service": "1953–1991"
+  },
+  {
+    "name": "SGT. DONALD R. SCHMEDES",
+    "branch": "USMC",
+    "conflict": "Vietnam",
+    "note": "Veteran",
+    "service": "1968–1972"
+  },
+  {
+    "name": "DAVID A. DENNIS",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "SSGT. RICHARD G. DENNIS",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "DAVID M. BAILEY",
+    "rank": "SSGT",
+    "branch": "U.S. Air Force",
+    "service": "1984–1994",
+    "note": "Desert Storm"
+  },
+  {
+    "name": "VICKIE D. BAILEY",
+    "rank": "SGT",
+    "branch": "U.S. Air Force",
+    "service": "1984–1994",
+    "note": "Desert Storm"
+  },
+  {
+    "name": "ROBERT B. FRASER",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "CHARLES T. SIMON",
+    "branch": "U.S. Air Force",
+    "conflict": "WWII",
+    "service": "1941–1945"
+  },
+  {
+    "name": "CARL R. MCBRIDE",
+    "rank": "TEC5",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "WILLIAM F. WARD",
+    "rank": "CPL",
+    "unit": "558th MP Co",
+    "service": "1953–1955",
+    "conflict": "Korea"
+  },
+  {
+    "name": "NORMAN R. SCHNEIDER",
+    "rank": "SSGT",
+    "unit": "71st AAA Bn",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "FRANKLIN SUNDERMAN",
+    "rank": "PVT",
+    "unit": "17th Inf. Regt.",
+    "conflict": "Korea",
+    "service": "1951–1954"
+  },
+  {
+    "name": "SGT. CARL OFFENBERGER",
+    "branch": "U.S. Army",
+    "conflict": "Korean Conflict"
+  },
+  {
+    "name": "SGT. AARON SEARS",
+    "branch": "U.S. Army",
+    "service": "1995–Present"
+  },
+  {
+    "name": "SEAN MCDERMOTT FRASER",
+    "rank": "SP4",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "PFC. CYRIL WILSON",
+    "branch": "U.S. Army",
+    "conflict": "Korean War",
+    "service": "1951–1953"
+  },
+  {
+    "name": "CM3C FRANCIS J. HUCK",
+    "branch": "U.S. Navy Seabees",
+    "unit": "Okinawa",
+    "conflict": "WWII",
+    "service": "1945"
+  },
+  {
+    "name": "CHARLES GENE HALL",
+    "branch": "U.S. Air Force",
+    "service": "1952–1956"
+  },
+  {
+    "name": "DARRELL S. WITTEKIND",
+    "rank": "PH",
+    "branch": "USMC, U.S.N.R.",
+    "conflict": "Vietnam",
+    "service": "2/27/67–12/1/69"
+  },
+  {
+    "name": "SSGT. PERL C. WITTEKIND",
+    "branch": "U.S. Army Co. B 67Bn",
+    "conflict": "WWII",
+    "service": "1/29/41–9/24/45"
+  },
+  {
+    "name": "SSGT. LAWRENCE FRENCH",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "S2C. ROBERT SEARS",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "SSG. ADAM SEARS",
+    "branch": "U.S. Army",
+    "service": "1993–Present"
+  },
+  {
+    "name": "PFC. JEFFERY B. McCAIN",
+    "unit": "119th Field Artillery",
+    "branch": "U.S. Army",
+    "service": "1997–2003"
+  },
+  {
+    "name": "CPL. LYLE F. HUFFMAN",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "ROBERT E. EDDY",
+    "branch": "U.S. Navy",
+    "service": "May 1970–Sept. 1972"
+  },
+  {
+    "name": "SGT. RALPH E. BLAIR",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1946",
+    "note": "USAF Res. ONIS 32–77"
+  },
+  {
+    "name": "MYRON DALE FARLEY",
+    "branch": "U.S. Air Force",
+    "service": "1950–1953"
+  },
+  {
+    "name": "WILBUR DEAN HALL",
+    "branch": "U.S. Army",
+    "service": "1954–1956"
+  },
+  {
+    "name": "PVT. WILLIAM S. YATES",
+    "branch": "U.S. Army",
+    "service": "1942–1943"
   }
 ]
