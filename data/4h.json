@@ -1,7 +1,367 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "Geo Carpenter Sr.",
+    "branch": "U.S. Navy",
+    "service": "1963–1966"
+  },
+  {
+    "name": "Sgt. Sharon S. Beilmeier",
+    "branch": "U.S. Air Force",
+    "service": "1942–1945"
+  },
+  {
+    "name": "CSM Larry Falkenstein",
+    "branch": "U.S. Army Reserve"
+  },
+  {
+    "name": "Danny Payne",
+    "branch": "U.S. Army",
+    "service": "1939–2008"
+  },
+  {
+    "name": "Sgt. Jack W. McGlaughlin",
+    "branch": "U.S. Marine Corps",
+    "service": "1951–1954"
+  },
+  {
+    "name": "Douglas C. Battig",
+    "branch": "U.S. Navy",
+    "service": "1998"
+  },
+  {
+    "name": "FTG (SS) Bruce E. Dennis",
+    "branch": "U.S. Navy Submariner",
+    "service": "May 1979–June 1998"
+  },
+  {
+    "name": "Troy R. Warne",
+    "branch": "U.S. Navy",
+    "conflict": "Operation Iraqi Freedom"
+  },
+  {
+    "name": "SFC Vernon Ault",
+    "branch": "U.S. Army",
+    "note": "Bronze Star",
+    "conflict": "Korea"
+  },
+  {
+    "name": "Sp4 Donald Warne Sr.",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "service": "1961–1964"
+  },
+  {
+    "name": "Herbert Duane Brum",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "Michael Augenstein",
+    "rank": "CPL",
+    "branch": "U.S. Marine Corps",
+    "conflict": "Vietnam",
+    "note": "“The Walking Dead”"
+  },
+  {
+    "name": "Joseph R. Augenstein",
+    "rank": "EM2",
+    "branch": "U.S. Navy",
+    "service": "1959–1962",
+    "note": "U.S.S. Fort Mandan"
+  },
+  {
+    "name": "Sgt. Rola Poynter",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SSG Rodney Scott",
+    "branch": "U.S. Army",
+    "conflict": "Operation Iraqi Freedom"
+  },
+  {
+    "name": "SSG Keith Eault",
+    "branch": "U.S. Army",
+    "note": "Retired",
+    "service": "1985–2006"
+  },
+  {
+    "name": "Sgt. Harold H. Turner",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "Cpl. Durward C. Gunn",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "note": "Medical Tech Corpsman"
+  },
+  {
+    "name": "Robert M. Gatrell",
+    "branch": "U.S. Army Intelligence",
+    "conflict": "WWII",
+    "note": "Bronze Star"
+  },
+  {
+    "name": "David E. Ballantyne",
+    "branch": "U.S. Army",
+    "service": "1970–1972"
+  },
+  {
+    "name": "EC5 Richard Koon",
+    "branch": "U.S. Army",
+    "service": "1945–1946",
+    "note": "World War II"
+  },
+  {
+    "name": "Donald Northover",
+    "rank": "Spec 5",
+    "branch": "U.S. Army",
+    "service": "1966–1969",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "SFC David L. Britton",
+    "branch": "U.S. Army",
+    "service": "July 2, 1978–May 16, 2004"
+  },
+  {
+    "name": "PFC James A. Britton",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "March 21, 1945–Dec. 1, 1946"
+  },
+  {
+    "name": "CPL Robert C. Parker",
+    "unit": "254th Infantry, Co. A, 63rd Division",
+    "service": "Feb. 1943–Feb. 1946"
+  },
+  {
+    "name": "PFC Frank Voshel",
+    "unit": "331st Inf., Co. D",
+    "branch": "U.S. Army",
+    "service": "May 1941–Nov. 1945"
+  },
+  {
+    "name": "Sgt. Richard Poynter",
+    "branch": "U.S. Air Force",
+    "service": "1966–1970"
+  },
+  {
+    "name": "Russell Beardsley",
+    "unit": "USS Indiana",
+    "service": "1942–1945"
+  },
+  {
+    "name": "S1C Lyle Poynter",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "Clesson Beardsley",
+    "rank": "Rifleman",
+    "unit": "745",
+    "service": "1942–1948"
+  },
+  {
+    "name": "Cecil Beardsley",
+    "unit": "377th Division",
+    "service": "1941–1944"
+  },
+  {
+    "name": "Sgt. Henry C. Groves",
+    "branch": "U.S. Army",
+    "unit": "Company 504",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "Harry E. Voshel",
+    "rank": "S1",
+    "branch": "USNR",
+    "service": "Feb. 1945–July 1946"
+  },
+  {
+    "name": "Sgt. Glenn Alan Lovett",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam",
+    "note": "KIA March 7, 1970"
+  },
+  {
+    "name": "Lt. Mark R. Hontz",
+    "branch": "U.S. Army Air Forces",
+    "service": "1943–1945",
+    "note": "Major, USAF Ret./Res."
+  },
+  {
+    "name": "Jasper Barnhart",
+    "unit": "Co. C, 4th Ohio Cavalry; Co. D, 174th Ohio Infantry"
+  },
+  {
+    "name": "Carlton W. Schramm",
+    "rank": "1st Lt.",
+    "branch": "U.S. Army Aviator",
+    "service": "1954–1958"
+  },
+  {
+    "name": "Sp3 Kenneth Heiss",
+    "branch": "U.S. Army",
+    "service": "1956–1958"
+  },
+  {
+    "name": "Hugh R. Hopper",
+    "rank": "Captain",
+    "branch": "USNR (Ret.)",
+    "service": "1959–1990"
+  },
+  {
+    "name": "Carl E. Petty",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "Sgt. Oliver Ormsston",
+    "branch": "U.S. Army",
+    "service": "1944–1946"
+  },
+  {
+    "name": "Sp5 David M. Bughannan",
+    "branch": "U.S. Army",
+    "unit": "Co. C, 983rd Engineer Bn",
+    "service": "1961–1962"
+  },
+  {
+    "name": "Sp4 Jack Poynter",
+    "branch": "U.S. Army",
+    "service": "1971–1973"
+  },
+  {
+    "name": "Philip E. Mitchell",
+    "branch": "U.S. Navy",
+    "service": "1962–1966"
+  },
+  {
+    "name": "Thomas R. Atkinson",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam War"
+  },
+  {
+    "name": "Sgt. Adam Lucas Haas",
+    "branch": "82nd U.S. Army",
+    "service": "2004–2010",
+    "conflict": "Iraq"
+  },
+  {
+    "name": "Sgt. Bruce Edward Haas",
+    "unit": "3CCG",
+    "branch": "U.S. Air Force",
+    "service": "1980–1984"
+  },
+  {
+    "name": "Leroy D. Hawkins",
+    "rank": "AL2",
+    "branch": "U.S. Air Force",
+    "service": "1957–1961"
+  },
+  {
+    "name": "John B. Henthorn",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "Eric S. Mitchell",
+    "rank": "AMH3/SS",
+    "branch": "U.S. Navy Reserve",
+    "service": "1986–1992"
+  },
+  {
+    "name": "Herbert Basinger",
+    "rank": "S1C",
+    "branch": "U.S. Navy",
+    "service": "1945–1946"
+  },
+  {
+    "name": "Clyde Hendershot",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "service": "1942–1946"
+  },
+  {
+    "name": "PFC John Szabo",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII",
+    "service": "1942–1946"
+  },
+  {
+    "name": "Sgt. Thomas F. Roney",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "North Africa/Italy"
+  },
+  {
+    "name": "CPL Chester E. Zimmer",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "POW"
+  },
+  {
+    "name": "Paul W. Zimmer",
+    "branch": "U.S. Air Force",
+    "rank": "Airman 2nd Class"
+  },
+  {
+    "name": "Robert Smith",
+    "rank": "RD2",
+    "unit": "USS Woren DL6; USS Buchanan DDG16"
+  },
+  {
+    "name": "Miranda N. Dalton",
+    "branch": "U.S. Air Force"
+  },
+  {
+    "name": "Pvt. Carter Buchanan",
+    "note": "Anti-Tank Gun Crewman",
+    "conflict": "WWII"
+  },
+  {
+    "name": "John J. Augenstein",
+    "branch": "U.S. Navy",
+    "service": "1958–1964"
+  },
+  {
+    "name": "Sp3 Gary E. Schafer",
+    "branch": "U.S. Army",
+    "unit": "32nd Infantry, Honor Guard",
+    "service": "1955–1957"
+  },
+  {
+    "name": "Sgt. Timothy Stevens",
+    "branch": "U.S. Air Force",
+    "service": "1971–1974"
+  },
+  {
+    "name": "SSG Joe Pittman",
+    "branch": "U.S. Army",
+    "conflict": "Operation Iraqi Freedom"
+  },
+  {
+    "name": "SSgt. Chester Stevens",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "Norris Benton",
+    "branch": "U.S. Navy",
+    "service": "1943–1946"
+  },
+  {
+    "name": "Esther N. Sisler",
+    "branch": "U.S. Army",
+    "service": "Sept. 1944–July 1946"
+  },
+  {
+    "name": "Dale J. Huck",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
   }
 ]
