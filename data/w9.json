@@ -1,7 +1,173 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "PVT. H. SHELDON GILL",
+    "branch": "U.S. Army",
+    "unit": "Cook",
+    "conflict": "WWI",
+    "service": "1917–1920"
+  },
+  {
+    "name": "PVT. JOHN PETRON",
+    "branch": "U.S. Army Infantry",
+    "conflict": "WWI",
+    "service": "1917–1920"
+  },
+  {
+    "name": "J. DON McCARTHY SR.",
+    "branch": "U.S. Army",
+    "unit": "Construction Engineer",
+    "conflict": "WWII",
+    "service": "1941–1945"
+  },
+  {
+    "name": "LT. ROBERT J. McCARTHY",
+    "branch": "U.S. Navy",
+    "unit": "Deck / Gunnery",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "BERNARD V. McCARTHY",
+    "branch": "U.S. Navy",
+    "unit": "Dental Technician",
+    "conflict": "WWII / Korea"
+  },
+  {
+    "name": "SSGT. ALLIE F. GRIMM JR.",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1938–1946"
+  },
+  {
+    "name": "ARTHUR R. TEWKESBURY",
+    "branch": "U.S. Army / Air Force",
+    "service": "1942–1946"
+  },
+  {
+    "name": "JOSEPH G. McCARTHY",
+    "branch": "U.S. Army Reserve",
+    "unit": "Cook / Construction Engineer",
+    "service": "1964–1965"
+  },
+  {
+    "name": "J. MICHAEL McCARTHY",
+    "branch": "Ohio National Guard",
+    "unit": "2/174 ADA (Detachment Commander)",
+    "service": "1969–1975"
+  },
+  {
+    "name": "JAMES D. McCARTHY JR.",
+    "branch": "U.S. Navy",
+    "unit": "Seabees",
+    "conflict": "Vietnam",
+    "service": "1965–1967"
+  },
+  {
+    "name": "SPEC. 4 FRED R. CROCK",
+    "branch": "Ohio National Guard",
+    "unit": "Medical Specialist",
+    "service": "1959–1963"
+  },
+  {
+    "name": "E5 MICHAEL D. FERGUSON",
+    "branch": "U.S. Navy",
+    "unit": "Hospital Corpsman 2nd Class",
+    "conflict": "Vietnam",
+    "service": "1967–1971"
+  },
+  {
+    "name": "SPEC. 5 L. MAC FENTON",
+    "branch": "U.S. Army Security",
+    "conflict": "Vietnam",
+    "service": "1962–1965"
+  },
+  {
+    "name": "SFC DAVID H. WHITE",
+    "branch": "U.S. Army Reserve",
+    "unit": "Operating Engineer",
+    "service": "1964–1970"
+  },
+  {
+    "name": "S. JOE TEWKESBURY",
+    "branch": "U.S. Navy",
+    "unit": "SKC (AC)",
+    "service": "1969–1975, 1991–2006"
+  },
+  {
+    "name": "J. MIKE TEWKESBURY",
+    "branch": "U.S. Navy",
+    "unit": "USS Independence (ADJ-3)",
+    "service": "1972–1975"
+  },
+  {
+    "name": "MATTHEW FRUM",
+    "branch": "U.S. Navy",
+    "unit": "STS1 (SS)",
+    "service": "1983–1991"
+  },
+  {
+    "name": "CHARLES FRUM",
+    "branch": "U.S. Air Force",
+    "unit": "A2C (P)",
+    "service": "1950–1953"
+  },
+  {
+    "name": "MICHAEL FRUM",
+    "branch": "U.S. Navy",
+    "unit": "MMCM (SS)",
+    "service": "1983–2003"
+  },
+  {
+    "name": "NOLAN T. GARRETT JR.",
+    "branch": "Ohio Air National Guard",
+    "unit": "Airfield Management (SMSgt)"
+  },
+  {
+    "name": "MSGT. DAN CROCK",
+    "branch": "U.S. Air Force / Ohio ANG",
+    "service": "1989–1999"
+  },
+  {
+    "name": "MICHAEL T. TEWKESBURY",
+    "branch": "U.S. Navy",
+    "unit": "AMS",
+    "service": "1990–1998",
+    "note": "Desert Storm veteran"
+  },
+  {
+    "name": "SPC. DAN STALNAKER",
+    "branch": "U.S. Army",
+    "conflict": "Giessen, Germany",
+    "service": "1989–1992"
+  },
+  {
+    "name": "JESSE ADA",
+    "branch": "U.S. Navy",
+    "unit": "LCDR",
+    "service": "1963–1985"
+  },
+  {
+    "name": "JOSEPH R. ADA",
+    "branch": "U.S. Navy",
+    "unit": "Master Chief",
+    "service": "1966–1995"
+  },
+  {
+    "name": "D. ELMO McCULLOUGH",
+    "branch": "U.S. Marine Corps",
+    "unit": "22nd Marines",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SGT. VICKY P. (CARVER) GODDARD",
+    "branch": "U.S. Army",
+    "unit": "342nd MP Company",
+    "service": "1978–1983"
+  },
+  {
+    "name": "JOSE Q. ADA",
+    "branch": "U.S. Navy",
+    "unit": "Chief",
+    "service": "1941–1966"
   }
 ]
