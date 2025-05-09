@@ -1,7 +1,193 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "PFC JAMES L. CRIM",
+    "branch": "U.S. Army",
+    "service": "1959–1962"
+  },
+  {
+    "name": "ROY LEE MYERS JR.",
+    "rank": "GYSGT",
+    "branch": "U.S. Marines",
+    "service": "1952–Oct 1979"
+  },
+  {
+    "name": "JOHN L. GRAYSON",
+    "rank": "T/4 Artillery",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "THOMAS W. HOFF SR.",
+    "branch": "U.S. Army Artillery",
+    "service": "1967–1970"
+  },
+  {
+    "name": "T/SGT THOMAS R. HOFF",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "decorations": ["Silver Star", "KIA"]
+  },
+  {
+    "name": "CPL LARRY R. FORD",
+    "branch": "U.S. Army Cavalry, 106th",
+    "conflict": "WWII",
+    "service": "1944–1945"
+  },
+  {
+    "name": "OSCAR L. THOMAS",
+    "branch": "U.S. Army",
+    "service": "1918–1919"
+  },
+  {
+    "name": "CHARLES M. BAKER",
+    "branch": "U.S. Army",
+    "conflict": "Korean War"
+  },
+  {
+    "name": "SGT HENRY S. KELLER",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1943–1945"
+  },
+  {
+    "name": "NELLIE R. CLEARY",
+    "branch": "Army Nurse Corps",
+    "conflict": "World War I"
+  },
+  {
+    "name": "SSG RAY G. BONAR",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "SARAH L. SPRAGUE",
+    "branch": "U.S. Army",
+    "service": "1-8-1944–9-20-1945"
+  },
+  {
+    "name": "BERNARD Y. GOODMAN",
+    "branch": "U.S. Navy",
+    "rate": "BT2",
+    "service": "1951–1955"
+  },
+  {
+    "name": "RAYMOND C. GOODMAN",
+    "branch": "Army Regular Air Force",
+    "service": "1954–1962"
+  },
+  {
+    "name": "SGT ANTHONY ARMOR",
+    "unit": "134th CSSB, Ohio USAR",
+    "conflict": "Kosovo – Qatar"
+  },
+  {
+    "name": "SGT HENRY S. VOELKER",
+    "branch": "U.S. Army",
+    "service": "1951–1955"
+  },
+  {
+    "name": "CPL ALVIN R. FORD",
+    "branch": "U.S. Army",
+    "conflict": "WWI",
+    "service": "1914–1946"
+  },
+  {
+    "name": "TSGT HOWARD FORD",
+    "branch": "U.S. Army",
+    "decorations": ["Silver Star", "KIA"],
+    "died": "12-8-1945"
+  },
+  {
+    "name": "ROBERT P. HUNDLEY",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "1945–1946"
+  },
+  {
+    "name": "IC-2 GREG H. ADAMS",
+    "branch": "U.S. Navy",
+    "service": "1990–1994"
+  },
+  {
+    "name": "SP5 JOHN F. AMRINE",
+    "branch": "U.S. Army",
+    "unit": "1st Cavalry",
+    "conflict": "Vietnam",
+    "service": "1968–1970"
+  },
+  {
+    "name": "ROBERT M. AMRINE",
+    "unit": "Co. C, 151st Engineer Bn",
+    "service": "1964–1990"
+  },
+  {
+    "name": "CHARLES E. BAKER",
+    "branch": "U.S. Navy",
+    "service": "1944–1945"
+  },
+  {
+    "name": "CHARLES PORTER",
+    "branch": "U.S. Army",
+    "conflict": "Iraqi Freedom"
+  },
+  {
+    "name": "JAMES D. BUMGARDNER",
+    "branch": "U.S. Navy",
+    "rate": "EM2",
+    "service": "1955–1957"
+  },
+  {
+    "name": "JOHN JACK STARKEY",
+    "rank": "SGT",
+    "branch": "U.S. Army",
+    "service": "1952–1953"
+  },
+  {
+    "name": "WALTER MOREY",
+    "branch": "U.S. Navy",
+    "conflict": "Korea"
+  },
+  {
+    "name": "JAY M. GRAYSON JR.",
+    "conflict": "Desert Storm"
+  },
+  {
+    "name": "PFC NICHOLAS MACKEY",
+    "branch": "U.S. Army",
+    "service": "2005"
+  },
+  {
+    "name": "CHARLES E. BERGER",
+    "branch": "U.S. Navy",
+    "service": "1944–1945"
+  },
+  {
+    "name": "JERRY H. \"PAPPY\" GRAHAM",
+    "branch": "U.S. Air Force",
+    "service": "1968–1972"
+  },
+  {
+    "name": "CPL GEORGE MASSELLI",
+    "branch": "U.S. Army",
+    "service": "1955–1957"
+   },
+  { 
+    "name": "SSG RAY G. BONAR",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "SP-5 JOHN F. AMRINE",
+    "branch": "U.S. Army",
+    "unit": "199th LIB",
+    "conflict": "Vietnam",
+    "service": "1969–1970"
+  },
+  {
+    "name": "ROBERT M. AMRINE",
+    "rank": "Col. Engr.",
+    "unit": "1st Engr. Bn, 1ID",
+    "service": "1964–1990"
   }
 ]
