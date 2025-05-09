@@ -1,7 +1,411 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "LARRY W. COX",
+    "note": "SP5 622D AMMUN SUP RMANY"
+  },
+  {
+    "name": "ROBERT N. O’LINN",
+    "branch": "U.S. Army",
+    "service": "1967–1973",
+    "conflict": "Vietnam",
+    "note": "INF VIETNAM 1967–1968"
+  },
+  {
+    "name": "1LT. RICHARD B. TAYLOR",
+    "branch": "U.S. Army",
+    "conflict": "Republic of Vietnam"
+  },
+  {
+    "name": "SGT RICHARD TAYLOR",
+    "branch": "U.S. Army",
+    "conflict": "Philippines WWII"
+  },
+  {
+    "name": "SGT. DALE S. MARTIN",
+    "branch": "U.S. Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "HEWITT L. WENNING",
+    "rank": "SSGT",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "LARRY J. POTTMEYER",
+    "rank": "Sergeant",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "1967–1969"
+  },
+  {
+    "name": "PVT. TEDDY PARKER",
+    "branch": "U.S. Army",
+    "service": "1941–1943"
+  },
+  {
+    "name": "ROBERT L. PIOLI",
+    "rank": "Aviation Cadet",
+    "conflict": "WWII",
+    "service": "1942–1943"
+  },
+  {
+    "name": "SGT. LUKE R. ARNOLD",
+    "branch": "U.S. Army",
+    "unit": "9th Infantry",
+    "conflict": "Vietnam",
+    "service": "1968–1969"
+  },
+  {
+    "name": "CHARLES E. LOWE",
+    "branch": "U.S. Navy",
+    "conflict": "WWII",
+    "service": "3/1944–3/1945"
+  },
+  {
+    "name": "H. E. HANDSCHUMACHER",
+    "rank": "T5",
+    "branch": "U.S. Army",
+    "service": "1945–1946"
+  },
+  {
+    "name": "SIDNEY SCHNEIDER",
+    "rank": "Sergeant",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "1941–1945"
+  },
+  {
+    "name": "SGT. DORYL HARRA",
+    "branch": "U.S. Army",
+    "service": "1942–1945"
+  },
+  {
+    "name": "PFC JOHN D. ENGLE",
+    "branch": "U.S. Army",
+    "service": "1944–1945",
+    "conflict": "WWII Philippines"
+  },
+  {
+    "name": "SPC. BILL C. LOW",
+    "branch": "U.S. Army",
+    "service": "1957–1959"
+  },
+  {
+    "name": "SSGT. JOHN P. DYAR",
+    "branch": "U.S. Army",
+    "service": "1941–1945",
+    "conflict": "WWII India"
+  },
+  {
+    "name": "FRANKLIN D. ENGLE",
+    "branch": "U.S. Navy",
+    "conflict": "Korea",
+    "service": "1952–1956"
+  },
+  {
+    "name": "SPC. JAMES L. LOW",
+    "branch": "U.S. Army",
+    "service": "1984–1988"
+  },
+  {
+    "name": "GARY E. CHRISTOPHER",
+    "branch": "U.S. Army",
+    "conflict": "Korea",
+    "service": "9/11/59–8/21/62"
+  },
+  {
+    "name": "EARL C. ADAMS",
+    "rank": "FC2 DMS & DM",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "THEODORE R. MAZE",
+    "rank": "SN–1",
+    "branch": "U.S. Navy",
+    "service": "5/18/43–1/29/46"
+  },
+  {
+    "name": "COREY SCHWENDEMAN",
+    "rank": "SSGT",
+    "branch": "U.S. Marine Corps",
+    "conflict": "OIF Iraq"
+  },
+  {
+    "name": "DAN W. BRILL",
+    "rank": "Staff Sergeant",
+    "branch": "U.S. Marine Corps",
+    "service": "1995–2005",
+    "conflict": "OIF"
+  },
+  {
+    "name": "SGT. JOHN COLLINS",
+    "branch": "U.S. Marine Corps",
+    "service": "1995–2001"
+  },
+  {
+    "name": "CPL. EARL THIEMAN",
+    "branch": "U.S. Army",
+    "conflict": "Korea"
+  },
+  {
+    "name": "SGT. JAMES BONNETTE",
+    "branch": "U.S. Army",
+    "service": "1955–1957"
+  },
+  {
+    "name": "SGM JOHN M. COLLINS",
+    "branch": "U.S. Army",
+    "service": "1970–2007"
+  },
+  {
+    "name": "COL. ELMER CALDWELL",
+    "branch": "U.S. Army Artillery",
+    "conflict": "WWII, Korea, Vietnam"
+  },
+  {
+    "name": "DEAN PATT DECKER SR.",
+    "rank": "S1C",
+    "branch": "U.S. Navy",
+    "unit": "Admiralty Islands Pacific",
+    "service": "1944–1946"
+  },
+  {
+    "name": "DEREK M. BURTON",
+    "rank": "ABE2 (AW)",
+    "branch": "U.S. Navy",
+    "conflict": "Iraqi Freedom"
+  },
+  {
+    "name": "ROBERT SCHULTHES",
+    "note": "Radio Technician Navy WWII"
+  },
+  {
+    "name": "JOHN H. DECKER JR.",
+    "rank": "STC",
+    "branch": "U.S. Navy",
+    "unit": "Atlantic–Pacific Ops",
+    "service": "1943–1946"
+  },
+  {
+    "name": "“BUD” JURDEN",
+    "note": "PVT KIA Army WWII Battle of Bulge"
+  },
+  {
+    "name": "GALE A. MATTHEWS",
+    "branch": "U.S. Army",
+    "rank": "T5",
+    "service": "1943–1945"
+  },
+  {
+    "name": "ROBERT E. MCINNTOSH",
+    "branch": "U.S. Navy",
+    "rank": "GM3",
+    "conflict": "Korea",
+    "service": "1951–1955"
+  },
+  {
+    "name": "CHARLES R. ANKROM",
+    "branch": "U.S. Army",
+    "service": "1943–1946"
+  },
+  {
+    "name": "CHARLES PICKERING",
+    "branch": "U.S. Army",
+    "unit": "AAA",
+    "service": "1955–1957"
+  },
+  {
+    "name": "RICHARD L. WALTERS",
+    "branch": "U.S. Army",
+    "rank": "PFC",
+    "service": "1942–1945",
+    "note": "Purple Heart"
+  },
+  {
+    "name": "JON F. BERGEN",
+    "branch": "U.S. Air Force",
+    "service": "1959–1963"
+  },
+  {
+    "name": "ELMER TREADWAY",
+    "note": "PFC Purple Heart Korean War"
+  },
+  {
+    "name": "HAROLD E. ELLIS",
+    "rank": "T5 121st",
+    "branch": "U.S. Army Europe",
+    "service": "1944–1946"
+  },
+  {
+    "name": "ODIS D. COLLINS",
+    "branch": "U.S. Army",
+    "unit": "B-26",
+    "conflict": "WWII"
+  },
+  {
+    "name": "DALE A. ELLIS",
+    "rank": "CT2",
+    "branch": "U.S. Navy",
+    "unit": "Nav/Sech Rudet",
+    "service": "1960–1964"
+  },
+  {
+    "name": "LEO HUPP",
+    "rank": "BT-3",
+    "branch": "U.S. Navy",
+    "service": "1980–1963"
+  },
+  {
+    "name": "WM. R. GROSS",
+    "rank": "SP3",
+    "branch": "U.S. Army",
+    "unit": "Scawart",
+    "service": "1953–1956"
+  },
+  {
+    "name": "DONALD H. RUSSEL",
+    "branch": "U.S. Coast Guard",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MIKE PRITCHETT",
+    "rank": "PV2",
+    "branch": "U.S. Army",
+    "service": "1974–1975"
+  },
+  {
+    "name": "ERNEST E. GROSS",
+    "rank": "PFC",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "note": "Purple Heart"
+  },
+  {
+    "name": "JOSEPH P. GAUGHAN SR.",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "JOSEPH P. GAUGHAN JR.",
+    "branch": "U.S. Army",
+    "conflict": "Berlin Crisis"
+  },
+  {
+    "name": "CARL R. NELSON",
+    "unit": "Military Police",
+    "branch": "U.S. Army",
+    "service": "1962–1968"
+  },
+  {
+    "name": "FORD DECKER",
+    "rank": "T5",
+    "note": "Northern–Apennines Infantry WWII"
+  },
+  {
+    "name": "WILLIAM D. LACEY",
+    "branch": "U.S. Army",
+    "service": "1946–1947"
+  },
+  {
+    "name": "CHARLES D. CLOGSTON",
+    "branch": "U.S. Navy",
+    "service": "1943–1946"
+  },
+  {
+    "name": "ROBERT S. DECKER",
+    "rank": "T5",
+    "unit": "Co A 819th Eng. Av Bn",
+    "service": "1942–1945",
+    "note": "Normandy"
+  },
+  {
+    "name": "GEORGE SID HEINEY",
+    "branch": "U.S. Air Force",
+    "service": "1961–1965"
+  },
+  {
+    "name": "ED TUCHOLSKI",
+    "rank": "FTCS",
+    "branch": "U.S. Navy",
+    "service": "1954–1973"
+  },
+  {
+    "name": "FOSTER E. WHITACRE",
+    "branch": "U.S. Army",
+    "service": "1945–1946"
+  },
+  {
+    "name": "EDWARD SCHOEPPNER",
+    "branch": "U.S. Navy",
+    "unit": "USS KAKK",
+    "conflict": "WWII",
+    "service": "1944–1946"
+  },
+  {
+    "name": "BERNARD T. LEISTER",
+    "branch": "U.S. Army",
+    "service": "1954–1957"
+  },
+  {
+    "name": "JOHN J. SCHOEPPNER",
+    "branch": "U.S. Army",
+    "unit": "75th Div.",
+    "conflict": "WWII"
+  },
+  {
+    "name": "JAMES LEISTER",
+    "branch": "U.S. Army",
+    "unit": "91st Eng.",
+    "conflict": "Korea",
+    "service": "1951–1953"
+  },
+  {
+    "name": "STEVEN J. HENRY",
+    "rank": "SP4",
+    "branch": "U.S. Army",
+    "service": "1964–1970"
+  },
+  {
+    "name": "RICHARD R. SEAL",
+    "rank": "CPL",
+    "branch": "U.S. Army",
+    "service": "1954–1957"
+  },
+  {
+    "name": "ERNEST E. GYORKY",
+    "note": "PFC Purple Heart US Army WWII"
+  },
+  {
+    "name": "EARL W. JOHNSON",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "LEWIS YONALEY JR.",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "KARL D. EDDY",
+    "rank": "SGT",
+    "branch": "U.S. Army"
+  },
+  {
+    "name": "JASON GRAYSON",
+    "rank": "SSGT",
+    "branch": "U.S. Marine Corps"
+  },
+  {
+    "name": "PAUL W. MURRAY",
+    "rank": "SGT",
+    "branch": "U.S. Air Force"
+  },
+  {
+    "name": "C. C. SIMMONS",
+    "unit": "Co E Thirty Fifth Infantry",
+    "rank": "PFC"
   }
 ]
