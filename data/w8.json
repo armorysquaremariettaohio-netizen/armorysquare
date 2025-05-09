@@ -1,7 +1,296 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "RICHARD T. ROBINSON",
+    "branch": "U.S. Army Air Corps",
+    "note": "Bombardier",
+    "conflict": "WWII"
+  },
+  {
+    "name": "ROBERT C. ROBINSON",
+    "branch": "U.S. Navy",
+    "note": "Lieutenant Junior Grade, Pacific Theater",
+    "conflict": "WWII"
+  },
+  {
+    "name": "DALE C. ROBINSON",
+    "branch": "U.S. Army",
+    "conflict": "Korean War"
+  },
+  {
+    "name": "RICHARD P. ROBINSON II",
+    "branch": "U.S. Marine Corps",
+    "service": "1966–1968",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "CALEB A. ROBINSON",
+    "branch": "U.S. Navy",
+    "unit": "Dental Corps",
+    "service": "2004–2007"
+  },
+  {
+    "name": "LAWRENCE V. ARNOLD",
+    "branch": "U.S. Army",
+    "service": "1970–1973",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "BERNARD A. SCHILLING",
+    "branch": "U.S. Army (1st Cavalry)",
+    "service": "1962–1968",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "BERNARD A. SCHILLING",
+    "branch": "U.S. Army (1/6 Air Cavalry)",
+    "unit": "Apache",
+    "service": "1987–1991"
+  },
+  {
+    "name": "JAMES F. FARLEY",
+    "branch": "U.S. Army",
+    "note": "Medic, Normandy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "RICHARD P. ROBINSON",
+    "branch": "U.S. Army Air Corps",
+    "note": "Bombardier",
+    "conflict": "WWII"
+  },
+  {
+    "name": "CLAYTON A. ROBINSON",
+    "branch": "U.S. Navy",
+    "note": "LCDR, Persian Gulf Wars/GWOT"
+  },
+  {
+    "name": "WAYNE DE NAYLOR",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "GARY K. NAYLOR",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "JOSEPH D. FOUSS",
+    "branch": "U.S. Army Reserve",
+    "service": "1957–1964"
+  },
+  {
+    "name": "THOMAS E. FOUSS",
+    "branch": "U.S. Army",
+    "service": "1956 & 1966"
+  },
+  {
+    "name": "LARRY L. FOUSS",
+    "branch": "U.S. Army Reserve",
+    "service": "1959–1967"
+  },
+  {
+    "name": "JIM L. NAYLOR",
+    "branch": "U.S. Air Force",
+    "service": "1956–1960"
+  },
+  {
+    "name": "MIKE W. NAYLOR",
+    "branch": "U.S. Army",
+    "service": "1969–1971"
+  },
+  {
+    "name": "EDWIN D. FOUSS",
+    "branch": "U.S. Army",
+    "unit": "Germany",
+    "service": "Mar 1944–Nov 1945"
+  },
+  {
+    "name": "DAVID ALBERT SEMMLER",
+    "note": "PFC KIA 5 Feb 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "GEORGE T. TAFF JR.",
+    "note": "1 LT. KIA 20 Feb 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "SCOTT MICHAEL M.",
+    "note": "SGT KIA 5 Apr 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "KEVIN C. KRAMER",
+    "note": "CPL KIA 10 Mar 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "ROBERT NOLAN",
+    "branch": "U.S. Navy",
+    "note": "1st Class",
+    "service": "1943–1946",
+    "conflict": "WWII"
+  },
+  {
+    "name": "ALLEN NOLAN",
+    "branch": "National Guard",
+    "note": "SPL, Died Iraq 9-30-2004"
+  },
+  {
+    "name": "DAVID C. JOHNSON",
+    "note": "SGT KIA 5 Feb 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "GEORGE F. HAY JR.",
+    "note": "1 LT. KIA 20 Feb 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "MICHAEL E. BALL",
+    "note": "CPL KIA 17 Apr 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "RUSSELL E. LAUGHRY",
+    "unit": "400 MP Btn, 7th Army",
+    "service": "1943–1945"
+  },
+  {
+    "name": "JOSEPH C. LANGFORD",
+    "branch": "U.S. Army",
+    "unit": "SP4 INF",
+    "service": "1958–1960"
+  },
+  {
+    "name": "CHARLES R. EICHHORN",
+    "branch": "U.S. Air Force",
+    "unit": "TSGT, Korea",
+    "service": "4 Jan 1951–31 Jul 1971"
+  },
+  {
+    "name": "DONALD L. EICHHORN",
+    "branch": "U.S. Air Force",
+    "service": "12 Feb 1954–3 Jul 1957"
+  },
+  {
+    "name": "LELAND EICHHORN",
+    "branch": "U.S. Army",
+    "unit": "Germany",
+    "service": "16 Jun 1955–10 Jan 1958"
+  },
+  {
+    "name": "DAVID D. EICHHORN",
+    "branch": "U.S. Army",
+    "unit": "Vietnam, SP5",
+    "service": "24 Feb 1970–8 Dec 1971"
+  },
+  {
+    "name": "LARRY JAMES PEPPER",
+    "note": "SP4, KIA 31 Jan 1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "JOSEPH C. LANGFORD",
+    "branch": "U.S. Army",
+    "unit": "WPNS. C Btry. 2/36 FA",
+    "note": "SP4"
+  },
+  {
+    "name": "HAROLD L. EICHHORN",
+    "branch": "U.S. Army",
+    "unit": "SP4",
+    "service": "7 Oct 1965–6 Aug 1967",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "JACK CHEESEMAN",
+    "branch": "U.S. Marine Corps",
+    "service": "1953–1956"
+  },
+  {
+    "name": "JACK POWERS",
+    "branch": "U.S. Navy",
+    "note": "SM1",
+    "service": "1946–1948"
+  },
+  {
+    "name": "TERRY POWERS",
+    "branch": "U.S. Navy",
+    "note": "E4",
+    "service": "1968–1972"
+  },
+  {
+    "name": "GENE R. WEIHL",
+    "branch": "U.S. Air Force",
+    "service": "1948–1952",
+    "conflict": "Korea"
+  },
+  {
+    "name": "RONALD E. CHIDESTER",
+    "branch": "U.S. Navy",
+    "note": "CS3",
+    "service": "1952–1956"
+  },
+  {
+    "name": "HAROLD A. CHIDESTER",
+    "branch": "U.S. Marine Corps",
+    "note": "SGT E4",
+    "service": "1955–1959"
+  },
+  {
+    "name": "CHARLES CHIDESTER",
+    "branch": "U.S. Army",
+    "note": "SIGC SP4",
+    "service": "1955–1958"
+  },
+  {
+    "name": "THORNTON LAUGHERY",
+    "unit": "Inf. Co. F, 2nd Reg., WVA",
+    "service": "1864–1867",
+    "conflict": "Civil War"
+  },
+  {
+    "name": "NORMAN E. LAUGHERY",
+    "branch": "U.S. Army",
+    "unit": "812th MP Co",
+    "service": "1941–1945"
+  },
+  {
+    "name": "MICHAEL E. LAUGHERY",
+    "branch": "U.S. Army",
+    "note": "Master Sgt. (Ret.)",
+    "service": "1978–1998"
+  },
+  {
+    "name": "GARY D. SMITH",
+    "branch": "U.S. Army",
+    "unit": "A Co 3/35th Armor",
+    "service": "1972–1975"
+  },
+  {
+    "name": "NORMAN O. WHITING",
+    "branch": "U.S. Army",
+    "note": "Lt. Colonel"
+  },
+  {
+    "name": "CRESTON F. WHITING JR.",
+    "branch": "U.S. Army & U.S. Air Force",
+    "note": "PFC & Lt. Col."
+  },
+  {
+    "name": "JAMES O. WHITING",
+    "branch": "U.S. Navy",
+    "note": "Ensign"
+  },
+  {
+    "name": "DONALD P. WHITING",
+    "branch": "U.S. Army",
+    "note": "2nd Lt. Infantry"
+  },
+  {
+    "name": "CRESTON F. WHITING SR.",
+    "branch": "U.S. Army",
+    "note": "PFC"
   }
 ]
