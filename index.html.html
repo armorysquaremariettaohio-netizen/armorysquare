@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Veterans Square Memorial – Marietta, OH</title>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&amp;display=swap" rel="stylesheet"/>
+<style>
+    body {
+      margin: 0;
+      font-family: 'Merriweather', serif;
+      background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://cdn.pixabay.com/photo/2016/11/22/23/41/american-flag-1853267_1280.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+    header {
+      background-color: rgba(47, 79, 79, 0.95);
+      text-align: center;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3.125em;
+      color: white;
+      text-shadow: 0 0 10px #000;
+    }
+    .container {
+      max-width: 960px;
+      margin: 20px auto;
+      padding: 20px;
+    }
+    .search-box {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .search-box input {
+      width: 60%;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      margin-right: 10px;
+    }
+    .search-box button {
+      padding: 10px 20px;
+      background-color: #2f4f4f;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .plots {
+  background: url('Soldier.png') no-repeat center center;
+  background-size: contain;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .plot-box {
+      width: 100px;
+      height: 100px;
+      background-color: #556b2f;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      font-weight: bold;
+      border: 2px solid #ccc;
+      cursor: pointer;
+      margin: 10px;
+      transition: 0.3s ease;
+      box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+    }
+    .plot-box:hover {
+      background-color: #6b8e23;
+      transform: scale(1.05);
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+    }
+    footer {
+      background-color: #4b5320;
+      text-align: center;
+      padding: 20px;
+      color: #fff;
+      margin-top: 40px;
+    }
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 100;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background: rgba(0, 0, 0, 0.7);
+    }
+    .modal-content {
+      background: #fff;
+      color: #000;
+      margin: 10% auto;
+      padding: 20px;
+      border-radius: 10px;
+      width: 90%;
+      max-width: 600px;
+    }
+    .close {
+      float: right;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+  
+/* Search bar enhancements */
+.search-box input:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  border: 1px solid #4b5320;
+}
+.search-box button {
+  animation: pulse 3s infinite;
+}
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(255,255,255,0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(255,255,255,0); }
+  100% { box-shadow: 0 0 0 0 rgba(255,255,255,0); }
+}
+/* Typing effect */
+.typing-banner {
+  font-size: 1.3em;
+  font-style: italic;
+  color: #eee;
+  margin-bottom: 20px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  width: 0;
+  animation: typing 4s steps(40, end) forwards, blink 0.75s step-end infinite;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+/* Fade-in effect on plots */
+.plot-box {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.5s ease forwards;
+}
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+  
+.hero-section {
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+}
+#heroVideo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  z-index: 1;
+}
+.hero-overlay {
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-overlay h1 {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 5px #000;
+}
+.quote-carousel {
+  text-align: center;
+  margin: 20px;
+  font-size: 1.3em;
+  color: #fff;
+}
+.quote {
+  display: none;
+  animation: fade 2s ease-in-out forwards;
+}
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+#music-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+  background: rgba(47, 79, 79, 0.9);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 2000;
+}
+
+  
+.branch-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 30px auto;
+  max-width: 800px;
+}
+.branch-icons img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  animation: fadeInIcons 1s ease forwards;
+  opacity: 0;
+}
+.branch-icons img:nth-child(1) { animation-delay: 0.2s; }
+.branch-icons img:nth-child(2) { animation-delay: 0.4s; }
+.branch-icons img:nth-child(3) { animation-delay: 0.6s; }
+.branch-icons img:nth-child(4) { animation-delay: 0.8s; }
+.branch-icons img:nth-child(5) { animation-delay: 1.0s; }
+
+@keyframes fadeInIcons {
+  to { opacity: 1; transform: scale(1.05); }
+}
+
+.cta-section {
+  text-align: center;
+  margin: 40px 0 20px;
+}
+.cta-button {
+  background-color: #4b5320;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 10px;
+  font-size: 1.1em;
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  transition: 0.3s ease;
+}
+.cta-button:hover {
+  background-color: #6b8e23;
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(255,255,255,0.5);
+}
+
+.plots {
+  background: url('Soldier.png') no-repeat center center;
+  background-size: contain;
+  background-image: url('Soldier.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+  
+#night-toggle {
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 2000;
+}
+.night-mode body, .night-mode .modal-content {
+  background-color: #f5f5f5 !important;
+  color: #111 !important;
+}
+.night-mode .plot-box {
+  background-color: #ddd !important;
+  color: #000 !important;
+}
+.night-mode #music-toggle, .night-mode #night-toggle {
+  background-color: #222 !important;
+  color: white !important;
+}
+
+
+body {
+  background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('armorysq.JPG') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+}
+header {
+  background-color: #0a1c2e;
+}
+header h1 {
+  color: #ffffff;
+  text-shadow: 0 0 10px rgba(255,255,255,0.4);
+}
+.plot-box {
+  background-color: #1e3d59;
+  border: 2px solid #ffffff;
+  color: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+.plot-box:hover {
+  background-color: #b22234;
+  transform: scale(1.08);
+  transition: 0.3s ease;
+}
+.search-box button {
+  background-color: #b22234;
+}
+#music-toggle, #night-toggle {
+  background-color: #0a1c2e;
+}
+footer {
+  background-color: #0a1c2e;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+.cta-button {
+  background-color: #b22234;
+}
+
+.patriotic-banner {
+  background-color: #b22234;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+}
+
+.top-header {
+  background-color: #0a1c2e;
+  padding: 20px 0;
+  text-align: center;
+}
+.top-header h1 {
+  font-size: 2.8rem;
+  color: white;
+  margin: 0;
+  text-shadow: 0 0 8px rgba(255,255,255,0.3);
+}
+.quote-carousel {
+  margin-top: 20px;
+}
+
+
+.top-header h1 {
+  font-size: 2.6rem;
+  margin: 10px 0 15px;
+  text-align: center;
+  color: white;
+}
+.hero-overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 10px 0;
+  text-align: center;
+}
+.hero-overlay h2 {
+  font-size: 1.8rem;
+  margin: 0;
+  color: white;
+}
+
+
+/* Navigation bar styles */
+.navbar {
+  position: sticky;
+  top: 0;
+  background-color: #0a1c2e;
+  z-index: 1000;
+  padding: 10px 0;
+  text-align: center;
+}
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar ul li {
+  display: inline;
+  margin: 0 15px;
+}
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+.navbar ul li a:hover {
+  color: #b22234;
+}
+
+/* Use Poppins font sitewide */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Button hover effect */
+.cta-button:hover,
+.search-box button:hover,
+#music-toggle:hover,
+#night-toggle:hover {
+  transform: scale(1.1);
+  background-color: #a71d2a;
+}
+
+/* Typewriter Carousel */
+#typed-quote {
+  font-size: 1.3em;
+  font-style: italic;
+  color: #eee;
+  border-right: 2px solid #fff;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* ===== Slideshow ===== */
+#slideshow {
+  position: relative;
+  max-width: 960px;
+  width: 100%;
+  height: 400px;
+  margin: 40px auto;
+  overflow: hidden;
+}
+
+#slideshow .slide {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+#slideshow .slide.active {
+  opacity: 1;
+}
+
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&amp;display=swap" rel="stylesheet"/></head>
+<body>
+<nav class="navbar">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#search">Search</a></li>
+<li><a href="#submit">Submit</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+<div class="top-header"><h1>Veterans Square Memorial – Marietta, OH</h1></div>
+<div class="hero-section">
+<video autoplay="" id="heroVideo" loop="" muted="">
+<source src="https://cdn.pixabay.com/video/2017/07/26/10790-228233206_large.mp4" type="video/mp4"/>
+</video>
+<div class="hero-overlay">
+<h1>Honoring Our Veterans</h1>
+</div>
+<div class="quote-carousel">
+<p class="quote">“A hero is someone who has given his life to something bigger than oneself.” – Joseph Campbell</p>
+<p class="quote">“All gave some, some gave all.”</p>
+<p class="quote">“Never was so much owed by so many to so few.” – Winston Churchill</p>
+<p class="quote">“We don’t know them all, but we owe them all.”</p>
+<p class="quote">“Freedom is never free.”</p>
+<p class="quote">“Home of the free, because of the brave.”</p>
+<p class="quote">“The legacy of heroes is the memory of a great name and the inheritance of a great example.” – Benjamin Disraeli</p>
+<p class="quote">“Our flag does not fly because the wind moves it. It flies with the last breath of each soldier who died protecting it.”</p>
+<p class="quote">“Veterans are not just soldiers — they are defenders of dreams.”</p>
+<p class="quote">“This nation will remain the land of the free only so long as it is the home of the brave.” – Elmer Davis</p>
+</div>
+<!-- Slideshow start -->
+<div id="slideshow">
+  <img src="1.png" class="slide active" alt="Slide 1">
+  <img src="2.png" class="slide"       alt="Slide 2">
+  <img src="3.png" class="slide"       alt="Slide 3">
+  <img src="4.png" class="slide"       alt="Slide 4">
+  <img src="5.png" class="slide"       alt="Slide 5">
+  <img src="6.png" class="slide"       alt="Slide 6">
+</div>
+<!-- Slideshow end -->
+
+</div>
+<audio id="bgMusic" loop="">
+<source src="https://cdn.pixabay.com/download/audio/2022/03/29/audio_a4fe3c9344.mp3" type="audio/mp3"/>
+</audio>
+<button id="music-toggle" onclick="toggleMusic()">Play Music</button>
+<div class="container">
+<div class="search-box">
+<input id="search-input" placeholder="Search a veteran's name or plot" type="text"/>
+<button onclick="searchVeteran()">Search</button>
+<div id="search-results"></div>
+</div>
+<div class="plots">
+<!-- All 49 plot boxes -->
+ <!-- W1–W9 -->
+    <div class="plot-box" onclick="openPlot('w1')" style="animation-delay: 0.05s">W1</div>
+    <div class="plot-box" onclick="openPlot('w2')" style="animation-delay: 0.10s">W2</div>
+    <div class="plot-box" onclick="openPlot('w3')" style="animation-delay: 0.15s">W3</div>
+    <div class="plot-box" onclick="openPlot('w4')" style="animation-delay: 0.20s">W4</div>
+    <div class="plot-box" onclick="openPlot('w5')" style="animation-delay: 0.25s">W5</div>
+    <div class="plot-box" onclick="openPlot('w6')" style="animation-delay: 0.30s">W6</div>
+    <div class="plot-box" onclick="openPlot('w7')" style="animation-delay: 0.35s">W7</div>
+    <div class="plot-box" onclick="openPlot('w8')" style="animation-delay: 0.40s">W8</div>
+    <div class="plot-box" onclick="openPlot('w9')" style="animation-delay: 0.45s">W9</div>
+
+    <!-- Row 1: 1A–1H -->
+    <div class="plot-box" onclick="openPlot('1a')" style="animation-delay: 0.50s">1A</div>
+    <div class="plot-box" onclick="openPlot('1b')" style="animation-delay: 0.55s">1B</div>
+    <div class="plot-box" onclick="openPlot('1c')" style="animation-delay: 0.60s">1C</div>
+    <div class="plot-box" onclick="openPlot('1d')" style="animation-delay: 0.65s">1D</div>
+    <div class="plot-box" onclick="openPlot('1e')" style="animation-delay: 0.70s">1E</div>
+    <div class="plot-box" onclick="openPlot('1f')" style="animation-delay: 0.75s">1F</div>
+    <div class="plot-box" onclick="openPlot('1g')" style="animation-delay: 0.80s">1G</div>
+    <div class="plot-box" onclick="openPlot('1h')" style="animation-delay: 0.85s">1H</div>
+
+    <!-- Row 2: 2A–2H -->
+    <div class="plot-box" onclick="openPlot('2a')" style="animation-delay: 0.90s">2A</div>
+    <div class="plot-box" onclick="openPlot('2b')" style="animation-delay: 0.95s">2B</div>
+    <div class="plot-box" onclick="openPlot('2c')" style="animation-delay: 1.00s">2C</div>
+    <div class="plot-box" onclick="openPlot('2d')" style="animation-delay: 1.05s">2D</div>
+    <div class="plot-box" onclick="openPlot('2e')" style="animation-delay: 1.10s">2E</div>
+    <div class="plot-box" onclick="openPlot('2f')" style="animation-delay: 1.15s">2F</div>
+    <div class="plot-box" onclick="openPlot('2g')" style="animation-delay: 1.20s">2G</div>
+    <div class="plot-box" onclick="openPlot('2h')" style="animation-delay: 1.25s">2H</div>
+
+    <!-- Row 3: 3A–3H -->
+    <div class="plot-box" onclick="openPlot('3a')" style="animation-delay: 1.30s">3A</div>
+    <div class="plot-box" onclick="openPlot('3b')" style="animation-delay: 1.35s">3B</div>
+    <div class="plot-box" onclick="openPlot('3c')" style="animation-delay: 1.40s">3C</div>
+    <div class="plot-box" onclick="openPlot('3d')" style="animation-delay: 1.45s">3D</div>
+    <div class="plot-box" onclick="openPlot('3e')" style="animation-delay: 1.50s">3E</div>
+    <div class="plot-box" onclick="openPlot('3f')" style="animation-delay: 1.55s">3F</div>
+    <div class="plot-box" onclick="openPlot('3g')" style="animation-delay: 1.60s">3G</div>
+    <div class="plot-box" onclick="openPlot('3h')" style="animation-delay: 1.65s">3H</div>
+
+    <!-- Row 4: drop 4A, then 4B–4H -->
+    <div class="plot-box" onclick="openPlot('4b')" style="animation-delay: 1.75s">4B</div>
+    <div class="plot-box" onclick="openPlot('4c')" style="animation-delay: 1.80s">4C</div>
+    <div class="plot-box" onclick="openPlot('4d')" style="animation-delay: 1.85s">4D</div>
+    <div class="plot-box" onclick="openPlot('4e')" style="animation-delay: 1.90s">4E</div>
+    <div class="plot-box" onclick="openPlot('4f')" style="animation-delay: 1.95s">4F</div>
+    <div class="plot-box" onclick="openPlot('4g')" style="animation-delay: 2.00s">4G</div>
+    <div class="plot-box" onclick="openPlot('4h')" style="animation-delay: 2.05s">4H</div>
+
+    <!-- Row 5: drop 5A–5C, then 5D–5H -->
+    <div class="plot-box" onclick="openPlot('5d')" style="animation-delay: 2.25s">5D</div>
+    <div class="plot-box" onclick="openPlot('5e')" style="animation-delay: 2.30s">5E</div>
+    <div class="plot-box" onclick="openPlot('5f')" style="animation-delay: 2.35s">5F</div>
+    <div class="plot-box" onclick="openPlot('5g')" style="animation-delay: 2.40s">5G</div>
+    <div class="plot-box" onclick="openPlot('5h')" style="animation-delay: 2.45s">5H</div>
+
+    <!-- Row 6: only E–H -->
+    <div class="plot-box" onclick="openPlot('6e')" style="animation-delay: 2.50s">6E</div>
+    <div class="plot-box" onclick="openPlot('6f')" style="animation-delay: 2.55s">6F</div>
+    <div class="plot-box" onclick="openPlot('6g')" style="animation-delay: 2.60s">6G</div>
+    <div class="plot-box" onclick="openPlot('6h')" style="animation-delay: 2.65s">6H</div>
+</div>
+</div>
+<div class="cta-section" id="submit">
+<p>Know a veteran who deserves to be remembered?</p>
+<a class="cta-button" href="#">Submit Their Name</a>
+</div>
+<footer>
+<p>© 2024 Marietta Veterans Memorial. All rights reserved.</p>
+</footer>
+<!-- Modal -->
+<div class="modal" id="modal">
+<div class="modal-content">
+<span class="close">×</span>
+<h2 id="modal-title">Plot</h2>
+<ul id="veteran-list"></ul>
+</div>
+</div>
+<script>
+    function openPlot(plotId) {
+      fetch(`data/${plotId}.json`)
+        .then(response => response.json())
+        .then(data => {
+          document.getElementById("modal-title").innerText = "Plot " + plotId.toUpperCase();
+          const list = document.getElementById("veteran-list");
+          list.innerHTML = "";
+          data.forEach(entry => {
+            const li = document.createElement("li");
+            li.textContent = Object.values(entry).join(" — ");
+            list.appendChild(li);
+          });
+          document.getElementById("modal").style.display = "block";
+        });
+    }
+
+    document.querySelector(".close").onclick = function () {
+      document.getElementById("modal").style.display = "none";
+    };
+
+    window.onclick = function(event) {
+      if (event.target === document.getElementById("modal")) {
+        document.getElementById("modal").style.display = "none";
+      }
+    };
+
+    function searchVeteran() {
+      const query = document.getElementById("search-input").value.toLowerCase().trim();
+      const plots = [...document.querySelectorAll('.plot-box')];
+      let found = false;
+      let searchResults = document.getElementById("search-results");
+      searchResults.innerHTML = "Searching...";
+      plots.forEach(plot => {
+        const plotId = plot.textContent.toLowerCase();
+        fetch(`data/${plotId}.json`)
+          .then(res => res.json())
+          .then(data => {
+            const matches = data.filter(entry => JSON.stringify(entry).toLowerCase().includes(query));
+            if (matches.length > 0) {
+              found = true;
+              searchResults.innerHTML = `<p><strong>${matches[0].name}</strong> found in plot <strong>${plot.textContent}</strong></p>`;
+            }
+          });
+      });
+      setTimeout(() => {
+        if (!found) searchResults.innerHTML = "<p>No results found.</p>";
+      }, 1500);
+    }
+  
+  let currentQuote = 0;
+  const quotes = document.querySelectorAll('.quote');
+  function rotateQuotes() {
+    quotes.forEach(q => q.style.display = 'none');
+    quotes[currentQuote].style.display = 'block';
+    currentQuote = (currentQuote + 1) % quotes.length;
+  }
+  setInterval(rotateQuotes, 5000);
+  rotateQuotes();
+
+  function toggleMusic() {
+    const music = document.getElementById("bgMusic");
+    const btn = document.getElementById("music-toggle");
+    if (music.paused) {
+      music.play();
+      btn.textContent = "Pause Music";
+    } else {
+      music.pause();
+      btn.textContent = "Play Music";
+    }
+  }
+
+  
+  function toggleNightMode() {
+    document.body.classList.toggle('night-mode');
+    const toggleBtn = document.getElementById("night-toggle");
+    toggleBtn.innerText = document.body.classList.contains('night-mode') ? "Day Mode" : "Night Mode";
+  }
+
+
+const quoteList = [
+  "A hero is someone who has given his life to something bigger than oneself.",
+  "All gave some, some gave all.",
+  "Never was so much owed by so many to so few. – Winston Churchill",
+  "We don’t know them all, but we owe them all.",
+  "Freedom is never free.",
+  "Home of the free, because of the brave.",
+  "The legacy of heroes is the memory of a great name and the inheritance of a great example. – Benjamin Disraeli",
+  "Our flag does not fly because the wind moves it. It flies with the last breath of each soldier who died protecting it.",
+  "Veterans are not just soldiers — they are defenders of dreams.",
+  "This nation will remain the land of the free only so long as it is the home of the brave. – Elmer Davis"
+];
+let quoteIndex = 0;
+let charIndex = 0;
+let typingSpeed = 50;
+
+function typeQuote() {
+  const typed = document.getElementById("typed-quote");
+  if (typed) {
+    if (charIndex < quoteList[quoteIndex].length) {
+      typed.textContent += quoteList[quoteIndex].charAt(charIndex);
+      charIndex++;
+      setTimeout(typeQuote, typingSpeed);
+    } else {
+      setTimeout(() => {
+        typed.textContent = "";
+        charIndex = 0;
+        quoteIndex = (quoteIndex + 1) % quoteList.length;
+        setTimeout(typeQuote, 500);
+      }, 4000);
+    }
+  }
+}
+typeQuote();
+
+document.addEventListener('DOMContentLoaded', function() {
+  const quotes = document.querySelectorAll('.quote');
+  let currentQuote = 0;
+  quotes.forEach(q => q.style.display = 'none');
+  function rotateQuotes() {
+    quotes.forEach(q => q.style.display = 'none');
+    quotes[currentQuote].style.display = 'block';
+    currentQuote = (currentQuote + 1) % quotes.length;
+  }
+  rotateQuotes();
+  setInterval(rotateQuotes, 5000);
+});
+</script>
+
+<script>
+  (function() {
+    const slides  = document.querySelectorAll('#slideshow .slide');
+    let   current = 0;
+
+    function nextSlide() {
+      slides[current].classList.remove('active');
+      current = (current + 1) % slides.length;
+      slides[current].classList.add('active');
+    }
+
+    setInterval(nextSlide, 5000);
+  })();
+</script>
+<button id="night-toggle" onclick="toggleNightMode()">Night Mode</button>
+</body>
+</html>
