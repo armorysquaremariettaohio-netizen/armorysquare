@@ -1,7 +1,368 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "PVT. MARION MORROW",
+    "branch": "U.S. ARMY 4TH INF",
+    "service": "1952–1955"
+  },
+  {
+    "name": "SGT. DANIEL MORROW",
+    "branch": "U.S. AIR FORCE",
+    "service": "VIETNAM 25TH 1974–1976"
+  },
+  {
+    "name": "WILLIAM S. EPAW",
+    "branch": "AIRBORNE RANGER U.S. ARMY",
+    "service": "OIF 06–08"
+  },
+  {
+    "name": "BERNARD E. SEEVERS",
+    "branch": "SGT. U.S. ARMY",
+    "service": "VIETNAM 1965–1967"
+  },
+  {
+    "name": "HERMAN E. MILLER",
+    "branch": "PRIVATE CO. G. 333RD INF. 84TH DIV.",
+    "service": "WWII"
+  },
+  {
+    "name": "SGT. ROBERT S. COLLING",
+    "branch": "U.S. AIR FORCE",
+    "service": "1955–2006"
+  },
+  {
+    "name": "SP4 JACK R. CASTO",
+    "branch": "U.S. ARMY",
+    "service": "1961–1964"
+  },
+  {
+    "name": "SP4 RONALD DAILEY",
+    "branch": "101ST AB. U.S. ARMY",
+    "service": "VIETNAM 1965–1967 KIA"
+  },
+  {
+    "name": "RHETT S. CLOSE",
+    "branch": "346TH PSYOP CO U.S. ARMY",
+    "service": "1997–2004"
+  },
+  {
+    "name": "STEVEN E. HILL",
+    "branch": "U.S. NAVY DIVER",
+    "service": "1994–1988"
+  },
+  {
+    "name": "LEROY GULBRAN",
+    "branch": "SSGT AIR FORCE",
+    "service": "KOREA 1952–1956"
+  },
+  {
+    "name": "RITA GULBRAN",
+    "branch": "A/2C AIR FORCE",
+    "service": "KOREA 1953–1954 DIED 1987"
+  },
+  {
+    "name": "REX L. HILL",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 2-11-1969–9-6-1970"
+  },
+  {
+    "name": "PFC. JOHN D. BLUME",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "FLOYD GRAHAM",
+    "branch": "U.S. ARMY",
+    "service": "FRANCE 1918–1919"
+  },
+  {
+    "name": "SGT. ALLEN L. PRINE",
+    "branch": "U.S. ARMY",
+    "service": "1979–1985"
+  },
+  {
+    "name": "MYRON 'BUM' MCGREW",
+    "branch": "OHIO S1 USNR",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "PVT. ALVIN G. MILLER",
+    "branch": "U.S. ARMY",
+    "service": "1944"
+  },
+  {
+    "name": "MELVIN PARSONS",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1948–1951"
+  },
+  {
+    "name": "PFC ALLEN G. PRINE",
+    "branch": "U.S. ARMY 39TH INFANTRY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "MAJOR W. R. TESCHE",
+    "branch": "",
+    "service": "BRONZE STAR, PH, CIB WWII"
+  },
+  {
+    "name": "SGT DONALD J. PRINE 'DT'",
+    "branch": "U.S. ARMY RA 15-225-839",
+    "service": "1944–1957 3RD DIV."
+  },
+  {
+    "name": "DONOVAN S. DUVALL",
+    "branch": "1ST LT. U.S. ARMY",
+    "service": "KOREA 1954–1955"
+  },
+  {
+    "name": "RANDY L. WHEELER",
+    "branch": "U.S. ARMY",
+    "service": ""
+  },
+  {
+    "name": "SP4 THOMAS C. PACK",
+    "branch": "U.S. ARMY",
+    "service": "1961–1963"
+  },
+  {
+    "name": "CLARENCE F. FARLEY",
+    "branch": "U.S. ARMY",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "R. E. HANDSCHUMAKER",
+    "branch": "433RD SIGNAL CORP.",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "CHESTER F. CLARK",
+    "branch": "U.S. ARMY",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "JOHN I. RECH",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "JAMES SCHOEPPNER",
+    "branch": "U.S. NAVY",
+    "service": "1954–1959"
+  },
+  {
+    "name": "SGT. ROBERT M. ADAMS",
+    "branch": "U.S. ARMY",
+    "service": "1973–1978"
+  },
+  {
+    "name": "SGT JAMES M. SMITH",
+    "branch": "485TH INF.",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "SP4 RONALD SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1964–1966"
+  },
+  {
+    "name": "PFC DONALD M. ENOCHS",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "CHARLES ED CASTO",
+    "branch": "SGT. U.S. ARMY",
+    "service": "1941–1945"
+  },
+  {
+    "name": "RALEIGH E. WILSON",
+    "branch": "A1C U.S. AIR FORCE",
+    "service": "1962–1965"
+  },
+  {
+    "name": "SGT KEVIN O'DELL",
+    "branch": "U.S. ARMY",
+    "service": "IRAQ 2003–2004"
+  },
+  {
+    "name": "IRA RICHARD CASTO",
+    "branch": "U.S. ARMY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "ROBERT E. WILSON",
+    "branch": "SGT. U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MARK PARSONS",
+    "branch": "USN USS TRUXT",
+    "service": "1975–1979"
+  },
+  {
+    "name": "DONALD D. SCHAFER",
+    "branch": "U.S. ARMY MED CORP",
+    "service": "1945–1947 WWII"
+  },
+  {
+    "name": "SGT JAMES G. CONNELLY",
+    "branch": "U.S. ARMY SIGNAL CORP",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "WILLIAM FRYMAN",
+    "branch": "AD2 USN",
+    "service": "1954–1956"
+  },
+  {
+    "name": "RANDY L. ERB",
+    "branch": "SERGEANT S.D.",
+    "service": "1981 SEMPER FI, DAD"
+  },
+  {
+    "name": "CHARLES D. WHITE",
+    "branch": "U.S. ARMY AIR CORP",
+    "service": "WWII"
+  },
+  {
+    "name": "COMER FRYMAN JR",
+    "branch": "A2C USAF",
+    "service": "1950–1954"
+  },
+  {
+    "name": "C. REX PRESCHER",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1957–1960 RECON"
+  },
+  {
+    "name": "LARRY MINKS SR.",
+    "branch": "U.S. AIR FORCE",
+    "service": "1957–1961"
+  },
+  {
+    "name": "ROBERT L. HAUSSER",
+    "branch": "SGT INF. EUROPE",
+    "service": "WOUNDED POW"
+  },
+  {
+    "name": "RICHARD E. HOLLEY",
+    "branch": "USN NAVY",
+    "service": "WWII 1944–1946"
+  },
+  {
+    "name": "COMER FRYMAN SR.",
+    "branch": "PVT/USA",
+    "service": "WWI 1918–1919"
+  },
+  {
+    "name": "CPL P. W. 'SNUFFY' SMITH",
+    "branch": "U.S. MARINE CORPS",
+    "service": "WWII - IWO JIMA 1944–1945"
+  },
+  {
+    "name": "DAVID F. VALENTINE",
+    "branch": "U.S. ARMY",
+    "service": "WWI"
+  },
+  {
+    "name": "DONALD H. DUNN JR.",
+    "branch": "U.S. NAVY",
+    "service": "SSBN 657 GOLD FRANCIS SCOTT KEY"
+  },
+  {
+    "name": "HERMAN E. BICKERT",
+    "branch": "SSGT U.S. AIR FORCE",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "NORBERT SCHILLING",
+    "branch": "U.S. ARMY",
+    "service": "1962–1965 8TH ARMY - KOREA"
+  },
+  {
+    "name": "SGT JAMES SPINDLER",
+    "branch": "U.S. ARMY",
+    "service": "1953–1967"
+  },
+  {
+    "name": "STAFF SGT D.H. DUNN",
+    "branch": "2ND INF. DIV.",
+    "service": "PH 1946–1952 KOREA"
+  },
+  {
+    "name": "LAWRENCE M. DEEM",
+    "branch": "PVT U.S. AIR FORCE",
+    "service": "WWII"
+  },
+  {
+    "name": "LUDWIG RECH",
+    "branch": "CIVIL WAR",
+    "service": "1864–1865"
+  },
+  {
+    "name": "JOSEPH M. FLEHMAN",
+    "branch": "U.S. ARMY",
+    "service": "1961–1964"
+  },
+  {
+    "name": "PFC LARRY DUNN",
+    "branch": "24TH INF. DIV.",
+    "service": "KOREA 1948–1950 KIA"
+  },
+  {
+    "name": "CPL HAROLD E. BYER",
+    "branch": "U.S. ARMY 106 INF",
+    "service": "POW 1942–1945 WWII"
+  },
+  {
+    "name": "SGT JACK F. HILL SR.",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "RAYMOND S. RECH",
+    "branch": "FERRIER F.A. CORPS 12TH F.A.",
+    "service": "WWII"
+  },
+  {
+    "name": "CWO JOHN H. GERKEN",
+    "branch": "U.S. ARMY",
+    "service": "RETIRED 1959–1980"
+  },
+  {
+    "name": "C. FRED HUNTER JR.",
+    "branch": "U.S. NAVY",
+    "service": "1955–1958"
+  },
+  {
+    "name": "JOHN E. TRAUTNER",
+    "branch": "U.S. NAVY",
+    "service": "VIETNAM WAR 1966–1970"
+  },
+  {
+    "name": "CPL. WALTER HIENER",
+    "branch": "U.S. ARMY",
+    "service": "1954–1956"
+  },
+  {
+    "name": "DARRELL F. MCKAY",
+    "branch": "SPC 4 U.S. ARMY",
+    "service": "1964–1966"
+  },
+  {
+    "name": "DALE FORD",
+    "branch": "U.S. NAVY",
+    "service": "1960–1964"
+  },
+  {
+    "name": "PFC HENRY CASTIN",
+    "branch": "U.S. ARMY - AAF",
+    "service": "1941–1945"
+  },
+  {
+    "name": "CAPT. STEVEN CASTIN",
+    "branch": "USAF",
+    "service": "1968–1972"
   }
 ]
+
