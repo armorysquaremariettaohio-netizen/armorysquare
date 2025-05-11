@@ -1,7 +1,437 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "H. L. \"HUSKY\" BOND",
+    "branch": "U.S. ARMY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "SPC. NATHAN POMROY",
+    "branch": "U.S. ARMY",
+    "service": "2000–2011 OPERATION IRAQI FREEDOM"
+  },
+  {
+    "name": "SSG. CHARLES K. FADDER",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1952–1974 VIETNAM"
+  },
+  {
+    "name": "PAUL E. NEWHART",
+    "branch": "PFC. U.S. ARMY",
+    "service": "1942–1945 WWII"
+  },
+  {
+    "name": "JOHN S. CROWTHER",
+    "branch": "1ST LIEUTENANT",
+    "service": "1942–1946"
+  },
+  {
+    "name": "SP4 GARY L. MCFADDEN",
+    "branch": "U.S. ARMY",
+    "service": "NOV. 1959–FEB. 1982"
+  },
+  {
+    "name": "PVT. ERIAL STEVENS",
+    "branch": "PVT. U.S. ARMY",
+    "service": "WWI 1918–1919"
+  },
+  {
+    "name": "RONALD R. STARCHER",
+    "branch": "U.S. ARMY",
+    "service": "SP3 1955–1957"
+  },
+  {
+    "name": "PVT. CLAUDE KIDDER",
+    "branch": "U.S. ARMY PARATROOPER",
+    "service": "1942–1943 WWII"
+  },
+  {
+    "name": "PFC. WALLACE KIDDER",
+    "branch": "U.S. ARMY E/2C",
+    "service": "1942–1945 WWII"
+  },
+  {
+    "name": "SGT. RALPH E. MCGINNIS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "CPL. FRANK E. GRUBB",
+    "branch": "U.S. ARMY",
+    "service": "1916–1919"
+  },
+  {
+    "name": "SP4 KENNETH KIDDER",
+    "branch": "U.S. ARMY 325TH SIG",
+    "service": "VIETNAM 1965–1967"
+  },
+  {
+    "name": "LCPL. JAMES KIMPLE",
+    "branch": "U.S. MARINES",
+    "service": "KIA 5-3-2008"
+  },
+  {
+    "name": "RUSSELL E. KNIGHT",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "CPL. RAY GRANDON",
+    "branch": "WWII PHILLIPINES U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "RICHARD N. CRUM",
+    "branch": "INF. 101 AIRBORNE",
+    "service": "VIETNAM 1966–1971"
+  },
+  {
+    "name": "SGT. BRADY DOAN",
+    "branch": "U.S. ARMY",
+    "service": "1944–1947"
+  },
+  {
+    "name": "ROBERT BRADY DOAN",
+    "branch": "SGT.",
+    "service": "1944–1946"
+  },
+  {
+    "name": "E. ROGER HENDERSHOT",
+    "branch": "CPL. U.S. MARINE CORPS",
+    "service": "1960–1964"
+  },
+  {
+    "name": "DAVID SCARBROUGH",
+    "branch": "KIA GHOST PATROL",
+    "service": "USMC 1966–VIETNAM"
+  },
+  {
+    "name": "G. BRADY DOAN",
+    "branch": "ARMY INF. SERVICES",
+    "service": "1917–1919"
+  },
+  {
+    "name": "D. NOLAN HENDERSHOT",
+    "branch": "PFC. U.S. MARINE CORPS",
+    "service": "1952–1954"
+  },
+  {
+    "name": "CAROL B. BERG",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM ADVISOR SAL SQ 64"
+  },
+  {
+    "name": "CLAUDE WOODALL JR.",
+    "branch": "USS SAIPAN CVL-48",
+    "service": "1948–1949"
+  },
+  {
+    "name": "SP5 DAVID ROOT",
+    "branch": "1ST LOGISTICAL COMMAND",
+    "service": "VIETNAM 1967–1968"
+  },
+  {
+    "name": "WILLIAM A. BAKER",
+    "branch": "1961 U.S. ARMY",
+    "service": "ADVISOR SAL SQ 64"
+  },
+  {
+    "name": "CAPT. ROBERT BOM",
+    "branch": "U.S. ARMY",
+    "service": "1948–1986"
+  },
+  {
+    "name": "JAMES S. BADGETT",
+    "branch": "SP5 WWII AIR CORP",
+    "service": ""
+  },
+  {
+    "name": "ROBERT H. GREATHOUSE",
+    "branch": "SP5 U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "EMMETT MOORE SR.",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "CLAUDE S. DAVIS",
+    "branch": "U.S. ARMY",
+    "service": "1943–1945 WWII"
+  },
+  {
+    "name": "PAUL H. STEPHENS",
+    "branch": "U.S. NAVY",
+    "service": "APR. 1943–OCT. 1945"
+  },
+  {
+    "name": "RAY. J. STEPHENS",
+    "branch": "U.S. ARMY AIR FORCES",
+    "service": "JUNE 1943–JAN. 1946"
+  },
+  {
+    "name": "LOUISE BAUERBACH",
+    "branch": "ARMY",
+    "service": "WWI 1918 ARGONNE FOREST"
+  },
+  {
+    "name": "LAWRENCE WEINHEIMER",
+    "branch": "U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "SGT. DAVID H. SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1942–1944 BATTLE OF THE BULGE"
+  },
+  {
+    "name": "A/1C PAUL R. THORN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "CLIFFORD CARPENTER",
+    "branch": "U.S. ARMY PFC",
+    "service": "1952–1954 KOREA"
+  },
+  {
+    "name": "CPL. DONALD D. MINCKS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "BOBBIE G. PATTERSON",
+    "branch": "CPL. USMC",
+    "service": "1944–1951"
+  },
+  {
+    "name": "RONALD D. VAN WEY",
+    "branch": "U.S. NAVY",
+    "service": "1958–1962"
+  },
+  {
+    "name": "LCPL. GARY L. VAN WEY",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1959–1963"
+  },
+  {
+    "name": "KIRK HALL",
+    "branch": "E-2 U.S. ARMY",
+    "service": "2001–2007"
+  },
+  {
+    "name": "SGT. DICK MCATEE",
+    "branch": "USMC",
+    "service": "1954–1957 KOREAN CONFLICT"
+  },
+  {
+    "name": "TSGT. BRIAN BROOKS",
+    "branch": "U.S. AIR FORCE ET",
+    "service": "1944–2007"
+  },
+  {
+    "name": "HERMAN T. GRUBB",
+    "branch": "PVT. ENGINEERS",
+    "service": "WORLD WAR I"
+  },
+  {
+    "name": "RICHARD B. HALL",
+    "branch": "45TH FIELD HOSP.",
+    "service": "U.S. ARMY 1944–1945"
+  },
+  {
+    "name": "REGINALD PICKERING",
+    "branch": "U.S. MARINES AIRWING",
+    "service": "SEMPER FIDELIS"
+  },
+  {
+    "name": "TSGT. ORMAN KEHL",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "1941–1945"
+  },
+  {
+    "name": "JPHN L DAKE",
+    "branch": "WWI 8TH ARMORED",
+    "service": ""
+  },
+  {
+    "name": "CAPT KEN LONES",
+    "branch": "USMCR",
+    "service": "1985-1996"
+  },
+  {
+    "name": "SP 5 H. J. KIMPLE",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1966–1969"
+  },
+  {
+    "name": "RAYMOND E. ELLIOT",
+    "branch": "U.S. NAVY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "WILLIAM A. MOOSBURG",
+    "branch": "U.S. ARMY",
+    "service": "1864–1865"
+  },
+  {
+    "name": "PFC. ORVILLE E. HALL",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "PVT. WILLIAM L. RAPP",
+    "branch": "U.S. ARMY",
+    "service": "1917–1919"
+  },
+  {
+    "name": "SFC. KENNETH L. JONES",
+    "branch": "U.S. ARMY",
+    "service": "1961–1991"
+  },
+  {
+    "name": "WARREN H. MILLER",
+    "branch": "U.S. ARMY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "GEORGE G. DUNN",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "LANCE T. BROOKS",
+    "branch": "U.S. ARMY AIR FORCES",
+    "service": "FEB. 1943–SEP. 1945"
+  },
+  {
+    "name": "SF 3 JAMES W. DUNN",
+    "branch": "U.S. NAVY",
+    "service": "1966–1968"
+  },
+  {
+    "name": "PAUL L. ULLMAN",
+    "branch": "U.S. ARMY",
+    "service": "PACIFIC 1945–1946 KIA"
+  },
+  {
+    "name": "FORREST P. NORTH",
+    "branch": "U.S. NAVY",
+    "service": "SLG 40 1944–NOV. 1945"
+  },
+  {
+    "name": "PFC. LLOYD C. ULLMAN",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "CHARLES B. MCQUOID",
+    "branch": "SGT. USAF",
+    "service": "1969–1972 SILVER STAR W/10LC"
+  },
+  {
+    "name": "CHRISTY HOLZAPFEL",
+    "branch": "PVT. CO. I 109 INF.",
+    "service": "WORLD WAR I"
+  },
+  {
+    "name": "ARNOLD J. HALL",
+    "branch": "U.S. ARMY M.P.",
+    "service": "1942–1945"
+  },
+  {
+    "name": "JESSE C. STOLLAR",
+    "branch": "WWI CHAUF. 1ST CL 25TH AERO SQUAD",
+    "service": "U.S. ARMY 1917–1919"
+  },
+  {
+    "name": "SSGT. DEAN E. GRUB",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII 1940–1945"
+  },
+  {
+    "name": "LARRY E. MILLER",
+    "branch": "U.S. ARMY",
+    "service": "1959–1962"
+  },
+  {
+    "name": "CPL. JACK HUTCHINSON",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1953–1956"
+  },
+  {
+    "name": "SGT. CLYDE D. GRUB",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII 1944–1946"
+  },
+  {
+    "name": "GERALD GEISLER",
+    "branch": "U.S. MARINE CORP",
+    "service": "1946–1948"
+  },
+  {
+    "name": "SGT. ROBERT O'MALLEY",
+    "branch": "U.S. MARINE CORPS",
+    "service": "WW2 PACIFIC"
+  },
+  {
+    "name": "CALVIN E. ADAMS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "SGT. DAVID T. SMITH",
+    "branch": "USMC",
+    "service": "1953–1956"
+  },
+  {
+    "name": "SGT. JERRY RICHARDS",
+    "branch": "1ST AIR CAVALRY",
+    "service": "VIETNAM 1967–1969"
+  },
+  {
+    "name": "WILLIE C. HANGER",
+    "branch": "WWII U.S. NAVY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "ROBERT E. SMITH",
+    "branch": "U.S. NAVY",
+    "service": "1945–1947"
+  },
+  {
+    "name": "BARNEY SAM SMITH",
+    "branch": "U.S. NAVY",
+    "service": "1950–1954"
+  },
+  {
+    "name": "TSGT. TOM EDINGER",
+    "branch": "USAF",
+    "service": "1954–1974"
+  },
+  {
+    "name": "ROBERT COLLINS",
+    "branch": "U.S. ARMY",
+    "service": "1973–1977"
+  },
+  {
+    "name": "JENNINGS T. SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1957–1959"
+  },
+  {
+    "name": "CPL. MICHAEL FEIN",
+    "branch": "USMC",
+    "service": "VIETNAM 1965–1968"
+  },
+  {
+    "name": "CPL. ELMER D. SEXTON",
+    "branch": "U.S. MARINE CORP",
+    "service": "1964 AIR. ORD."
+  },
+  {
+    "name": "SP 5 JOHN C. PARSONS",
+    "branch": "U.S. ARMY",
+    "service": "1963–1970"
   }
 ]
