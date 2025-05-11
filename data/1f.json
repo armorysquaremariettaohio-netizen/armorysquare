@@ -1,7 +1,362 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "SENECA COLERICK",
+    "branch": "PVT 421 LOC TRK",
+    "service": "ARMY GULF WAR"
+  },
+  {
+    "name": "HARRY GRANGE SCOTT P.L.",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN WAR 1947–1964"
+  },
+  {
+    "name": "SGT. WALTER T. LANE",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1941–1946"
+  },
+  {
+    "name": "ARTHUR J. DEARTH",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "SSG JACK B. EMERICK",
+    "branch": "ARTILLERY",
+    "service": "1960–2001"
+  },
+  {
+    "name": "LEROY N. FULTON",
+    "branch": "34TH DIV.",
+    "service": "WWII POW 1941–1945"
+  },
+  {
+    "name": "PVT. JOHN W. EMERICK",
+    "branch": "U.S. ARMY",
+    "service": "1947–1972"
+  },
+  {
+    "name": "JOHN E. HANNA",
+    "branch": "U.S. NAVY",
+    "service": "SEABEES WWII"
+  },
+  {
+    "name": "SSGT. SHAWN JOHNSON",
+    "branch": "U.S. AIR FORCE",
+    "service": "1986–1997"
+  },
+  {
+    "name": "T/SGT. GEORGE F. EMERICK",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "JAMES E. HANNA",
+    "branch": "U.S. ARMY",
+    "service": "WWII BRONZE STAR OAK LEAF CLUSTERS"
+  },
+  {
+    "name": "SSGT. RONALD COOPER",
+    "branch": "U.S. AIR FORCE",
+    "service": "1968–1973"
+  },
+  {
+    "name": "SSGT. DAVID N. HARRIS",
+    "branch": "4510 COMD SUPPORT SQ. U.S.A.F.",
+    "service": "1968–1973"
+  },
+  {
+    "name": "RUFUS INMAN",
+    "branch": "REVOLUTIONARY WAR",
+    "service": "1780–1783"
+  },
+  {
+    "name": "ALBERT F. FULTON",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MSG MERLÉ HEARN",
+    "branch": "U.S. ARMY",
+    "service": "1946–1973"
+  },
+  {
+    "name": "ERNEST E. FULTON",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "MICHAEL A. DURHAM",
+    "branch": "COMBAT ENGINEER",
+    "service": "1986–1994"
+  },
+  {
+    "name": "PVT. LEONARD R. CALHAN",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1950–1952"
+  },
+  {
+    "name": "SPEC. 4 ALAN R. HARRIS",
+    "branch": "354TH ENG BATTALION",
+    "service": "VIETNAM 1971–1972"
+  },
+  {
+    "name": "CREEL L. CARPENTER",
+    "branch": "U.S. NAVY",
+    "service": "WWII PACIFIC 1943–1946"
+  },
+  {
+    "name": "DAVID DUNBAR",
+    "branch": "CPL. CO. G 92ND OVI",
+    "service": "CIVIL WAR 1862–1863"
+  },
+  {
+    "name": "LCPL. DALE E. HART",
+    "branch": "USMC",
+    "service": "VIETNAM 1965–1971"
+  },
+  {
+    "name": "THOMAS DUNBAR",
+    "branch": "PVT. BUELL CO. OHIO MILITIA",
+    "service": "WAR 1812"
+  },
+  {
+    "name": "RANDALL E. NORTH",
+    "branch": "U.S. ARMY",
+    "service": "1987–1991"
+  },
+  {
+    "name": "GROVER HENDERSHOT",
+    "branch": "U.S. ARMY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "GERALD \"TAG\" HARRIS",
+    "branch": "C 379 AAA BN",
+    "service": "U.S. ARMY 1942–1946"
+  },
+  {
+    "name": "PFC MARVIN J. HARRIS",
+    "branch": "CO. L 388TH INF. REGT",
+    "service": "WWII POW 1941–1945"
+  },
+  {
+    "name": "SGT. JERALD (JACK) HARRIS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1971–1974, 1976–1990"
+  },
+  {
+    "name": "EARL G. CARPENTER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "WILLIAM DUNBAR",
+    "branch": "PRIVATE",
+    "service": "REVOLUTIONARY WAR 1780–1781"
+  },
+  {
+    "name": "STAFF SERGEANT RAY S. DELANCEY",
+    "branch": "U.S. ARMY",
+    "service": "1941–1944"
+  },
+  {
+    "name": "DAVID B. DELANCEY",
+    "branch": "USMC",
+    "service": "VIETNAM 1965–1971 PURPLE HEART"
+  },
+  {
+    "name": "REGA C. LOCKHART",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "A1C JACK D. PRICE SR.",
+    "branch": "PHOTOGRAPHER",
+    "service": "1948–1952"
+  },
+  {
+    "name": "TIMOTHY B. BURDETTE",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1967–1968"
+  },
+  {
+    "name": "KENNETH W. BAKER",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "CPL. RUSS EMERICK",
+    "branch": "U.S. MARINES",
+    "service": "1959–1975"
+  },
+  {
+    "name": "GEORGE F. HILL",
+    "branch": "U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "PERLEY F. HILL",
+    "branch": "U.S. ARMY",
+    "service": "1959–1962"
+  },
+  {
+    "name": "CPL. HAROLD P. HOLLISTER",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1964–1967"
+  },
+  {
+    "name": "CHARLES A. BECKER T4",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "GEORGE HENDERSHOT",
+    "branch": "U.S. ARMY",
+    "service": "1941–1945"
+  },
+  {
+    "name": "DEAN E. MORGENSTERN",
+    "branch": "U.S. ARMY MEDIC",
+    "service": "1942–1946"
+  },
+  {
+    "name": "LARRY E. HESSON",
+    "branch": "U.S. ARMY",
+    "service": "1957–1962"
+  },
+  {
+    "name": "PFC. DICK WEBER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "SSGT. RAYMOND W. MYERS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1959 KOREAN WAR"
+  },
+  {
+    "name": "1ST LT. JAMES WAGNER",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII 1942–1947"
+  },
+  {
+    "name": "BOB BOERSMA RT",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1944–1945"
+  },
+  {
+    "name": "SRA JOHN R. MCCUTCHEON",
+    "branch": "U.S. AIR FORCE",
+    "service": "1995–1999"
+  },
+  {
+    "name": "CPL. DONALD R. RUMMER",
+    "branch": "INFANTRY U.S. ARMY",
+    "service": "KOREA 1951–1959"
+  },
+  {
+    "name": "PVT. EUGENE HOWARD LANE",
+    "branch": "U.S. MARINE CORPS",
+    "service": "CASUAL CO. 1945"
+  },
+  {
+    "name": "SP4 JERRY L. MILLER",
+    "branch": "U.S. ARMY RESERVES",
+    "service": "463RD ENG. BN"
+  },
+  {
+    "name": "SGT. PAUL G. DOAN",
+    "branch": "CO. C 32ND INFANTRY U.S. ARMY",
+    "service": "1953–1955"
+  },
+  {
+    "name": "CPL. DEAN R. HART",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "1LT. O.W. \"DICK\" BURTON",
+    "branch": "U.S. ARMY",
+    "service": "1946–1969"
+  },
+  {
+    "name": "RODNEY A. HANSON",
+    "branch": "U.S. NAVY CHIEF",
+    "service": "1987–2007"
+  },
+  {
+    "name": "SSGT. VICTOR KNICK JR.",
+    "branch": "OAK LEAF CLUSTERS USAF",
+    "service": "IRAQ 1999–2005"
+  },
+  {
+    "name": "LT. COL. CHAS. J. COYLE",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "WWII 1942–1949 PILOT"
+  },
+  {
+    "name": "LT. COL. \"BUCKIE\" COYLE",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1950–1953"
+  },
+  {
+    "name": "RAYMOND H. BURTON",
+    "branch": "CMOMM USN",
+    "service": "1941–1946"
+  },
+  {
+    "name": "ROBERT JACK BURTON",
+    "branch": "U.S. NAVY CM V6",
+    "service": "1944–1948 / USAF 1951–1954"
+  },
+  {
+    "name": "KEN REX BATES",
+    "branch": "MM2 U.S. NAVY",
+    "service": "1953–1957 D.A. MONROE DE 422"
+  },
+  {
+    "name": "CPL. HAROLD J. BATES",
+    "branch": "U.S. ARMY",
+    "service": "1940–1948 KOREA 3 BZ STARS PURPLE HEART"
+  },
+  {
+    "name": "GALE W. SEEVERS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "CAPT. KARL WAGNER",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII 1940–1945"
+  },
+  {
+    "name": "DAVID S. THOMAS",
+    "branch": "82ND AIRBORNE",
+    "service": "WWII 1938–1959"
+  },
+  {
+    "name": "SP4 JOHN M. MCCUTCHEON",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "PFC. JAMES H. MCCUTCHEON",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "LYLE G. FARMER",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "MAJ. C. LEE COYLE",
+    "branch": "PILOT-ENGINEER",
+    "service": "IRAQ 2004"
+  },
+  {
+    "name": "CECIL S. THOMAS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1946"
   }
 ]
