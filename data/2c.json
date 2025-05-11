@@ -1,7 +1,437 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "SGT. JOHN H. DICKEY",
+    "branch": "U.S. ARMY",
+    "service": "1965–1971"
+  },
+  {
+    "name": "T/5 ERNEST R. PORTER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 156TH ANTIAIRCRAFT DIV."
+  },
+  {
+    "name": "SSGT. NORMAN BYER",
+    "branch": "SAC U.S. AIR FORCE",
+    "service": "1966–1971"
+  },
+  {
+    "name": "BILLY E. HILL",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "LON P. DIXEN",
+    "branch": "SP4 U.S. ARMY",
+    "service": "1966–1971"
+  },
+  {
+    "name": "MSGT. ALBERT O. BURKE",
+    "branch": "3RD BN WWII U.S. ARMY",
+    "service": ""
+  },
+  {
+    "name": "PFC. VIRGIL BUD SPARKS",
+    "branch": "U.S. ARMY 12TH INFANTRY",
+    "service": ""
+  },
+  {
+    "name": "DAVID M. ARNOLD",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "GILBERT W. ALLEFELSZ",
+    "branch": "U.S. NAVY",
+    "service": "PURPLE HEART 1942–1946"
+  },
+  {
+    "name": "JAMES A. JONES",
+    "branch": "USAF",
+    "service": "302ND TCW 1958–1964"
+  },
+  {
+    "name": "SSG. CHARLES D. ASBERRY",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM VETERAN"
+  },
+  {
+    "name": "SP5 DONALD G. LAUER",
+    "branch": "U.S. ARMY",
+    "service": "1957–1959"
+  },
+  {
+    "name": "DELMER C. MORGENSTERN",
+    "branch": "U.S. NAVY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "SSG. JOHN B. WALLEFELSZ",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "WILLIAM M. SHEPPARD",
+    "branch": "99TH DIV. WWII",
+    "service": ""
+  },
+  {
+    "name": "HARRY M. MEDCALF SR.",
+    "branch": "USMC",
+    "service": "1948–1976"
+  },
+  {
+    "name": "SGT. EDWARD R. SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1968–1985"
+  },
+  {
+    "name": "CPL. TONY R. WHITTENKIND",
+    "branch": "U.S. ARMY",
+    "service": "1990–1994"
+  },
+  {
+    "name": "SSGT. MARION MARTIN",
+    "branch": "U.S. ARMY",
+    "service": "1941–1945"
+  },
+  {
+    "name": "NORMAN G. WOLFE",
+    "branch": "U.S. AIR CORPS",
+    "service": "1944–1946"
+  },
+  {
+    "name": "JOSEPH S. RIGGS",
+    "branch": "U.S. ARMY",
+    "service": "1968–1971"
+  },
+  {
+    "name": "TEC4 CHARLES F. HESSON",
+    "branch": "631ST FIELD ART BN U.S. ARMY",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "SSGT. SHELDON PARKS",
+    "branch": "USAAC LINE CHIEF",
+    "service": "1942–1946 WWII"
+  },
+  {
+    "name": "SANFORD P. THOMPSON",
+    "branch": "U.S. ARMY",
+    "service": "1941–1945"
+  },
+  {
+    "name": "CHARLES E. SCHWAB",
+    "branch": "U.S. ARMY INFANTRY",
+    "service": "AFGHANISTAN"
+  },
+  {
+    "name": "HENRY D. KESSLERING",
+    "branch": "U.S. ARMY",
+    "service": "WWI 1918–1919"
+  },
+  {
+    "name": "CPL. BEN PUTNAM JR.",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "WWII"
+  },
+  {
+    "name": "SGT. JOSHUA S. DAVIS",
+    "branch": "USMC HMH-462",
+    "service": "AUG. 1999–AUG. 2004"
+  },
+  {
+    "name": "T/5 ANTHONY A. ARNOLD",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "JACK L. BROWN",
+    "branch": "U.S. NAVY PT",
+    "service": "1944–1946"
+  },
+  {
+    "name": "CPL. E.J. WALLENFELSZ",
+    "branch": "WWII U.S. ARMY",
+    "service": "KIA PURPLE HEART 8-26-1944"
+  },
+  {
+    "name": "CAPT. PAUL SEYLER",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "MILDRED SEYLER",
+    "branch": "NURSE U.S. ARMY",
+    "service": "1943–1947"
+  },
+  {
+    "name": "ALBERT F. NEADER",
+    "branch": "FLIGHT ENGINEER",
+    "service": "KOREAN CONFLICT"
+  },
+  {
+    "name": "CPL. CLARENCE TORNES",
+    "branch": "U.S. ARMY",
+    "service": "1942–1944"
+  },
+  {
+    "name": "LT. C.M. STEIRS",
+    "branch": "OFF DECK U.S. NAVY",
+    "service": ""
+  },
+  {
+    "name": "T/4 ROBERT NEADER",
+    "branch": "142ND ORD U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "PVT. JOHN G. DETLOR",
+    "branch": "F CO. COAST ARTILLERY U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "RICHARD M. KRAUSE",
+    "branch": "U.S. ARMY TRANS CORPS",
+    "service": "1944–1946"
+  },
+  {
+    "name": "SGT. FREDERICK NEADER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1944–1945"
+  },
+  {
+    "name": "MT3 JOHN C. DETLOR",
+    "branch": "USS NELSON DD623 / USS BASILAN AG68",
+    "service": "WWII"
+  },
+  {
+    "name": "KARL M. KRAUSE",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "1942–1946"
+  },
+  {
+    "name": "A1C RICHARD L. BORMAN",
+    "branch": "USAF",
+    "service": "1954–1957"
+  },
+  {
+    "name": "JOSEPH W. RUTTER",
+    "branch": "FIFTH AIR FORCE",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SPC. OSMOND S. COOPER",
+    "branch": "U.S. ARMY",
+    "service": "OIF 2007–2008"
+  },
+  {
+    "name": "EM1 KURT STOLPA",
+    "branch": "U.S. NAVY NUCLEAR BEIRUT",
+    "service": "1982–1985"
+  },
+  {
+    "name": "ROLLAND C. FRITSCHE",
+    "branch": "U.S. NAVY",
+    "service": "2005"
+  },
+  {
+    "name": "ARTHUR W. HUNE WATSON",
+    "branch": "MACHINE WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "JAMES DUTTON",
+    "branch": "REVOLUTIONARY WAR",
+    "service": ""
+  },
+  {
+    "name": "SPC. SCOTT J. MILLER",
+    "branch": "U.S. ARMY",
+    "service": "1991–1995"
+  },
+  {
+    "name": "CARL T. ROUSH JR.",
+    "branch": "USMC",
+    "service": ""
+  },
+  {
+    "name": "WILLIAM N. HOLLAND",
+    "branch": "82 OV",
+    "service": "CIVIL WAR"
+  },
+  {
+    "name": "SGT. ROY JAMES MCKNIGHT",
+    "branch": "USMC",
+    "service": "1978–1981 PRES. HELICOPTER SQUAD"
+  },
+  {
+    "name": "HOMER L. ROUSH",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "LANCE CPL. ARTHUR W. MILLER",
+    "branch": "USMC",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "SGT. B. EUGENE MCKNIGHT",
+    "branch": "USMC",
+    "service": "1968–1970 VIETNAM"
+  },
+  {
+    "name": "TEC5 CARL T. ROUSH",
+    "branch": "WWII",
+    "service": ""
+  },
+  {
+    "name": "SP5 B. GARY LEMLEY",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "PVT. MARGY STIERS DRAYER",
+    "branch": "WOMEN'S ARMY CORPS",
+    "service": ""
+  },
+  {
+    "name": "JERRY O. BOYCE",
+    "branch": "USMC",
+    "service": ""
+  },
+  {
+    "name": "SFC MARCUS K. DAVIS",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "PFC. CATHY STIERS MOWRER",
+    "branch": "WOMEN'S ARMY CORPS",
+    "service": ""
+  },
+  {
+    "name": "PFC. JAMES MORGENSTERN",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "SP4 DANNY MCCLOUD",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1969–1970"
+  },
+  {
+    "name": "SFC J. MONRER JR.",
+    "branch": "DESERT STORM U.S. ARMY",
+    "service": "1976–2001"
+  },
+  {
+    "name": "CTI2 ANTHONY BROWNING",
+    "branch": "USN",
+    "service": "1991–2000"
+  },
+  {
+    "name": "SFC C.J. MONRER III",
+    "branch": "RQ NBF U.S. ARMY INFANTRY",
+    "service": ""
+  },
+  {
+    "name": "CPT. MARIAL MONFORTE",
+    "branch": "U.S. ARMY",
+    "service": "1998–2003"
+  },
+  {
+    "name": "SGT. PHIL A. RHODES",
+    "branch": "U.S. AIR FORCE",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "SSGT. H.B. BROWNING",
+    "branch": "U.S.A.F.",
+    "service": "1968–1979"
+  },
+  {
+    "name": "SP5 RICHARD RHODES",
+    "branch": "U.S. ARMY",
+    "service": "1967–1970"
+  },
+  {
+    "name": "SSGT. DOUGLAS BROWN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1977–1991 COMBAT CREW EC135N"
+  },
+  {
+    "name": "SGT. BARBARA RHODES",
+    "branch": "U.S. AIR FORCE",
+    "service": "1966–1969"
+  },
+  {
+    "name": "SGT. MARVIN SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1978–1989 TANK COMMANDER"
+  },
+  {
+    "name": "D.R. HENDERSHOT",
+    "branch": "U.S. AIR FORCE",
+    "service": "1963–1967"
+  },
+  {
+    "name": "PFC. EVERETT M. SHORT",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "COREY D. DOTSON",
+    "branch": "USMC USS NIMITZ",
+    "service": "1993–1997"
+  },
+  {
+    "name": "SGT. WILBUR E. WARDEN",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "DERRICK T. DOTSON",
+    "branch": "USMC OIF",
+    "service": "2006–2011"
+  },
+  {
+    "name": "SSGT. CARLOS E. PANNELL",
+    "branch": "U.S. ARMY",
+    "service": "WWII PURPLE HEART 1943"
+  },
+  {
+    "name": "LCPL. JAMES E. KUROSKI SR.",
+    "branch": "USMC RIFLE EXPERT TEAM",
+    "service": "1957–1960 BEIRUT"
+  },
+  {
+    "name": "R. DEAN FRITSCHE",
+    "branch": "U.S. AIR FORCE",
+    "service": "1956–1960"
+  },
+  {
+    "name": "PFC. HAYWARD S. RITCHIE",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1945"
+  },
+  {
+    "name": "RALPH A. CHUTES",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1945"
+  },
+  {
+    "name": "SEAMAN 3 J. DEAN LEWIS JR.",
+    "branch": "U.S. NAVY",
+    "service": "1977–1981"
+  },
+  {
+    "name": "WILLIAM ELLIOTT",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "P-38 WWII"
+  },
+  {
+    "name": "GM3 JOHN R. BROOKER",
+    "branch": "U.S. NAVY",
+    "service": "1948–1952"
   }
 ]
