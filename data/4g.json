@@ -1,7 +1,362 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "TOM HOLLAND",
+    "branch": "U.S. AIR FORCE",
+    "service": "1953–1957"
+  },
+  {
+    "name": "PFC. ROMEO R. PERRY",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "STEVE N. \"TYKE\" HOLLAND",
+    "branch": "U.S. AIR FORCE",
+    "service": "1982–1996"
+  },
+  {
+    "name": "PAUL E. HALL",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "SP 4 ARTHUR L. CORP",
+    "branch": "U.S. ARMY",
+    "service": "1961–1964"
+  },
+  {
+    "name": "SSG. HANS ZIELKE",
+    "branch": "MED SEC 39TH UNIT",
+    "service": "1941–1946"
+  },
+  {
+    "name": "PERRY L. HALL",
+    "branch": "U.S. ARMY RESERVES",
+    "service": ""
+  },
+  {
+    "name": "H. HOWARD NICHOLAS JR.",
+    "branch": "U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "J. DAVID F. EDGAR",
+    "branch": "U.S. NAVY SEABEES",
+    "service": "WWII 1942–1946"
+  },
+  {
+    "name": "RAYMOND C. SALSTER",
+    "branch": "U.S. NAVY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "GARY E. RINARD",
+    "branch": "U.S. ARMY",
+    "service": "1966–1968"
+  },
+  {
+    "name": "HOWARD EDGAR STAFF SGT.",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "PFC. KENNETH M. WEBB",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "HERMAN WUNDERLICH",
+    "branch": "PFC. U.S. ARMY",
+    "service": "1951–1953"
+  },
+  {
+    "name": "1ST LT. M. EDGAR ZIELKE",
+    "branch": "SGT. 5 EWC HOSPITAL",
+    "service": "WWII DEC 26, 1941 – JAN 1, 1946"
+  },
+  {
+    "name": "JOSEPH MARSHALL SR.",
+    "branch": "U.S. MARINE CORPS",
+    "service": "WWII"
+  },
+  {
+    "name": "TERRY W. CAIN",
+    "branch": "SP 5 U.S. ARMY",
+    "service": "1968–1972"
+  },
+  {
+    "name": "GARY D. STOLLAR",
+    "branch": "U.S. NAVY",
+    "service": "VIETNAM 1964–1968"
+  },
+  {
+    "name": "CLARE E. OLIVER",
+    "branch": "1SG. U.S. ARMY RET.",
+    "service": "1968–1992"
+  },
+  {
+    "name": "PHILLIP STOLLAR",
+    "branch": "U.S. NAVY",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "GEO. CARPENTER JR.",
+    "branch": "U.S. ARMY",
+    "service": "1967–1973"
+  },
+  {
+    "name": "CLARE E. OLIVER",
+    "branch": "SGT. U.S.A.A.F",
+    "service": "1941–1947 WWII"
+  },
+  {
+    "name": "ORVILLE D. STOLLAR",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1945"
+  },
+  {
+    "name": "CPL. ROGER D. MCFADDEN",
+    "branch": "USMC",
+    "service": "VIETNAM 1971–1973"
+  },
+  {
+    "name": "ROGER A. HALL",
+    "branch": "U.S. AIR FORCE",
+    "service": ""
+  },
+  {
+    "name": "SP/5 TOM L. BUCHMAN",
+    "branch": "VIETNAM",
+    "service": "1970–1972"
+  },
+  {
+    "name": "CPL. RICHARD A. GUMM",
+    "branch": "24 INF–21ST RGT HQ&H CO",
+    "service": "KOREA BRONZE STAR"
+  },
+  {
+    "name": "SGT. ROBERT L. GUMM",
+    "branch": "HQMC USMCR",
+    "service": "1954–1962"
+  },
+  {
+    "name": "KENNETH SANDSTROM",
+    "branch": "U.S. AIR FORCE",
+    "service": "1954–1956"
+  },
+  {
+    "name": "WILLIAM BARNHART",
+    "branch": "CO. C 7TH OH CAV CO. D 174TH OVI CW",
+    "service": ""
+  },
+  {
+    "name": "JOSEPH B. NELSON",
+    "branch": "U.S. NAVY",
+    "service": "KOREA"
+  },
+  {
+    "name": "SGT. TIMOTHY J. HILL",
+    "branch": "U.S. ARMY",
+    "service": "1966–1976"
+  },
+  {
+    "name": "MSGT. RONALD C. GUMM",
+    "branch": "USAF RET.",
+    "service": "1955–1977 VIETNAM"
+  },
+  {
+    "name": "SGT. LES WILBANKS",
+    "branch": "B CO 3/506 101 4 BN KAO AMB",
+    "service": "5/10/1970"
+  },
+  {
+    "name": "GORDON J. MCCARTHY",
+    "branch": "U.S. AIR FORCE",
+    "service": "B29 WWII"
+  },
+  {
+    "name": "T-4 L.F. MORGENSTERN",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "TEC4 KENTON A. WEBB",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "ANDREW N. IVAN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1967–1971 MIA"
+  },
+  {
+    "name": "SGT. EARL H. DENNIS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "J. RICHARD WELLS",
+    "branch": "U.S. NAVY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "ORAN L. PATTERSON",
+    "branch": "U.S. NAVY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SGT. JOE H. LUCAS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1964–1968"
+  },
+  {
+    "name": "SP4 JAMES R. WRIGHT",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1966–1969"
+  },
+  {
+    "name": "GEORGE G. DECKER",
+    "branch": "USS LST-281 KOREAN U.S. NAVY",
+    "service": "1951–1955"
+  },
+  {
+    "name": "SPEC 4 MYLAND G. LUCAS",
+    "branch": "U.S. ARMY",
+    "service": "1962–1965"
+  },
+  {
+    "name": "PFC. ELDON ANDERSON",
+    "branch": "MILITARY POLICE U.S. ARMY",
+    "service": "1961–1963"
+  },
+  {
+    "name": "SMSGT CHRISTOPHER BRANDT",
+    "branch": "U.S. AIR FORCE",
+    "service": ""
+  },
+  {
+    "name": "T/SGT. JAMES O. NOAH",
+    "branch": "AAF AIR CREW B17",
+    "service": "WWII 1942–1945 POW"
+  },
+  {
+    "name": "WILLARD G. BUSH",
+    "branch": "T/5 U.S. ARMY",
+    "service": "PACIFIC WWII 1942–1946"
+  },
+  {
+    "name": "CW03 ED GUCKERT",
+    "branch": "USMC",
+    "service": "VIETNAM 1954–1976"
+  },
+  {
+    "name": "RICHARD D. McKENNA",
+    "branch": "USN",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SGT. LES SABO",
+    "branch": "MOH B CO 3/506 101 ABN",
+    "service": "KIA CAMB 5/10/1970"
+  },
+  {
+    "name": "SGT. DONALD W. SMITH",
+    "branch": "B CO 3/506 101 ABN",
+    "service": "KIA CAMB 5/10/1970"
+  },
+  {
+    "name": "SHANE D. MORRIS",
+    "branch": "U.S. NAVY",
+    "service": "ENLISTED–2004"
+  },
+  {
+    "name": "STEVE H. GUCKERT JR.",
+    "branch": "USMC",
+    "service": "PERSIAN GULF WAR"
+  },
+  {
+    "name": "SGT. ERNEST MOORE",
+    "branch": "B CO 3/506 101 ABN",
+    "service": "KIA CAMB 5/10/1970"
+  },
+  {
+    "name": "HERMAN CREMEANS",
+    "branch": "PVT. U.S. ARMY",
+    "service": "WWII KIA FEB. 1945 PACTO"
+  },
+  {
+    "name": "JAMES A. BOYCE",
+    "branch": "USMC",
+    "service": "1956–1962"
+  },
+  {
+    "name": "LUCY PUTNAM McCARTHY",
+    "branch": "U.S. NAVY WAVES",
+    "service": "WWII"
+  },
+  {
+    "name": "GORDON J. MCCARTHY",
+    "branch": "U.S. AIR FORCE",
+    "service": "B29 WWII"
+  },
+  {
+    "name": "T-4 L.F. MORGENSTERN",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "EARL H. GIBSON",
+    "branch": "SPEC 4",
+    "service": "1958–1965"
+  },
+  {
+    "name": "CHIEF DAVID E. ALLEN",
+    "branch": "U.S. NAVY",
+    "service": "1994–"
+  },
+  {
+    "name": "JACOB L. BOYCE",
+    "branch": "U.S. NAVY",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "SGT. KENNETT R. ZINN",
+    "branch": "U.S. ARMY AIR CORP",
+    "service": "1942–1945"
+  },
+  {
+    "name": "LCPL LAURA A. ALLEN",
+    "branch": "U.S. MARINE CORP",
+    "service": "1985–1986"
+  },
+  {
+    "name": "TEC 5 ERRETT P. KING",
+    "branch": "U.S. ARMY",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "LCPL SCOTT H. ALLEN",
+    "branch": "U.S. MARINE CORP",
+    "service": "1983–1987"
+  },
+  {
+    "name": "CHARLES D. MITCHELL",
+    "branch": "BMC2 (T) U.S. NAVY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "JAMES T. SMITH SR.",
+    "branch": "STAFF SGT. U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "ANDREW FRANCIS JR.",
+    "branch": "U.S. AIR FORCE",
+    "service": "1956–1960"
+  },
+  {
+    "name": "SGT LES WILBANKS",
+    "branch": "B CO 3/506 101 ABN",
+    "service": "KIA OAMB 5/10/1970"
   }
 ]
