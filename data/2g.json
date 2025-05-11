@@ -1,7 +1,362 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "CHARLES A KING",
+    "branch": "USMC",
+    "service": "WWII 1945"
+  },
+  {
+    "name": "KENNETH L. BROWN",
+    "branch": "U.S. ARMY",
+    "service": "1971–1974 VIETNAM"
+  },
+  {
+    "name": "ROBERT L. HODGE SR.",
+    "branch": "PVT U.S. ARMY",
+    "service": "08–18–1956"
+  },
+  {
+    "name": "WILLIAM R. HODGE",
+    "branch": "LCPL USMC",
+    "service": "12–06–1981"
+  },
+  {
+    "name": "BARRY WAYNE SNYDER",
+    "branch": "EN2 USS LONGBEACH CGN9 U.S. NAVY",
+    "service": "1965–1971"
+  },
+  {
+    "name": "DENNIS RILEY",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1975–1979"
+  },
+  {
+    "name": "RONALD J. HASTINGS",
+    "branch": "SFC U.S. ARMY",
+    "service": "1955–1986"
+  },
+  {
+    "name": "PFC JEAN FREELAND",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "FRANK M. RILEY",
+    "branch": "U.S. MARINE CORPS",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "ORVILLE E. BRAHLEY",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1944–1944"
+  },
+  {
+    "name": "SP-5 THOMAS J. MCINTIRE",
+    "branch": "ARMY NATIONAL GUARD",
+    "service": "1971–1978"
+  },
+  {
+    "name": "DENNIS J. HENNINGER",
+    "branch": "U.S. AIR FORCE",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "HOWARD R. HUFFORD",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "ANISE E. HOGE",
+    "branch": "CPL USMC",
+    "service": "1945–1968 K.I.A."
+  },
+  {
+    "name": "JAME HODGE",
+    "branch": "COL. USMC",
+    "service": "VIETNAM 1948-1968 - 4/13/1968 KIA"
+  },
+  {
+    "name": "DONALD FOUSS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "R. PAUL SMITH",
+    "branch": "S 1C U.S. NAVY",
+    "service": ""
+  },
+  {
+    "name": "SGT. CLYDE DUVALL",
+    "branch": "U.S. ARMY",
+    "service": "WWII KILLED IN ACTION"
+  },
+  {
+    "name": "DENNIS RILEY",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1975–1979 (Duplicate Removed)"
+  },
+  {
+    "name": "DWIGHT E. BRADLEY",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "CPL. IVAN M. SMITLEY",
+    "branch": "MILITARY POLICE",
+    "service": "WWII"
+  },
+  {
+    "name": "ORVILLE E. BRADLEY",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1944"
+  },
+  {
+    "name": "SGT. RONALD WEST",
+    "branch": "554TH ENGINEER BN",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "PAUL R. CASTO",
+    "branch": "U.S. ARMY",
+    "service": "1952–1954"
+  },
+  {
+    "name": "RICHARD “BIRD” SNIDER",
+    "branch": "U.S. ARMY",
+    "service": "1952–1953 U.S. NAVY 1945–1949"
+  },
+  {
+    "name": "CPL. CHARLES “GUS” SNIDER",
+    "branch": "U.S. ARMY",
+    "service": "1952–1954"
+  },
+  {
+    "name": "WARD R. HUFFORD",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "LINDA J. HOLLISTER",
+    "branch": "U.S. ARMY",
+    "service": "1975–1976"
+  },
+  {
+    "name": "WILLIAM A. HOLLISTER",
+    "branch": "U.S. ARMY",
+    "service": "1975–1976"
+  },
+  {
+    "name": "RONALD LEE STEWART",
+    "branch": "CMSG RET U.S. ARMY",
+    "service": "1960–1981"
+  },
+  {
+    "name": "PVT. FRANCIS J. NOLL",
+    "branch": "138 INF U.S. ARMY",
+    "service": "WWI 1918–1919"
+  },
+  {
+    "name": "ROBERT D. HUGHES",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1952 JUL 1930–DEC 2002"
+  },
+  {
+    "name": "DONALD LEE STEWART",
+    "branch": "CMSG RET",
+    "service": "CLASS OF 1956"
+  },
+  {
+    "name": "CPL. RICHARD E. CRUM",
+    "branch": "11TH AIRBORNE DIV.",
+    "service": "1953–1956"
+  },
+  {
+    "name": "AMH CYNTHIA BARNES",
+    "branch": "U.S. NAVY",
+    "service": "1982–1993"
+  },
+  {
+    "name": "CHESTER D. REYNOLDS",
+    "branch": "PFC U.S. ARMY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "SSGT. CHARLES E. CRUM",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "A1C TED BARNES",
+    "branch": "U.S. AIR FORCE",
+    "service": "1962–1966"
+  },
+  {
+    "name": "U.S. ARMY SERGEANT DAVID K. CARPENTER",
+    "branch": "",
+    "service": "VIETNAM 1966–1967"
+  },
+  {
+    "name": "PFC. TOMMY REYNOLDS",
+    "branch": "U.S. ARMY",
+    "service": "1964–1966"
+  },
+  {
+    "name": "PFC. CHARLES H. BAKER",
+    "branch": "U.S. ARMY",
+    "service": "1953–1955"
+  },
+  {
+    "name": "OM 3 JAMIE BEARDSLEY",
+    "branch": "U.S. NAVY",
+    "service": "1994–1998"
+  },
+  {
+    "name": "J. WILLIAM KITCHEN",
+    "branch": "U.S. ARMY",
+    "service": "1953–1955"
+  },
+  {
+    "name": "HOWARD KITCHEN",
+    "branch": "U.S. ARMY",
+    "service": "1956–1962"
+  },
+  {
+    "name": "CHARLES D. HUCK",
+    "branch": "SP 4 U.S. ARMY",
+    "service": "VIETNAM VETERAN"
+  },
+  {
+    "name": "GT PHILIP W. MCGINTIRE",
+    "branch": "U.S. ARMY",
+    "service": "1968–1970"
+  },
+  {
+    "name": "A1C DENIS LUMBATIS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1962–1966"
+  },
+  {
+    "name": "CLIFFORD J. HENNIGER",
+    "branch": "U.S. AIR FORCE",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "HAROLD E. PABST",
+    "branch": "U.S. NAVY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "RICHARD L. BEST",
+    "branch": "U.S. AIR FORCE",
+    "service": "VIETNAM 1971–1972"
+  },
+  {
+    "name": "CLYDE H. ALLOWAY",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1943–1948"
+  },
+  {
+    "name": "JACK E. HOLLISTER",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "1944–1946"
+  },
+  {
+    "name": "JAMES L. POTTS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "JOSEPH P. BRANDJES",
+    "branch": "U.S. ARMY",
+    "service": "1964–1966"
+  },
+  {
+    "name": "RALPH SMITHBERGER",
+    "branch": "2ND LT. NAVIGATOR B17",
+    "service": "WWII POW 1944"
+  },
+  {
+    "name": "DALE C. SWINGLER",
+    "branch": "1ST SGT. U.S. ARMY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "SSG. JEFF BARNES",
+    "branch": "U.S. ARMY",
+    "service": "1983–1986 1990–2001"
+  },
+  {
+    "name": "A2C ROBERT E. LAUER",
+    "branch": "U.S.A.F.",
+    "service": "1955–1959 KOREAN WAR"
+  },
+  {
+    "name": "ARTHUR R. EDWARDS",
+    "branch": "AIRMAN",
+    "service": "1943–1946"
+  },
+  {
+    "name": "HOWARD H. CLARK JR",
+    "branch": "SS/SGT U.S. AIR FORCE",
+    "service": "1950–1954"
+  },
+  {
+    "name": "SSC. GLENN A. SWINGLER",
+    "branch": "U.S. NAVY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "TRAVIS R. TAYLOR",
+    "branch": "U.S. NAVY – OS2",
+    "service": "1994–1999"
+  },
+  {
+    "name": "PFC. DAVID D. HEARN",
+    "branch": "U.S. ARMY",
+    "service": "1955–1958"
+  },
+  {
+    "name": "PVT. LEROY JACKSON",
+    "branch": "U.S. ARMY",
+    "service": "WWII DIED IN SERVICE"
+  },
+  {
+    "name": "EDWARD KITCHEN",
+    "branch": "U.S. ARMY",
+    "service": "1958–1964"
+  },
+  {
+    "name": "CHARLES KITCHEN",
+    "branch": "U.S. ARMY",
+    "service": "1960–1963"
+  },
+  {
+    "name": "A1C GEORGE T. LONG",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955"
+  },
+  {
+    "name": "WILLIAM SULLIVAN COX",
+    "branch": "U.S. NAVY",
+    "service": "MIA 1942–1945"
+  },
+  {
+    "name": "PHILIP A. BEARDMORE",
+    "branch": "U.S. ARMY ARMOR DIV",
+    "service": "KOREA 1953–1955"
+  },
+  {
+    "name": "GEORGE FARLEY",
+    "branch": "NAVY PHARMACIST",
+    "service": "1944–1946 HOSPITAL SHIP – RESCUE"
+  },
+  {
+    "name": "REGIS WALLACE",
+    "branch": "SP4 HHD MP 2D ARMD DCV",
+    "service": "1968–1974 VIETNAM"
+  },
+  {
+    "name": "THOMAS KING WILSON",
+    "branch": "U.S. NAVY",
+    "service": "1959–1965"
   }
 ]
