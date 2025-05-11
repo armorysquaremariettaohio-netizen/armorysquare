@@ -1,7 +1,392 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "FLOYD DAVID KEERPS SR.",
+    "branch": "U.S. NAVY",
+    "service": ""
+  },
+  {
+    "name": "PFC. DANIEL C. KEERPS",
+    "branch": "U.S. ARMY",
+    "service": "32ND ACCORD ADA"
+  },
+  {
+    "name": "SGT. DURKIN",
+    "branch": "UH-60 CE",
+    "service": "KFOR-BA"
+  },
+  {
+    "name": "CPL. HAROLD E. WOOTTON",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "FREDERICK R. GRAY JR.",
+    "branch": "U.S. MARINE",
+    "service": "KOREA"
+  },
+  {
+    "name": "WILLIAM ALLPHIN JR.",
+    "branch": "U.S. NAVY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "SP4 WESLEY BECKER",
+    "branch": "U.S. ARMY",
+    "service": "1980–1983"
+  },
+  {
+    "name": "SGT. HAROLD BECK SR.",
+    "branch": "MEDIC C. 5TH INF.",
+    "service": "WWII"
+  },
+  {
+    "name": "PVT. FRANK S. WOOTTON",
+    "branch": "U.S. ARMY",
+    "service": "1918–1919"
+  },
+  {
+    "name": "CPL. JACOB E. BECKER",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1960–1964"
+  },
+  {
+    "name": "SGT. CHARLES W. BROWN",
+    "branch": "U.S. ARMY",
+    "service": "WWII BRONZE STAR MEDAL"
+  },
+  {
+    "name": "PO3. CALEB B. WHITE",
+    "branch": "U.S. COAST GUARD",
+    "service": "1988–2009"
+  },
+  {
+    "name": "ISAAC H. BAKER",
+    "branch": "U.S. ARMY",
+    "service": "WORLD WAR I"
+  },
+  {
+    "name": "PAUL T. WILLIAMSON",
+    "branch": "U.S. ARMY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "SETH A. WHITE",
+    "branch": "MILITARY POLICE U.S. ARMY",
+    "service": "KOREA"
+  },
+  {
+    "name": "T/5 WOODROW BEEKER",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "GALE D. FRITSCHE",
+    "branch": "U.S. NAVY",
+    "service": "1983–1987"
+  },
+  {
+    "name": "SGT. HAROLD D. REED",
+    "branch": "U.S. ARMY",
+    "service": "1939–1945 INFANTRY 84TH INF. DIV."
+  },
+  {
+    "name": "LEONARD E. COLE",
+    "branch": "U.S. MARINE",
+    "service": "WWI 1942–1944"
+  },
+  {
+    "name": "DONALD L. KERNS",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "1943–1946"
+  },
+  {
+    "name": "MSGT. ROGER L. BURRIS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1972–1992"
+  },
+  {
+    "name": "HENRY U. HUTCHINSON",
+    "branch": "COMPANY B 77 OVI PRIVATE",
+    "service": "CIVIL WAR"
+  },
+  {
+    "name": "PVT. EARL G. HENDRICKS",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1951–1953"
+  },
+  {
+    "name": "CPL. CARL F. COLERICK",
+    "branch": "8TH U.S. AIR FORCE 491ST BOMB GP",
+    "service": "WWII"
+  },
+  {
+    "name": "CPL. VICTOR E. HENDRICKS",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1951–1954"
+  },
+  {
+    "name": "PFC. L. E. TOLLER",
+    "branch": "A.E.F. FRANCE",
+    "service": "1918–1919"
+  },
+  {
+    "name": "SSGT. J. R. TOLLER",
+    "branch": "U.S. AIR FORCE",
+    "service": "KOREA 1951–1955"
+  },
+  {
+    "name": "ET2. ROBERT L. HANNAHS",
+    "branch": "U.S. NAVY",
+    "service": "1948–1952"
+  },
+  {
+    "name": "TEC5 ORISON S. S. REED",
+    "branch": "WWII WAR 852 3068 FLAG BEARER",
+    "service": ""
+  },
+  {
+    "name": "ALBERT FORREST FUNK",
+    "branch": "U.S. NAVY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "HENRY G. POTTMEYER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1945–1946"
+  },
+  {
+    "name": "TSGT. L. OWEN WEINSTOCK",
+    "branch": "U.S. ARMY AIR",
+    "service": "WWII"
+  },
+  {
+    "name": "RONALD E. NEVILLE",
+    "branch": "82ND AIRBORNE",
+    "service": "1945–1960"
+  },
+  {
+    "name": "STEVEN POTTMEYER",
+    "branch": "U.S. MARINE CORPS",
+    "service": "ARTILLERY"
+  },
+  {
+    "name": "MACHINIST MATE 2CL ALLEN CARL NEWELL",
+    "branch": "U.S. NAVY",
+    "service": "1944"
+  },
+  {
+    "name": "SGT. AMOS D. HOLLISTER",
+    "branch": "TOP TURRET GUNNER B-17",
+    "service": "WWII"
+  },
+  {
+    "name": "JEREMY D. GREGORY",
+    "branch": "U.S. ARMY RESERVE",
+    "service": "OIF 2004–2005"
+  },
+  {
+    "name": "CPL. EDWIN L. KETTER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "CPL. HENRY NEWELL",
+    "branch": "U.S. ARMY",
+    "service": "WWII BRONZE STAR RHINELAND"
+  },
+  {
+    "name": "W. JOSEPH BOLEY",
+    "branch": "82ND AIRBORNE",
+    "service": "WWII"
+  },
+  {
+    "name": "SSGT. RONALD D. GREGORY",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1967–1969"
+  },
+  {
+    "name": "SGT. RAY NEWELL",
+    "branch": "FLIGHT ENGINEER B-24 B-32",
+    "service": "WWII"
+  },
+  {
+    "name": "SPC. ERIC R. WARD",
+    "branch": "U.S. ARMY SCOUTS 1ST CAV 2ND INF.",
+    "service": ""
+  },
+  {
+    "name": "LTJG. CARLE LEWIS",
+    "branch": "USNR FLIGHT INSTRUCTOR",
+    "service": "1942–1945"
+  },
+  {
+    "name": "AUSTIN PRITCHETT",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "WILLIAM J. GAVIN",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "SEPT. 1940–OCT. 1945"
+  },
+  {
+    "name": "CPL. JAMES OLIVER",
+    "branch": "36TH OVI REGIMENT",
+    "service": "1861–1864"
+  },
+  {
+    "name": "1ST LT. LLOYD B. ROTH",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "SGT. JERRY THOMAS",
+    "branch": "U.S. ARMY",
+    "service": "1940–1971"
+  },
+  {
+    "name": "JAMES O. GAVIN",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "JAN. 1941–SEPT. 1945"
+  },
+  {
+    "name": "SGT. ROBERT W. KIDD",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SFC. FLOYD F. DRAKE",
+    "branch": "U.S. ARMY",
+    "service": "1962–1985, 1979–1988"
+  },
+  {
+    "name": "ARTHUR F. REED",
+    "branch": "720TH ENGINEER CO.",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "SGT. GLEN P. NEELY",
+    "branch": "U.S. ARMY AIR CORPS",
+    "service": "1947–1949"
+  },
+  {
+    "name": "A1C. JOHNNY R. ADAMS",
+    "branch": "MMS U.S. AIR FORCE",
+    "service": ""
+  },
+  {
+    "name": "SGT. JOHN H. ADAMS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1945–1989"
+  },
+  {
+    "name": "PFC. RICHARD T. ADAMS",
+    "branch": "INFANTRY U.S. ARMY",
+    "service": "KOREA 1950–1952"
+  },
+  {
+    "name": "SS/SGT. FRANK STACY",
+    "branch": "U.S. ARMY",
+    "service": "PACIFIC 1945–1946"
+  },
+  {
+    "name": "CARL L. BROUGHTON",
+    "branch": "U.S. NAVY",
+    "service": "1943–1947"
+  },
+  {
+    "name": "CPL. CARL T. PATTERSON",
+    "branch": "U.S. ARMY",
+    "service": "KOREA 1953–1955"
+  },
+  {
+    "name": "LLOYD E. ULLMAN",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1944–1946"
+  },
+  {
+    "name": "GERALD N. SWARTZ",
+    "branch": "U.S. ARMY",
+    "service": "1953–1955"
+  },
+  {
+    "name": "AE1. TERRY L. MORRIS",
+    "branch": "U.S. NAVY",
+    "service": "1958–1968"
+  },
+  {
+    "name": "DALE NEWELL",
+    "branch": "U.S. ARMY",
+    "service": "1971–1973"
+  },
+  {
+    "name": "CHARLES BOLEY",
+    "branch": "WWII TORPEDO SGT. T2",
+    "service": "KIA DESTROYING CROSS"
+  },
+  {
+    "name": "SGT. RANDY L. WARD",
+    "branch": "19TH S-FORCES GROUP U.S. ARMY AIRBORNE",
+    "service": ""
+  },
+  {
+    "name": "SGT. EVAN S. SUTTON",
+    "branch": "U.S. ARMY",
+    "service": "2002–2010 IRAQ WAR 2008–2009"
+  },
+  {
+    "name": "OTTO FOX",
+    "branch": "U.S. NAVY",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "PFC. ERNEST M. SUTTON",
+    "branch": "BRONZE STAR WWII",
+    "service": "1944 U.S. ARMY"
+  },
+  {
+    "name": "GARY E. RINARD",
+    "branch": "U.S. ARMY",
+    "service": "1966–1968"
+  },
+  {
+    "name": "DAVID PAYNE",
+    "branch": "U.S. NAVY",
+    "service": "1961–1972"
+  },
+  {
+    "name": "SSG. MICK MCKITRICK",
+    "branch": "1ST SPECIAL FORCES VIETNAM",
+    "service": "1963–1968"
+  },
+  {
+    "name": "JAMES E. BOLEY",
+    "branch": "WWII ARMY AIR CORPS",
+    "service": "P-51 PILOT"
+  },
+  {
+    "name": "DAVID W. PAYNE",
+    "branch": "USMC",
+    "service": ""
+  },
+  {
+    "name": "MSG. EARL WORSTELL",
+    "branch": "RETIRED U.S. ARMY",
+    "service": "2013 IRAQ–AFGHANISTAN"
+  },
+  {
+    "name": "SGT. PHILIP E. PERDUE",
+    "branch": "U.S. AIR FORCE",
+    "service": "1965–1971"
+  },
+  {
+    "name": "SSGT. EARL WAGNER",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII 1940–1945"
+  },
+  {
+    "name": "TSGT. ELDRED \"JIGGS\" LAUER",
+    "branch": "U.S. AIR FORCE RETIRED",
+    "service": "1947–1978"
   }
 ]
