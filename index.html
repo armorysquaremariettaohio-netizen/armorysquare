@@ -537,7 +537,7 @@ body {
 <button id="music-toggle" onclick="toggleMusic()">Play Music</button>
 <div class="container">
 <div class="search-box">
-<input id="search-input" placeholder="Search a veteran's name or plot" type="text"/ onkeypress="if(event.key===\'Enter\'){ event.preventDefault(); searchVeteran(); }">
+<input id="search-input" placeholder="Search a veteran's name or plot" type="text"/ onkeypress="if(event.key===\'Enter\'){ event.preventDefault(); searchVeteran(); }" oninput="searchVeteran()" >
 <button onclick="searchVeteran()">Search</button>
 <div id="search-results"></div>
 </div>
@@ -723,5 +723,20 @@ document.addEventListener('DOMContentLoaded', function() {
   })();
 </script>
 <button id="night-toggle" onclick="toggleNightMode()">Night Mode</button>
+
+<script>
+  let debounceTimer;
+  function searchVeteranDebounced() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(searchVeteran, 50);
+  }
+  // Attach debounced input listener
+  document.addEventListener("DOMContentLoaded", () => {
+    const input = document.getElementById("search-input");
+    input.removeAttribute("oninput");
+    input.addEventListener("input", searchVeteranDebounced);
+  });
+</script>
 </body>
+
 </html>
