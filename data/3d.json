@@ -1,7 +1,442 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "TEC 5 JOSEPH YOST",
+    "branch": "PACIFIC ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "SISGT. FLOYD BERG",
+    "branch": "U.S. ARMY",
+    "service": "WWII PACIFIC BURMA ROAD"
+  },
+  {
+    "name": "KATHRYN E. MURPHY",
+    "branch": "WOMEN'S ARMY CORPS",
+    "service": ""
+  },
+  {
+    "name": "SPC JAMES RILEY III",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1967–1973"
+  },
+  {
+    "name": "LCPL RON W. RUBLE",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1959–1983, BAY OF PIGS"
+  },
+  {
+    "name": "ALFRED E. CLOSE JR.",
+    "branch": "U.S. NAVY",
+    "service": "1960–1964"
+  },
+  {
+    "name": "RALPH S. MURPHY",
+    "branch": "U.S. NAVY",
+    "service": "WWII"
+  },
+  {
+    "name": "SP 4 JERRY R. MCLAIN",
+    "branch": "U.S. ARMY",
+    "service": "1963–1966"
+  },
+  {
+    "name": "CPL. LARRY R. RUBLE",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1959–1982, BAY OF PIGS"
+  },
+  {
+    "name": "BILLY E. FARNSWORTH",
+    "branch": "SGT. 82ND ABN",
+    "service": "1951–1954"
+  },
+  {
+    "name": "PVT. E-2 JOHN D. PRINE",
+    "branch": "U.S. ARMY",
+    "service": "1949–1953"
+  },
+  {
+    "name": "LT. DAVID F. HERNE",
+    "branch": "COMMANDER",
+    "service": "1941–1946"
+  },
+  {
+    "name": "SP 4 JERRY S. BRUNER",
+    "branch": "B-17 PILOT",
+    "service": "WWII, 50 MISSIONS"
+  },
+  {
+    "name": "HARRY ROBERTS",
+    "branch": "USMC",
+    "service": "1943–1945, TARAWA ATOLL, GILBERT ISL."
+  },
+  {
+    "name": "HAROLD L. CARPENTER",
+    "branch": "SP 4 U.S. ARMY",
+    "service": "1959–1962"
+  },
+  {
+    "name": "MSGT GALE E. MILLER",
+    "branch": "OHIO NATIONAL GUARD",
+    "service": ""
+  },
+  {
+    "name": "GENE BEAVER",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945, PURPLE HEART OLC"
+  },
+  {
+    "name": "SGT. RICHARD MILLER",
+    "branch": "U.S. AIR FORCE",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "CRAIG LEGLITNER",
+    "branch": "U.S. ARMY",
+    "service": "1963–1966"
+  },
+  {
+    "name": "SFCT HERMAN ADAMS",
+    "branch": "U.S. ARMY",
+    "service": "1950–1954"
+  },
+  {
+    "name": "JOHN M. GOODMAN",
+    "branch": "ARMY AIR FORCE",
+    "service": "1942–1946"
+  },
+  {
+    "name": "PFC. WILLIAM A. KING",
+    "branch": "U.S. ARMY",
+    "service": "WWII PACIFIC COMBAT INFANTRY BADGE"
+  },
+  {
+    "name": "ELBERT L. SUTLER",
+    "branch": "ARMY AIR FORCE",
+    "service": "1942–1945"
+  },
+  {
+    "name": "FRED LEGLEITNER III",
+    "branch": "U.S. NAVY",
+    "service": "1976–1980"
+  },
+  {
+    "name": "PFC. CALVIN LaFABER",
+    "branch": "U.S. ARMY",
+    "service": "KIA 1-31-1945 IN BELGIUM"
+  },
+  {
+    "name": "FRED LEGLEITNER JR.",
+    "branch": "U.S. AIR FORCE",
+    "service": "KOREAN CONFLICT"
+  },
+  {
+    "name": "TECH 5 PAUL J. LANE",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SGT. JASON P. BLACK",
+    "branch": "U.S. AIR FORCE",
+    "service": "1987–1997"
+  },
+  {
+    "name": "CPL. LLOYD R. LANE",
+    "branch": "ARMY AIR FORCE",
+    "service": "1945–1946"
+  },
+  {
+    "name": "SGT. GARY P. MORRIS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1966–1970"
+  },
+  {
+    "name": "FREDERIC L. GIBSON",
+    "branch": "U.S. ARMY",
+    "service": "1965–1967"
+  },
+  {
+    "name": "SP 5 EDGAR F. MCCLAIN",
+    "branch": "U.S. ARMY",
+    "service": "1953–1957"
+  },
+  {
+    "name": "JOHN FOX",
+    "branch": "TEC 5 110TH 175 INF",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "TSGT JAMES G. LANE",
+    "branch": "U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "SGT R. GIG MORRIS",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "DON L. GIBSON",
+    "branch": "SGT U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "DAVID R. MCCLAIN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1960–1968"
+  },
+  {
+    "name": "MAJ ROBERTA LANE",
+    "branch": "2ND ARMORED DIV.",
+    "service": "KIA AUG. 23, 1944"
+  },
+  {
+    "name": "SGT KARL P. MORRIS",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "CPL JACK LYNCH",
+    "branch": "U.S. ARMY",
+    "service": "1951–1952, KOREAN WAR"
+  },
+  {
+    "name": "SYLVIA PRINGLE",
+    "branch": "LT. COL. U.S.A.F.",
+    "service": "1979–2002"
+  },
+  {
+    "name": "CLIFFORD S. HUPP",
+    "branch": "U.S. NAVY SEABEES",
+    "service": "PURPLE HEART WWII"
+  },
+  {
+    "name": "DUWARD K. BLANEY",
+    "branch": "COA 155 ENGR. COMBAT U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "FLOYD H. MILLER",
+    "branch": "CPL 484 AAA",
+    "service": "WWII"
+  },
+  {
+    "name": "MSG. LONNIE PRINGLE",
+    "branch": "U.S. AIR FORCE",
+    "service": "1982–2005"
+  },
+  {
+    "name": "PFC. CARL MILLER JR.",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1968–1971"
+  },
+  {
+    "name": "CAPT. JERRY PRINGLE",
+    "branch": "U.S. AIR FORCE",
+    "service": "1965–1991"
+  },
+  {
+    "name": "RAYMOND J. HUPP",
+    "branch": "PFC. U.S. ARMY",
+    "service": "PURPLE HEART WWII"
+  },
+  {
+    "name": "CPL. LLOYD LIPPS",
+    "branch": "U.S. ARMY",
+    "service": "1951–1953"
+  },
+  {
+    "name": "GEO. DEAN SKINNER",
+    "branch": "TSGT WWII ARMY-AIR",
+    "service": "1942–1945"
+  },
+  {
+    "name": "DT3 ARTHUR D. SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1967–1971"
+  },
+  {
+    "name": "DOC NELSON PATRICK",
+    "branch": "U.S. NAVY RECON CORPSMEN 1ST MAR DIV",
+    "service": ""
+  },
+  {
+    "name": "SGT. CLYDE F. MILLER",
+    "branch": "U.S. ARMY VIII CORPS",
+    "service": "WWII"
+  },
+  {
+    "name": "LEE A. VYNER",
+    "branch": "U.S. ARMY",
+    "service": ""
+  },
+  {
+    "name": "DAVID L. RUSSELL",
+    "branch": "U.S. ARMY",
+    "service": "1967–1969, VIETNAM"
+  },
+  {
+    "name": "SGT. CLYDE F. MILLER",
+    "branch": "U.S. ARMY VIII CORPS",
+    "service": "WWII"
+  },
+  {
+    "name": "SP 3 EDGAR MCCLAIN",
+    "branch": "U.S. ARMY",
+    "service": "1955–1957"
+  },
+  {
+    "name": "DONALD KIDWILER II",
+    "branch": "U.S. NAVY",
+    "service": "1965–1969"
+  },
+  {
+    "name": "PETER PRIGGE",
+    "branch": "U.S. AIR FORCE",
+    "service": "MAY 1961–MAY 1965, F-106 GEORGE AFB"
+  },
+  {
+    "name": "GALE W. HUPP",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "BRANDON BURNWORTH",
+    "branch": "AIR NATIONAL GUARD",
+    "service": "OIF - OEF"
+  },
+  {
+    "name": "DAVID R. MCCLAIN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1960–1968"
+  },
+  {
+    "name": "D. FRANK MCKAY JR",
+    "branch": "SPG 4 U.S. ARMY",
+    "service": "1988–1992"
+  },
+  {
+    "name": "RONALD L. STRAHLER",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1968–1971"
+  },
+  {
+    "name": "MM 3 JEREMY SCHOTT",
+    "branch": "U.S. NAVY",
+    "service": "CURRENTLY SERVING"
+  },
+  {
+    "name": "OS 2 TERRY PRINGLE",
+    "branch": "USS LAWRENCE DDG 4",
+    "service": "1972–1979"
+  },
+  {
+    "name": "1ST SGT JONATHAN HUPP",
+    "branch": "U.S. MARINES",
+    "service": "RETIRED OCT. 1987–JULY 26, 2011"
+  },
+  {
+    "name": "HOWARD A. STRAHLER",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "SGT. JAMES A. SCHOTT",
+    "branch": "U.S. ARMY",
+    "service": "DEC. 1960–DEC. 1962"
+  },
+  {
+    "name": "S1 PERCY PRINGLE",
+    "branch": "U.S. NAVY",
+    "service": "WWII PACIFIC"
+  },
+  {
+    "name": "MM 3 VICTOR S. HUPP",
+    "branch": "U.S. NAVY",
+    "service": "NOV. 1980–NOV. 1985"
+  },
+  {
+    "name": "AQ 2 KEN SPINDLER",
+    "branch": "VF 114 U.S. NAVY",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "LT. ROY S. WIBLE",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "LCPL GERRY J. HUPP",
+    "branch": "U.S. MARINE CORPS",
+    "service": "SEPT. 1957–SEPT. 1961"
+  },
+  {
+    "name": "SGT. CARL F. SELAN",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "W. MICHAEL STULL",
+    "branch": "SPC. 4 U.S. ARMY",
+    "service": "VIETNAM 1971–1972"
+  },
+  {
+    "name": "1ST SGT JONATHAN HUPP",
+    "branch": "U.S. MARINES",
+    "service": "RETIRED OCT. 1987–JUL. 2011"
+  },
+  {
+    "name": "AQ 2 TODD SPINDLER",
+    "branch": "CVW-65 U.S. NAVY",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "JAMES L. HALL",
+    "branch": "U.S.S. KIDD DD661",
+    "service": "KOREAN 1950–1954"
+  },
+  {
+    "name": "SGT. LARRY PROCTOR",
+    "branch": "USA 196 LIB 3/21 INF VN",
+    "service": "NOV. 1967–NOV. 1968"
+  },
+  {
+    "name": "AQ 2 KEN SPINDLER",
+    "branch": "VF 114 U.S. NAVY",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "SGT. THOMAS E. STULL",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1965–1967"
+  },
+  {
+    "name": "MILTON N. PROCTOR",
+    "branch": "USA",
+    "service": "WWII 1942–1945, TECH SGT. 567TH AAA"
+  },
+  {
+    "name": "CPL. LYLE F. HUFFMAN",
+    "branch": "U.S. ARMY",
+    "service": "FEB. 1942–NOV. 1945"
+  },
+  {
+    "name": "W. MICHAEL STULL",
+    "branch": "SPC. 4 U.S. ARMY",
+    "service": "VIETNAM 1971–1973"
+  },
+  {
+    "name": "RICHARD S. NEADER",
+    "branch": "U.S. ARMY",
+    "service": "JUNE 1943–FEB. 1946"
+  },
+  {
+    "name": "TEC 4 GERALD A. DRAKE",
+    "branch": "U.S. ARMY",
+    "service": "PACIFIC WWII 1943–1945"
+  },
+  {
+    "name": "DAVID J. SARVER",
+    "branch": "YN2 U.S. NAVY",
+    "service": "1954–1958"
   }
 ]
