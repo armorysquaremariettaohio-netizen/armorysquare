@@ -1,7 +1,412 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "NEIL WAGNER",
+    "branch": "U.S. ARMY",
+    "service": "1961–1963"
+  },
+  {
+    "name": "DENNIS DUNBAR BLAUSER",
+    "branch": "U.S. MARINE",
+    "service": "1944–1946"
+  },
+  {
+    "name": "RONNIE W. DAVIS",
+    "branch": "U.S. NAVY SEABEES",
+    "service": "VIETNAM 1967–1968"
+  },
+  {
+    "name": "PAUL R. BYERS",
+    "branch": "PRIVATE FIRST CLASS U.S. ARMY",
+    "service": "1942–1946 WWII"
+  },
+  {
+    "name": "GEORGE J. LITTLETON",
+    "branch": "U.S. NAVY",
+    "service": "WWII"
+  },
+  {
+    "name": "DAVID DUANE DUNBAR",
+    "branch": "S SGT. U.S. ARMY",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "DONALD E. MORROW",
+    "branch": "U.S. ARMY",
+    "service": "KOREA SGT. 1951–1957"
+  },
+  {
+    "name": "JACK E. GROVES",
+    "branch": "OHIO NATIONAL GUARD",
+    "service": "1948–1953"
+  },
+  {
+    "name": "SP4 ROY E. LITTLETON SR.",
+    "branch": "U.S. ARMY",
+    "service": "1954–1957 35TH ENGR. BN (COMBAT)"
+  },
+  {
+    "name": "ALAN HARRIS",
+    "branch": "STG2 U.S. NAVY",
+    "service": "1992 SOUTHWEST ASIA"
+  },
+  {
+    "name": "CHRIS K. WETZEL",
+    "branch": "U.S. NAVY",
+    "service": "1982–1985"
+  },
+  {
+    "name": "THOMAS I. WETZEL",
+    "branch": "U.S. NAVY",
+    "service": "1944–1950"
+  },
+  {
+    "name": "SRA MICHAEL DIETSCH",
+    "branch": "U.S.A.F. FIREFIGHTER",
+    "service": "1993–1997"
+  },
+  {
+    "name": "ROY CECIL PUGH JR.",
+    "branch": "PFC. U.S. ARMY",
+    "service": "VIETNAM 1967–1970"
+  },
+  {
+    "name": "EUGENE S. BULES",
+    "branch": "WT2 U.S. NAVY",
+    "service": "PACIFIC 1944–1946"
+  },
+  {
+    "name": "PFC. ROBERT D. REED",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1946 CO. F 119TH INF. REG."
+  },
+  {
+    "name": "DANNY SEXTON",
+    "branch": "U.S. ARMY",
+    "service": "1961–1964"
+  },
+  {
+    "name": "LLOYD H. POULTON SR.",
+    "branch": "T/SGT. U.S. ARMY",
+    "service": "WWII 4 BRONZE STARS"
+  },
+  {
+    "name": "PFC. RUSSELL BRITTON",
+    "branch": "U.S. ARMY",
+    "service": "1943–1945 ASIA T/C PACIFIC"
+  },
+  {
+    "name": "SGT. ROBERT J. MARSHALL SR.",
+    "branch": "U.S. ARMY",
+    "service": "463RD COMBAT ENG. CO. D 1970–1995"
+  },
+  {
+    "name": "CLAYTON NICHOLSON",
+    "branch": "SP5 ARTY U.S. ARMY",
+    "service": "1960–1966 VIETNAM"
+  },
+  {
+    "name": "MARION EARL WELLS",
+    "branch": "CPL. U.S. ARMY",
+    "service": "KOREAN WAR 1950–1952"
+  },
+  {
+    "name": "LOREN DEAN EDDY",
+    "branch": "CPL. U.S. ARMY",
+    "service": "WWII 1942–1945"
+  },
+  {
+    "name": "CPL. H. T. HUD LANG",
+    "branch": "44TH INFANTRY DIV. WWII",
+    "service": "1943–1945 EUROPE"
+  },
+  {
+    "name": "JAMES T. MARSHALL",
+    "branch": "SGT. U.S. ARMY",
+    "service": "WWII 2 BRONZE STARS"
+  },
+  {
+    "name": "T5 VINCENT C. LANG",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1946"
+  },
+  {
+    "name": "HAROLD MCCONNELL",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII"
+  },
+  {
+    "name": "SGT. MIKE HINCHEE",
+    "branch": "U.S. AIR FORCE",
+    "service": "OIF – OEF"
+  },
+  {
+    "name": "ALLEN MOORE",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "SP4 RALPH C. HINES",
+    "branch": "U.S. ARMY",
+    "service": "1961–1963"
+  },
+  {
+    "name": "C. EDWIN CROSS SR.",
+    "branch": "93RD BATTALION",
+    "service": "WWII"
+  },
+  {
+    "name": "SCOTTY MOORE",
+    "branch": "U.S. NAVY",
+    "service": "1951–1993"
+  },
+  {
+    "name": "SP3 GERALD HINES",
+    "branch": "U.S. ARMY",
+    "service": "1954–1955"
+  },
+  {
+    "name": "NORMAN ANDY S. BOARD",
+    "branch": "SGT. U.S. ARMY",
+    "service": "KOREA 1951–1954"
+  },
+  {
+    "name": "SP5 TERRY A. HAYES",
+    "branch": "U.S. ARMY",
+    "service": "1969–1971"
+  },
+  {
+    "name": "CHAS. H. YOUNG",
+    "branch": "TECH 5 15TH ARMY AFRICA ITALY",
+    "service": "9/42–7/45"
+  },
+  {
+    "name": "SP4 ROY C. HAYES",
+    "branch": "U.S. ARMY",
+    "service": "1951–1953"
+  },
+  {
+    "name": "GEO. BUTLER TURNER",
+    "branch": "ADJUTANT 92ND OVI",
+    "service": "DIED DEC. 1, 1863 TN"
+  },
+  {
+    "name": "BRADY J. HENDERSHOT",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942–1948 CO. K 303RD INF. REG."
+  },
+  {
+    "name": "PAUL DOW YOUNG",
+    "branch": "U.S. AIR FORCE",
+    "service": "1959–1968"
+  },
+  {
+    "name": "EDWARD MARTIN",
+    "branch": "U.S. ARMY",
+    "service": "1947–1950"
+  },
+  {
+    "name": "PATRICK P.B. SEXTON",
+    "branch": "U.S. NAVY",
+    "service": ""
+  },
+  {
+    "name": "SGT. WILLIS C. CALDWELL",
+    "branch": "U.S. ARMY",
+    "service": "NEW GUINEA 1942–1945"
+  },
+  {
+    "name": "PVT. JOHN C. KENDLE",
+    "branch": "U.S. ARMY",
+    "service": "WWI FRANCE 1917–1919"
+  },
+  {
+    "name": "ROBERT GARRETT",
+    "branch": "WWII 506 PARACHUTE INF 101 AIRBORNE DIV",
+    "service": ""
+  },
+  {
+    "name": "ROY C. RICH SR.",
+    "branch": "S/SGT. U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "PFC. RALPH E. DILLON",
+    "branch": "1944 U.S. ARMY",
+    "service": "WWII 1945"
+  },
+  {
+    "name": "R.K. WILLIAMSON",
+    "branch": "U.S.A.F.",
+    "service": "1963–1967"
+  },
+  {
+    "name": "CPL. BEMAN G. BIEHL",
+    "branch": "U.S. ARMY",
+    "service": "120 ART BN WWII 1943–1945"
+  },
+  {
+    "name": "SP4 MARK A. HART",
+    "branch": "1988–1992 U.S. ARMY",
+    "service": "PERSIAN GULF"
+  },
+  {
+    "name": "BILL NICHOLAS",
+    "branch": "SK2C U.S. NAVY",
+    "service": "WWII PACIFIC"
+  },
+  {
+    "name": "CLINTON VERNIE BOGARD",
+    "branch": "SEAMAN 1/C U.S. NAVY",
+    "service": "SUBMARINES 1945–1947"
+  },
+  {
+    "name": "SP4 JIMMIE A. HART",
+    "branch": "1965–1967 U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "ERIC SANDSTROM",
+    "branch": "21ST FIGHTER WING OSAN AB",
+    "service": "KOREA 1981–1987"
+  },
+  {
+    "name": "SASHA YVETTE BOGARD",
+    "branch": "U.S. COAST GUARD",
+    "service": ""
+  },
+  {
+    "name": "JACK D. CUNDIFF",
+    "branch": "U.S. ARMY",
+    "service": "1957–1960"
+  },
+  {
+    "name": "SSGT. JESSE L. LUCAS",
+    "branch": "U.S. ARMY",
+    "service": "1988–2016"
+  },
+  {
+    "name": "PEARLEY J. BROWN JR.",
+    "branch": "U.S. ARMY",
+    "service": "3 TOURS"
+  },
+  {
+    "name": "CPL. GILBERT LISK",
+    "branch": "U.S. ARMY",
+    "service": "1952–1953"
+  },
+  {
+    "name": "CAPT. JOSEPH MARICH",
+    "branch": "AIR FORCE PILOT B-24",
+    "service": "WWII"
+  },
+  {
+    "name": "SGT. CLYDE YOUNG",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "VERNON OLIVER",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "ADAM YOUNG HUGHES",
+    "branch": "U.S. ARMY",
+    "service": "1992–1995"
+  },
+  {
+    "name": "HM2 LEWIS G. MCVAY",
+    "branch": "U.S. NAVY",
+    "service": "1954–1957"
+  },
+  {
+    "name": "MSG. TOM HENDERSHOT",
+    "branch": "U.S. ARMY",
+    "service": "1965–2008"
+  },
+  {
+    "name": "SGT. GARY COURTNEY",
+    "branch": "U.S. AIR FORCE",
+    "service": "1964–1968"
+  },
+  {
+    "name": "CECIL POTTMEYER",
+    "branch": "SERGEANT FIRST CLASS U.S. ARMY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "ROBERT M. ROE",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "ROBERT \"WIB\" COOPER",
+    "branch": "U.S. NAVY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "GIL COURTNEY",
+    "branch": "U.S. NAVY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "DELBI BEARDMORE JR.",
+    "branch": "CORP. U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "JOHN PAUL BOHANES",
+    "branch": "SEAMAN FIRST CLASS U.S. NAVY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "PEARL E. COOPER",
+    "branch": "U.S. NAVY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "RICHARD E. ROE",
+    "branch": "U.S. ARMY",
+    "service": "1945–1946"
+  },
+  {
+    "name": "LEONARD H. COOPER",
+    "branch": "U.S. NAVY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "CLAUDE N. HELMICK",
+    "branch": "PVT. U.S. ARMY",
+    "service": "WWI 1918–1919"
+  },
+  {
+    "name": "RUSSELL LEE NEWLON",
+    "branch": "U.S. AIR FORCE",
+    "service": "1960–1966"
+  },
+  {
+    "name": "TOM FEIL HALLIDAY",
+    "branch": "U.S. NAVAL ACADEMY",
+    "service": "CLASS 2020"
+  },
+  {
+    "name": "COOPER S. HALLIDAY",
+    "branch": "U.S. NAVAL ACADEMY",
+    "service": "CLASS 2021"
+  },
+  {
+    "name": "SGT. GALE B. DEPUTY",
+    "branch": "U.S. ARMY",
+    "service": "1971–1977"
+  },
+  {
+    "name": "CPL. DONALD J. LONG",
+    "branch": "U.S. ARMY",
+    "service": "1952–1954"
+  },
+  {
+    "name": "ELBERT R. GODSEY",
+    "branch": "U.S. ARMY TANK CREWMAN",
+    "service": "1945–1946"
   }
 ]
