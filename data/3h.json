@@ -1,7 +1,259 @@
-[
-  {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
-  }
-]
+{
+  "veterans": [
+    {
+      "name": "SGT EDDIE G. MCPHERSON",
+      "branch": "U.S. AIR FORCE",
+      "service": "1969–1973"
+    },
+    {
+      "name": "ROBERT C. MOORHEAD",
+      "branch": "MTN DIV.",
+      "service": "1964–1965"
+    },
+    {
+      "name": "PFC GLENN PRIOR JR.",
+      "branch": "U.S. ARMY 41MP CO FT DIX NJ",
+      "service": ""
+    },
+    {
+      "name": "MSG. DICK PARSONS",
+      "branch": "U.S. ARMY",
+      "service": "Vietnam Veteran"
+    },
+    {
+      "name": "TROY A. PARSONS",
+      "branch": "A1C USAF STRATEGIC AIR COMMAND",
+      "service": ""
+    },
+    {
+      "name": "SGT. DANIEL E. RAPP",
+      "branch": "U.S. MARINE CORPS",
+      "service": "Korean War"
+    },
+    {
+      "name": "GLENN R. RATZER",
+      "branch": "SSGT. AAF",
+      "service": "Sep. 1942 – Nov. 1945"
+    },
+    {
+      "name": "PFC. ROSCOE G. NORRIS",
+      "branch": "U.S. ARMY",
+      "service": "Korean War"
+    },
+    {
+      "name": "JERRY L. URIGHT",
+      "branch": "TSGT. U.S. ARMY",
+      "service": "WWII / Veteran"
+    },
+    {
+      "name": "RICHARD T. ARMOR JR.",
+      "branch": "1LT. BTRY C 2D BN 174 ARTY OHIO ARNG",
+      "service": ""
+    },
+    {
+      "name": "GILES CHANCELLOR",
+      "branch": "S1C U.S. NAVY",
+      "service": "USS AMMEN – WWII"
+    },
+    {
+      "name": "ALFRED E. CUMMINGS",
+      "branch": "SFC, U.S. ARMY",
+      "service": "1950–1959"
+    },
+    {
+      "name": "PFC. BILLY F. REITER",
+      "branch": "U.S. ARMY",
+      "service": "1943–1945"
+    },
+    {
+      "name": "IN HONOR OF RALPH E. STULLAR",
+      "branch": "U.S. ARMY",
+      "service": "1961"
+    },
+    {
+      "name": "SP 4 LARRY INGRAHAM",
+      "branch": "U.S. ARMY",
+      "service": "1955–1967"
+    },
+    {
+      "name": "LARRY D. STOLLAR",
+      "branch": "U.S.M.C.",
+      "service": "Vietnam 2 - May - 69"
+    },
+    {
+      "name": "LARRY REMMELE",
+      "branch": "U.S. ARMY",
+      "service": "1960–1963"
+    },
+    {
+      "name": "IN HONOR OF RALPH E. STOLLAR",
+      "branch": "U.S. ARMY",
+      "service": "1961"
+    },
+    {
+      "name": "GEORGE W. REMMELE",
+      "branch": "U.S. NAVY",
+      "service": "38TH CO WWI"
+    },
+    {
+      "name": "ROBERT E. KIRKBRIDE",
+      "branch": "U.S. AIR FORCE",
+      "service": "Captain"
+    },
+    {
+      "name": "CSM. CALVIN T. WILLIAMS",
+      "branch": "U.S. ARMY",
+      "service": "463 EN BN Afghanistan PRJ"
+    },
+    {
+      "name": "CHARLES E. LAWTON JR.",
+      "branch": "Aircraft Mechanic D-25",
+      "service": "1943–1945"
+    },
+    {
+      "name": "HARRY B. SMITH",
+      "branch": "EM2/1ND U.S. NAVY",
+      "service": "Jan. 1951 – Dec. 1954"
+    },
+    {
+      "name": "CPL. ERIC R. PROCTOR",
+      "branch": "U.S. MARINE CORPS",
+      "service": "1996–2000"
+    },
+    {
+      "name": "CARMEL KELLY",
+      "branch": "U.S. MARINE CORPS",
+      "service": "1956–1962"
+    },
+    {
+      "name": "CHRISTOPHER J. HALL",
+      "branch": "U.S. NAVY CS2",
+      "service": "1988–1992 CG-41 Desert Storm"
+    },
+    {
+      "name": "CHARLES E. TULLUS",
+      "branch": "U.S. MARINE CORPS",
+      "service": "Vietnam War"
+    },
+    {
+      "name": "SPC. JOHN FISCHER",
+      "branch": "3rd Infantry Div. Ft. Benning Georgia",
+      "service": ""
+    },
+    {
+      "name": "KENNETH E. PROCTOR",
+      "branch": "U.S. ARMY",
+      "service": "1951–1954"
+    },
+    {
+      "name": "RICHARD H. WORSTELL",
+      "branch": "U.S. AIR FORCE",
+      "service": "1965–1995 Ramstein Germany"
+    },
+    {
+      "name": "ROBERT W. ROE",
+      "branch": "U.S. NAVY",
+      "service": "1939–1944"
+    },
+    {
+      "name": "RICHARD T. ARMOR SR.",
+      "branch": "2LT Pilot B-25",
+      "service": "World War II"
+    },
+    {
+      "name": "SGT. TYM. E. BIGGINS",
+      "branch": "USMC",
+      "service": "1961–1969 Vietnam Veteran"
+    },
+    {
+      "name": "ROBERT ALLEN HILL",
+      "branch": "SGT, U.S. ARMY",
+      "service": "Vietnam KIA April 1, 1970"
+    },
+    {
+      "name": "HAROLD G. STEWART",
+      "branch": "SP 4, U.S. ARMY",
+      "service": "Vietnam 1970–1971"
+    },
+    {
+      "name": "CLYDE O. HILL",
+      "branch": "U.S. ARMY",
+      "service": "South-Pacific WWII"
+    },
+    {
+      "name": "JEREMIAH R. BEEBE",
+      "branch": "148th O.N.G. CO",
+      "service": "Civil War 1863–1866"
+    },
+    {
+      "name": "SP 5 TEDDY F. DEMING",
+      "branch": "U.S. ARMY",
+      "service": "Vietnam 1967–1970"
+    },
+    {
+      "name": "SGT. JAMES W. GRIFFIN",
+      "branch": "U.S. ARMY Infantry",
+      "service": "WWII 1944–1945"
+    },
+    {
+      "name": "GYSGT. SEAN R. WRIGHT",
+      "branch": "U.S. MARINE CORPS",
+      "service": "1986–2006"
+    },
+    {
+      "name": "CECIL M. WARD",
+      "branch": "U.S. AIR FORCE",
+      "service": "Korean War 1951–1955"
+    },
+    {
+      "name": "THOMAS R. ATKINSON",
+      "branch": "U.S. ARMY",
+      "service": "Vietnam War"
+    },
+    {
+      "name": "R. EDWIN MCCORT",
+      "branch": "LT. USAAF",
+      "service": "CBI Theater WWII"
+    },
+    {
+      "name": "CPL. JOE CALTRIDER",
+      "branch": "U.S. MARINES",
+      "service": "Desert Storm"
+    },
+    {
+      "name": "GEORGE T. CHALFANT",
+      "branch": "U.S. ARMY",
+      "service": "282nd Field Artillery"
+    },
+    {
+      "name": "SSGT. HENRY MILAM",
+      "branch": "U.S.M.C.",
+      "service": "1953–1972"
+    },
+    {
+      "name": "PFC. JACK W. BIEDEL",
+      "branch": "U.S. ARMY",
+      "service": "World War II"
+    },
+    {
+      "name": "MARION R. SCIANCE",
+      "branch": "TECH 5th CL., U.S. ARMY",
+      "service": "KIA Nov. 7, 1943 WWII"
+    },
+    {
+      "name": "ALBERT JOHN SCIANCE",
+      "branch": "CO. K. 77th OH. INF.",
+      "service": "1864–1866"
+    },
+    {
+      "name": "GEORGE PHILLIPS",
+      "branch": "U.S. NAVY Ret.",
+      "service": "1951–1970"
+    },
+    {
+      "name": "JEFFERY D. McGREGOR",
+      "branch": "SRA USAF",
+      "service": "1977–1981"
+    }
+  ]
+}
