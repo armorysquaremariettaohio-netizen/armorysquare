@@ -537,7 +537,7 @@ body {
 <button id="music-toggle" onclick="toggleMusic()">Play Music</button>
 <div class="container">
 <div class="search-box">
-<input id="search-input" placeholder="Search a veteran's name or plot" type="text"/>
+<input id="search-input" placeholder="Search a veteran's name or plot" type="text"/ onkeypress="if(event.key===\'Enter\'){ event.preventDefault(); searchVeteran(); }">
 <button onclick="searchVeteran()">Search</button>
 <div id="search-results"></div>
 </div>
@@ -651,72 +651,47 @@ body {
       }
     };
 
-    function searchVeteran() {
-      const query = document.getElementById("search-input").value.toLowerCase().trim();
-      const plots = [...document.querySelectorAll('.plot-box')];
-      const searchResults = document.getElementById("search-results");
-      searchResults.innerHTML = "";
-      const fetches = plots.map(plot => {
-        const plotId = plot.textContent.toLowerCase();
-        return fetch(`data/${plotId}.json`).then(res => res.json()).then(data => ({ plot, data }));
+    
+function searchVeteran() {
+  const query = document.getElementById("search-input").value.toLowerCase().trim();
+  const searchResults = document.getElementById("search-results");
+  searchResults.innerHTML = "";
+  if (!query) {
+    searchResults.innerHTML = "<p>Please enter a search term.</p>";
+    return;
+  }
+  const plots = [...document.querySelectorAll('.plot-box')];
+  const fetches = plots.map(plot => {
+    const plotId = plot.textContent.trim().toLowerCase();
+    return fetch(`./data/${plotId}.json`)
+      .then(res => {
+        if (!res.ok) throw new Error('Network response was not ok');
+        return res.json();
+      })
+      .then(data => ({ plotId, data }))
+      .catch(err => {
+        console.error(`Error loading data for plot ${plotId}:`, err);
+        return { plotId, data: [] };
       });
-      Promise.all(fetches).then(resultsArray => {
-        let foundAny = false;
-        resultsArray.forEach(({ plot, data }) => {
-          data.forEach(entry => {
-            if (entry.name.toLowerCase().includes(query)) {
-              foundAny = true;
-              const p = document.createElement("p");
-              p.innerHTML = `<strong>${entry.name}</strong> — Plot <strong>${plot.textContent}</strong>`;
-              searchResults.appendChild(p);
-            }
-          });
-        });
-        if (!foundAny) {
-          searchResults.innerHTML = "<p>No results found.</p>";
+  });
+  Promise.all(fetches).then(results => {
+    let foundAny = false;
+    results.forEach(({ plotId, data }) => {
+      data.forEach(entry => {
+        if (entry.name.toLowerCase().includes(query)) {
+          foundAny = true;
+          const p = document.createElement("p");
+          p.innerHTML = `<strong>${entry.name}</strong> — Plot <strong>${plotId.toUpperCase()}</strong>`;
+          searchResults.appendChild(p);
         }
       });
+    });
+    if (!foundAny) {
+      searchResults.innerHTML = "<p>No results found.</p>";
     }
-  function toggleNightMode() {
-    document.body.classList.toggle('night-mode');
-    const toggleBtn = document.getElementById("night-toggle");
-    toggleBtn.innerText = document.body.classList.contains('night-mode') ? "Day Mode" : "Night Mode";
-  }
-
-
-const quoteList = [
-  "A hero is someone who has given his life to something bigger than oneself.",
-  "All gave some, some gave all.",
-  "Never was so much owed by so many to so few. – Winston Churchill",
-  "We don’t know them all, but we owe them all.",
-  "Freedom is never free.",
-  "Home of the free, because of the brave.",
-  "The legacy of heroes is the memory of a great name and the inheritance of a great example. – Benjamin Disraeli",
-  "Our flag does not fly because the wind moves it. It flies with the last breath of each soldier who died protecting it.",
-  "Veterans are not just soldiers — they are defenders of dreams.",
-  "This nation will remain the land of the free only so long as it is the home of the brave. – Elmer Davis"
-];
-let quoteIndex = 0;
-let charIndex = 0;
-let typingSpeed = 50;
-
-function typeQuote() {
-  const typed = document.getElementById("typed-quote");
-  if (typed) {
-    if (charIndex < quoteList[quoteIndex].length) {
-      typed.textContent += quoteList[quoteIndex].charAt(charIndex);
-      charIndex++;
-      setTimeout(typeQuote, typingSpeed);
-    } else {
-      setTimeout(() => {
-        typed.textContent = "";
-        charIndex = 0;
-        quoteIndex = (quoteIndex + 1) % quoteList.length;
-        setTimeout(typeQuote, 500);
-      }, 4000);
-    }
-  }
+  });
 }
+
 typeQuote();
 
 document.addEventListener('DOMContentLoaded', function() {
