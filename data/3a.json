@@ -1,7 +1,397 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "O. ROY WOODS",
+    "branch": "U.S. ARMY",
+    "service": "1956–1958"
+  },
+  {
+    "name": "HOWARD N. ROBEY",
+    "branch": "U.S. ARMY E7",
+    "service": "1945–1975"
+  },
+  {
+    "name": "HARRY BARENGO",
+    "branch": "U.S. NAVY",
+    "service": "KOREAN WAR 1950–1954"
+  },
+  {
+    "name": "FRANKLIN G. BOYCE",
+    "branch": "USMCR",
+    "service": "1966–1971"
+  },
+  {
+    "name": "JAMES R. MILLER",
+    "branch": "U.S. NAVY",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "C. KENNETH ROBEY",
+    "branch": "U.S. NAVY BM2",
+    "service": "1941–1945"
+  },
+  {
+    "name": "RICHARD VINSKOVICH",
+    "branch": "CPL USMC",
+    "service": "1954–1957"
+  },
+  {
+    "name": "JACK D. GRADY",
+    "branch": "USS NEW JERSEY BB62 - USN COAST GUARD",
+    "service": ""
+  },
+  {
+    "name": "DANNY SOCHOLTUH",
+    "branch": "U.S. ARMY",
+    "service": "VETERAN"
+  },
+  {
+    "name": "SGT RICHARD LAYMAN",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1964–1969"
+  },
+  {
+    "name": "3C JO D. TILTON",
+    "branch": "AVIATION MACHINIST",
+    "service": "1943–1946"
+  },
+  {
+    "name": "GARY B. GRADY",
+    "branch": "A03 USS INTREPID CVA11 - U.S. NAVY",
+    "service": "1953–1956"
+  },
+  {
+    "name": "THOMAS H. MORRIS",
+    "branch": "U.S. NAVY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "DELBERT E. MASSEY",
+    "branch": "U.S. ARMY",
+    "service": "1950–1952"
+  },
+  {
+    "name": "WILLIAM COCHRAN",
+    "branch": "U.S. NAVY",
+    "service": "PURPLE HEART"
+  },
+  {
+    "name": "SSGT BYRON RAGAN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1961–1971"
+  },
+  {
+    "name": "CHARLES N. GRADY",
+    "branch": "SN USS MASSEY DD778 - USN - ARMY",
+    "service": "1952–1962"
+  },
+  {
+    "name": "CPL. GEORGE BROOKER",
+    "branch": "U.S. ARMY",
+    "service": "1950–1954"
+  },
+  {
+    "name": "CHARLES A. SCHULTZ JR.",
+    "branch": "SGT U.S. MARINE CORPS",
+    "service": "1942–1945 WWII"
+  },
+  {
+    "name": "JERRY F. HARPER",
+    "branch": "U.S. NAVY",
+    "service": "1953–1974 KOREA - VIETNAM"
+  },
+  {
+    "name": "RAY LELONG",
+    "branch": "1ST CAVALRY DIV",
+    "service": "KOREA 1959–1960"
+  },
+  {
+    "name": "REGIS H. LONG",
+    "branch": "U.S. ARMY 7TH CAV",
+    "service": "KOREA 1951"
+  },
+  {
+    "name": "WILMER B. CLUSTER",
+    "branch": "SEAMAN FIRST CLASS U.S. NAVY",
+    "service": "WWII"
+  },
+  {
+    "name": "CPL. JOHN D. WENTZ",
+    "branch": "U.S. AIR FORCE",
+    "service": "1942–1946 WWII"
+  },
+  {
+    "name": "HARRY BARENGO",
+    "branch": "U.S. NAVY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "JACK O'GRADY",
+    "branch": "SN USS NEW JERSEY BB62 USN COAST GUARD",
+    "service": ""
+  },
+  {
+    "name": "FRANKLIN D. BOYCE",
+    "branch": "USNRC",
+    "service": "1968–1971"
+  },
+  {
+    "name": "CPL. JOHN D. WENTZ",
+    "branch": "U.S. AIR FORCE",
+    "service": "WWII 1942–1946"
+  },
+  {
+    "name": "DANNY SCHULTHEIS",
+    "branch": "MSGT U.S. AIR FORCE",
+    "service": "1964–1990"
+  },
+  {
+    "name": "JAMES R. WILLS",
+    "branch": "MOTOR MACH U.S. NAVY",
+    "service": "1943–1947"
+  },
+  {
+    "name": "JOHN W. RIVER",
+    "branch": "U.S. ARMY",
+    "service": "1952–1954"
+  },
+  {
+    "name": "SGT. LAND RAUSCH",
+    "branch": "U.S. ARMY",
+    "service": "1951–1953"
+  },
+  {
+    "name": "THOMAS N. MORRIS",
+    "branch": "U.S. ARMY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "CHARLES A. SHULTZ SR.",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1942–1945 WWII"
+  },
+  {
+    "name": "DELBERT E. MARTEN",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1965–1972"
+  },
+  {
+    "name": "WILLIAM COCHRAN",
+    "branch": "U.S. NAVY",
+    "service": "PURPLE HEART USS HOEL WWII"
+  },
+  {
+    "name": "SGT. RICHARD LAYMAN",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1954–1957"
+  },
+  {
+    "name": "\"UMP\"",
+    "branch": "U.S. ARMY",
+    "service": "1958–1960"
+  },
+  {
+    "name": "SSGT BYRON DUNGAN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1971"
+  },
+  {
+    "name": "PAUL E. GUSTER JR.",
+    "branch": "U.S. ARMY",
+    "service": "SFC IRR/NAT. GUARD"
+  },
+  {
+    "name": "JERRY F. HARPER",
+    "branch": "U.S. NAVY",
+    "service": "1953–1974 KOREA–VIETNAM"
+  },
+  {
+    "name": "RAY LONG",
+    "branch": "1ST CAVALRY",
+    "service": "KOREA 1957–1960"
+  },
+  {
+    "name": "SSGT BLAKE LONG",
+    "branch": "U.S. AIR FORCE",
+    "service": "1969–1987 3700 MT TRNG SQ"
+  },
+  {
+    "name": "CHARLES P. SKIPTON",
+    "branch": "MAJOR GENERAL AIR FORCE",
+    "service": "1956–1980"
+  },
+  {
+    "name": "REGIS H. LONG",
+    "branch": "U.S. ARMY 77TH CAV",
+    "service": "1957–1960"
+  },
+  {
+    "name": "BUCK S. DONNELL",
+    "branch": "324 INF. BN",
+    "service": "1945 ARMY MUNCAN"
+  },
+  {
+    "name": "RICHARD THORPE",
+    "branch": "241D ENG PACIFIC",
+    "service": "1942–1945 WWII"
+  },
+  {
+    "name": "WILLIAM THOMPSON JR.",
+    "branch": "CORPORAL R.A. SECOND ARMY BAND",
+    "service": ""
+  },
+  {
+    "name": "GEORGE L. ENDERSUET",
+    "branch": "TSGT U.S. AIR FORCE",
+    "service": "1951–1954"
+  },
+  {
+    "name": "SGT. CARL N. DOUGLAS",
+    "branch": "U.S. ARMY USAR",
+    "service": "1973–1978, 1978–1995"
+  },
+  {
+    "name": "PFC CARLE E. DOUGLAS",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1947"
+  },
+  {
+    "name": "LIONEL BOGGS",
+    "branch": "U.S. ARMY AIR FORCE",
+    "service": "WWII 1944–1946"
+  },
+  {
+   "name": "HERBERT O. ERB",
+    "branch": "PFC U.S. ARMY",
+    "service": "WWII 4/21/1919–10/7/1975"
+  },
+  {
+    "name": "1ST LT. JOY RILEY",
+    "branch": "USAF NURSE",
+    "service": "1959–1971"
+  },
+  {
+    "name": "LT. COL. DON RILEY",
+    "branch": "USAF",
+    "service": "1952–1973 VIETNAM 1966–1969"
+  },
+  {
+    "name": "SP3 J.R. NOLEN SR.",
+    "branch": "U.S. ARMY",
+    "service": "1955–1957"
+  },
+  {
+    "name": "LT. J.R. NOLEN JR.",
+    "branch": "U.S. ARMY RETIRED",
+    "service": "1977–1999"
+  },
+  {
+    "name": "LOGAN PAULISH",
+    "branch": "SECOND LIEUTENANT U.S. MARINE CORPS",
+    "service": ""
+  },
+  {
+    "name": "NELSON P. SCHWENDEMAN",
+    "branch": "SSGT U.S. ARMY",
+    "service": "WORLD WAR I"
+  },
+  {
+    "name": "DONALD E. SPRAGUE",
+    "branch": "PFC U.S. ARMY",
+    "service": "WWII PURPLE HEART POW"
+  },
+  {
+    "name": "DONALD V. SPRAGUE",
+    "branch": "SP5 U.S. ARMY",
+    "service": "1952–1965"
+  },
+  {
+    "name": "JAMES L. BUCK",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN SERVICE MEDAL 1953–1955"
+  },
+  {
+    "name": "SAMUEL R. COOK JR.",
+    "branch": "LT. JAGC USNR",
+    "service": "VIETNAM 1970–1974"
+  },
+  {
+    "name": "RALPH E. BROWN",
+    "branch": "ARMY AIR CORPS",
+    "service": "1942–1945"
+  },
+  {
+    "name": "JAMES H. WAGNER SR.",
+    "branch": "U.S. ARMY",
+    "service": "1951–1962"
+  },
+  {
+    "name": "CPL SAMUEL R. COOK",
+    "branch": "788TH FA BN C BTRY, 370 FA BN",
+    "service": "1942–1945"
+  },
+  {
+    "name": "SSG DENNIS O. COOK",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1966–1969"
+  },
+  {
+    "name": "CPL BROOKS G. RIDDLE",
+    "branch": "U.S. ARMY",
+    "service": "WORLD WAR I"
+  },
+  {
+    "name": "SSG ROBERT D. RIDDLE",
+    "branch": "U.S. ARMY",
+    "service": "1953–1967"
+  },
+  {
+    "name": "PFC PAUL E. MCVEY",
+    "branch": "U.S. ARMY",
+    "service": "1952–1960"
+  },
+  {
+    "name": "DAVID SUMMERFIELD",
+    "branch": "U.S. AIR FORCE",
+    "service": "1980–1986"
+  },
+  {
+    "name": "SSG SCOTT R. BEAVER",
+    "branch": "U.S. ARMY",
+    "service": "WEST POINT"
+  },
+  {
+    "name": "ROGER W. MILLER",
+    "branch": "U.S. AIR FORCE",
+    "service": "1966–1970 135 SFC POLICE S.O.N."
+  },
+  {
+    "name": "CHARLES F. REED",
+    "branch": "LT. COL. U.S. ARMY",
+    "service": "1956–1976 VIETNAM"
+  },
+  {
+    "name": "INES IMOTHA L. BEAVER",
+    "branch": "U.S. ARMY",
+    "service": "2003–2005"
+  },
+  {
+    "name": "WILLIAM H. THOMPSON JR.",
+    "branch": "CORPORAL R.A. SECOND ARMY BAND",
+    "service": ""
+  },
+  {
+    "name": "SSGT JACK E. ELSTON",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1955 KOREA"
+  },
+  {
+    "name": "LEWIS RAYMOND JOHNSON",
+    "branch": "CONSTRUCTION SPECIALIST U.S. ARMY SGM",
+    "service": ""
+  },
+  {
+    "name": "TIMOTHY BEAVER",
+    "branch": "U.S. NAVY",
+    "service": ""
   }
-]
+] 
