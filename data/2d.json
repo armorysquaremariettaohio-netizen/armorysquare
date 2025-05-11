@@ -1,7 +1,352 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "SGT HOWARD PRYOR",
+    "branch": "USAF",
+    "service": "1952-1974"
+  },
+  {
+    "name": "SGT GENE A. HUPP",
+    "branch": "U.S. ARMY CORPS 1158TH",
+    "service": "1976 (RET)"
+  },
+  {
+    "name": "CPL DONALD SELAN",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1982-1988"
+  },
+  {
+    "name": "RAYMOND D. SCOGGAN",
+    "branch": "SGT U.S. ARMY",
+    "service": "WWII PACIFIC"
+  },
+  {
+    "name": "HARRY E. KESSBERING SR.",
+    "branch": "WWII U.S. ARMY",
+    "service": "1942-1945"
+  },
+  {
+    "name": "SGT LLOYD E. PANNELL",
+    "branch": "U.S. ARMY U.S. AIR FORCE",
+    "service": "WWII (KOREAN WAR)"
+  },
+  {
+    "name": "SGT MICHAEL RUSE",
+    "branch": "U.S. ARMY",
+    "service": "GULF WAR & SOMALIA"
+  },
+  {
+    "name": "FLETCHER BROWN JR.",
+    "branch": "U.S. ARMY SIG GRP",
+    "service": "1943-1946"
+  },
+  {
+    "name": "MSGT DON E. ALEXANDER",
+    "branch": "U.S. ARMY",
+    "service": "1942-1945"
+  },
+  {
+    "name": "JAMES L. STUKINS",
+    "branch": "U.S. ARMY MUSICIAN",
+    "service": "1917-1919"
+  },
+  {
+    "name": "JAMES L. STUKINS JR.",
+    "branch": "SGT U.S. ARMY",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "HARRY E. \"BUTCH\" SARVER",
+    "branch": "U.S. ARMY",
+    "service": "1971-1977 VIETNAM"
+  },
+  {
+    "name": "NORMAN D. ALEXANDER",
+    "branch": "CPL U.S. ARMY",
+    "service": "1951-1953"
+  },
+  {
+    "name": "IRVIN E. A. HOBBLY",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1997-2001"
+  },
+  {
+    "name": "TECH SGT JOHN A. SCHWARTZ",
+    "branch": "U.S. ARMY",
+    "service": "KOREAN WAR 1953-1955"
+  },
+  {
+    "name": "T/5 DONALD H. WAGNER",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "KEVIN D. PARKS",
+    "branch": "U.S. AIR FORCE SAC",
+    "service": "1960-1974"
+  },
+  {
+    "name": "MILTON D. PROCTOR",
+    "branch": "CORPORAL U.S. ARMY",
+    "service": "JULY 1945-DEC 1946"
+  },
+  {
+    "name": "JOHN B. SARVER",
+    "branch": "NATIONAL GUARD",
+    "service": "1971-1975"
+  },
+  {
+    "name": "JOSEPH R. SARVER",
+    "branch": "SGT U.S. AIR FORCE",
+    "service": "1947-1950"
+  },
+  {
+    "name": "WILLIAM R. KNELLINGER",
+    "branch": "A1C U.S.A.F.",
+    "service": "KOREAN WAR"
+  },
+  {
+    "name": "DALE M. BARTH",
+    "branch": "U.S. ARMY",
+    "service": "1961-1964"
+  },
+  {
+    "name": "ERVIN L. \"DAG\" SARVER",
+    "branch": "TM2 U.S. NAVY",
+    "service": "1943-1946"
+  },
+  {
+    "name": "STEPHEN R. LIGHTFRITZ",
+    "branch": "U.S. NAVY",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "DAVID P. ECKART",
+    "branch": "A1C U.S.A.F.",
+    "service": "1961-1964"
+  },
+  {
+    "name": "CHESTER CARPENTER",
+    "branch": "PVT U.S. ARMY",
+    "service": "KIA 30 SEPT 1944"
+  },
+  {
+    "name": "SSG DENNIS L. BROWN",
+    "branch": "U.S. ARMY",
+    "service": "1969-1973 VIETNAM"
+  },
+  {
+    "name": "BRANDON T. DEMAIO",
+    "branch": "SSGT USAF",
+    "service": "2016-2022"
+  },
+  {
+    "name": "PFC RUSSELL DRAVIS",
+    "branch": "U.S. ARMY",
+    "service": "1945-1946"
+  },
+  {
+    "name": "SGT DICK F. YOUNG",
+    "branch": "U.S. ARMY",
+    "service": "KOREA"
+  },
+  {
+    "name": "SPC CARVER",
+    "branch": "U.S. ARMY OSOK",
+    "service": "VIETNAM WAR"
+  },
+  {
+    "name": "LLOYD THOMAS CARVER",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1961-1967"
+  },
+  {
+    "name": "LT RALPH W. LONG",
+    "branch": "U.S.A.F.",
+    "service": "WWII 1943-1944"
+  },
+  {
+    "name": "DEAN R. GOODWILL",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "MSG FAIRLEY BOWENS",
+    "branch": "U.S. ARMY",
+    "service": "1958-1977, 1984-2001"
+  },
+  {
+    "name": "GEORGE N. HARLOW JR.",
+    "branch": "U.S. ARMY",
+    "service": "1961-1965"
+  },
+  {
+    "name": "ROBERT L. SCHAFER",
+    "branch": "LTJG U.S. NAVY (USNR)",
+    "service": "MAY 1953-SEPT 7, 1956"
+  },
+  {
+    "name": "JACK D. CASTO",
+    "branch": "U.S. ARMY",
+    "service": "1960-1964"
+  },
+  {
+    "name": "SGT JAMES E. BROWN",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "NICHOLAS R. SMITH",
+    "branch": "USA PARATROOPER USAF NAVIGATOR",
+    "service": ""
+  },
+  {
+    "name": "GLENN B. ANDERSON",
+    "branch": "SGT U.S. MARINE CORPS",
+    "service": "KOREA 1951-1953"
+  },
+  {
+    "name": "RALPH J. ARBAUGH",
+    "branch": "U.S. NAVY",
+    "service": "1944-1946"
+  },
+  {
+    "name": "HARRY D. REICHARDT",
+    "branch": "U.S. AIR FORCE",
+    "service": "1942-1945"
+  },
+  {
+    "name": "JEFFREY R. HILL",
+    "branch": "LT. COL. USAF",
+    "service": "1967-1997"
+  },
+  {
+    "name": "ROBERT S. MENDENHALL",
+    "branch": "SGT U.S. ARMY",
+    "service": "1943-1945"
+  },
+  {
+    "name": "RICHARD A. SPINDLER",
+    "branch": "SGT U.S. ARMY",
+    "service": "1942-1945"
+  },
+  {
+    "name": "EARNEST C. CORNELL",
+    "branch": "TEC 4 U.S. ARMY",
+    "service": "1944-1945"
+  },
+  {
+    "name": "JOHN HUGHES JR.",
+    "branch": "1/4 CAV B TRP",
+    "service": "VIETNAM"
+  },
+  {
+    "name": "ROBERT E. BURWELL",
+    "branch": "SFC U.S. ARMY",
+    "service": "1958-1978"
+  },
+  {
+    "name": "CHESTER A. PORTER",
+    "branch": "PVT U.S. ARMY",
+    "service": "1918-1919"
+  },
+  {
+    "name": "D. E. ADDLESBURGER",
+    "branch": "U.S. ARMY ENGINEER",
+    "service": "1943, 1945 (WWII)"
+  },
+  {
+    "name": "RICHARD L. HILL",
+    "branch": "NAVIGATOR USAF",
+    "service": "1943-1945"
+  },
+  {
+    "name": "PAUL E. WATSON",
+    "branch": "U.S. NAVY",
+    "service": "1943-1946"
+  },
+  {
+    "name": "WILLARD H. BALL",
+    "branch": "U.S. ARMY SSGT",
+    "service": "NOV 1941-OCT 1945"
+  },
+  {
+    "name": "THOMAS BUCHMAN",
+    "branch": "U.S. NAVY",
+    "service": "WWII USS ROCKY MOUNT"
+  },
+  {
+    "name": "SGT BARRY ELDER",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1952-1955"
+  },
+  {
+    "name": "SP5 JAMES W. DOAK",
+    "branch": "U.S. ARMY",
+    "service": "1967-1970"
+  },
+  {
+    "name": "CPL DONALD BISHOP",
+    "branch": "U.S. ARMY",
+    "service": "1951-1953"
+  },
+  {
+    "name": "SP5 RANDALL E. ADDLESBURGER",
+    "branch": "U.S. ARMY",
+    "service": "1964-1967"
+  },
+  {
+    "name": "HARVEY MARTIN JR.",
+    "branch": "ABN 508TH PARA INF",
+    "service": "82ND ABN WWII"
+  },
+  {
+    "name": "MSG (RET.) JERRY L. ROUSH",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM 1956-1979"
+  },
+  {
+    "name": "SGT JASON SCHAAL",
+    "branch": "U.S. ARMY",
+    "service": "2001-2007 OPER. NOBLE EAGLE"
+  },
+  {
+    "name": "DAVID A. REYNOLDS",
+    "branch": "SP5 U.S. ARMY",
+    "service": "VIETNAM 1968-1971"
+  },
+  {
+    "name": "MSGT DAVID H. MARTIN",
+    "branch": "U.S. ARMY RETIRED",
+    "service": "1959-1980"
+  },
+  {
+    "name": "SGT MARY JO LONGGREN",
+    "branch": "U.S. AIR FORCE",
+    "service": "1980-1986"
+  },
+  {
+    "name": "LCPL RONALD BINEGAR",
+    "branch": "USMC",
+    "service": "1967-1969"
+  },
+  {
+    "name": "CPL RICHARD HASLEY",
+    "branch": "U.S. ARMY",
+    "service": "1943-1945"
+  },
+  {
+    "name": "LT CHARLES BULES",
+    "branch": "ARMY AIR CORPS",
+    "service": "1942-1945"
+  },
+  {
+    "name": "SGT CLEO BUCK",
+    "branch": "U.S. ARMY",
+    "service": "VIETNAM WAR 1965-1967"
+  },
+  {
+    "name": "DON W. SCHRADER",
+    "branch": "LTC U.S. AIR FORCE",
+    "service": "KOREA"
   }
 ]
