@@ -1,7 +1,362 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "SGT. KENNETH SCHILLING",
+    "branch": "U.S. ARMY",
+    "service": "1972–1974"
+  },
+  {
+    "name": "TISGT. HOMER RUMMER",
+    "branch": "U.S. ARMY",
+    "service": "1941–1945"
+  },
+  {
+    "name": "ROBERT HENDERSON",
+    "branch": "U.S. AIR FORCE",
+    "service": "1957–1961"
+  },
+  {
+    "name": "GARY A. WORSTELL",
+    "branch": "101ST AIRBORNE DIV.",
+    "service": "1957–1963"
+  },
+  {
+    "name": "PFC. WILFRED L. MORRIS",
+    "branch": "CO A 374 ARMD INF BN OHIO",
+    "service": "KOREAN CONFLICT"
+  },
+  {
+    "name": "SP 4 ROBERT L. HINES",
+    "branch": "U.S. ARMY",
+    "service": "1966–1968"
+  },
+  {
+    "name": "PFC. JAMES E. MORRIS",
+    "branch": "U.S. ARMY",
+    "service": "WAREHOUSE MANAGER"
+  },
+  {
+    "name": "SGT. LOUIS F. MORRIS",
+    "branch": "MP X CORPS",
+    "service": "WORLD WAR I"
+  },
+  {
+    "name": "SP 3 ALLEN BROKAW",
+    "branch": "U.S. ARMY",
+    "service": "1954–1957"
+  },
+  {
+    "name": "SGT. TODD E. MORRIS",
+    "branch": "U.S. ARMY",
+    "service": "1ST 506 AIR ASSLT BN 1982–2004"
+  },
+  {
+    "name": "GYSGT. RONALD L. MORRIS",
+    "branch": "U.S. MARINE CORP",
+    "service": "1977–1997"
+  },
+  {
+    "name": "EDWARD D. VANNOY",
+    "branch": "UNITED STATES ARMY",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "DELBERT C LANG",
+    "branch": "28 INF. U.S ARMY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "CHARLES E. LUCAS",
+    "branch": "U.S. NAVY",
+    "service": "1958–1965 VIETNAM VETERAN"
+  },
+  {
+    "name": "SGT. JOSEPH A. THORNTON",
+    "branch": "U.S. ARMY",
+    "service": "1951–1955"
+  },
+  {
+    "name": "DAWEY HUGHES",
+    "branch": "U.S. AIR FORCE",
+    "service": "1954–1974"
+  },
+  {
+    "name": "CAPT. MILES A. STACY",
+    "branch": "36TH REG. O.V.I.",
+    "service": "CIVIL WAR 1861–1865"
+  },
+  {
+    "name": "PVT. DENNIS D. STACY",
+    "branch": "U.S. ARMY",
+    "service": "WWI 1918"
+  },
+  {
+    "name": "LT. COL. WM. STACY",
+    "branch": "REVOLUTIONARY WAR",
+    "service": "1775–1782"
+  },
+  {
+    "name": "PAUL D. DUFFY",
+    "branch": "U.S. AIR FORCE",
+    "service": "1950–1955"
+  },
+  {
+    "name": "JAMES H. VAN FOSSEN",
+    "branch": "U.S. ARMY",
+    "service": "WWII COMBAT INFANTRYMAN"
+  },
+  {
+    "name": "JAMES G. VAN FOSSEN",
+    "branch": "CTO3 U.S. NAVY",
+    "service": "1969–1972"
+  },
+  {
+    "name": "PVT. LLOYD R. PARKS",
+    "branch": "DEC 1948–JAN 1949",
+    "service": ""
+  },
+  {
+    "name": "STEVEN D. MCKENNA",
+    "branch": "U.S. ARMY",
+    "service": "1971–1973"
+  },
+  {
+    "name": "CHRISTOPHER SMITH",
+    "branch": "ARMY SSGT",
+    "service": "5/9/2001–4/1/2010"
+  },
+  {
+    "name": "WALTER T. MCKENNA",
+    "branch": "U.S. ARMY",
+    "service": "1943–1945"
+  },
+  {
+    "name": "PAUL W. SEWELL",
+    "branch": "U.S. ARMY",
+    "service": "1962–1968 VIETNAM WAR"
+  },
+  {
+    "name": "SM3 DEANE M. KEHL",
+    "branch": "U.S.S. BONHOMME RICHARD",
+    "service": "VIETNAM WAR NAVY"
+  },
+  {
+    "name": "SP 4 PAUL J. MORRIS",
+    "branch": "RADIO OPERATOR",
+    "service": "KOREA 1968–1971"
+  },
+  {
+    "name": "CPL. CHARLES J. MORRIS",
+    "branch": "U.S. ARMY",
+    "service": "FEB 1951–MAY 1953"
+  },
+  {
+    "name": "RONALD C. COSS",
+    "branch": "U.S. MARINE CORPS",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "GILBERT SHEARS",
+    "branch": "FLIGHT ENGINEER B-17",
+    "service": "WWII 1943–1945"
+  },
+  {
+    "name": "STEWART G. KENDLE",
+    "branch": "1945–1947 U.S. ARMY",
+    "service": "1950–1969 U.S. AIR FORCE"
+  },
+  {
+    "name": "RICHARD DALE DYE",
+    "branch": "U.S. MARINE CORPS",
+    "service": "WORLD WAR II"
+  },
+  {
+    "name": "SSGT. BERNARD DYE",
+    "branch": "U.S. ARMY",
+    "service": "BRONZE STAR 1941–1945"
+  },
+  {
+    "name": "TEC/5 GEORGE A. SMITH",
+    "branch": "WORLD WAR II U.S. ARMY",
+    "service": ""
+  },
+  {
+    "name": "ROBERT H. OWENS",
+    "branch": "B-24 WWII C-119 KOREAN WAR",
+    "service": ""
+  },
+  {
+    "name": "ALBERT \"DOUG\" CHUTES",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "DELBERT G. NEWLON",
+    "branch": "U.S. ARMY",
+    "service": "1965–1966"
+  },
+  {
+    "name": "PFC. GERALD KEHL",
+    "branch": "MACHINE GUNNER",
+    "service": "NEW GUINEA WWII"
+  },
+  {
+    "name": "NORMAN \"BOOB\" MCGNUTT",
+    "branch": "U.S. NAVY",
+    "service": "1941–1946"
+  },
+  {
+    "name": "WILMER P. NEWLON",
+    "branch": "PFC. U.S. MARINES",
+    "service": "KIA WWII 1945"
+  },
+  {
+    "name": "FC 1 RYAN D. SINGER",
+    "branch": "U.S. NAVY",
+    "service": "1999–2005 IRAQI FREEDOM WAR"
+  },
+  {
+    "name": "RICHARD P. MCKENNA",
+    "branch": "A1C USAF",
+    "service": "1955–1958"
+  },
+  {
+    "name": "PFC JACK E. MCKENNA",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1942-1944 KIA PURPLE HEART"
+  },
+  {
+    "name": "PFC RICHARD L. SNOW",
+    "branch": "U.S. ARMY",
+    "service": "14TH ORD CO 1961–1967"
+  },
+  {
+    "name": "E-5 JEFFREY WEINSTOCK",
+    "branch": "U.S. ARMY",
+    "service": "1974–1978"
+  },
+  {
+    "name": "DAVID J. VOGEL",
+    "branch": "CAPT. U.S. NAVY",
+    "service": "1974–2022"
+  },
+  {
+    "name": "SP 4 DANA M. SNOW",
+    "branch": "988 ENGR. BN U.S. ARMY",
+    "service": "1968–1969"
+  },
+  {
+    "name": "MAJ. MARVIN WEINSTOCK",
+    "branch": "U.S. ARMY ORC DC",
+    "service": "1971–1975, 1980–1987"
+  },
+  {
+    "name": "E-3 DORYLD. WEINSTOCK",
+    "branch": "U.S. ARMY VIETNAM",
+    "service": "1965–1967"
+  },
+  {
+    "name": "DANIEL P. HOSE",
+    "branch": "U.S. NAVY",
+    "service": "1951–1955"
+  },
+  {
+    "name": "DUANE HOSE",
+    "branch": "U.S NAVY",
+    "service": "1951-1955"
+  },
+  {
+    "name": "PFC RICHARD A. MC VEY",
+    "branch": "U.S. ARMY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "PFC JAMES T. MCVEY",
+    "branch": "U.S. ARMY",
+    "service": "1944–1946"
+  },
+  {
+    "name": "SSGT. ROBER A. VOGT",
+    "branch": "U.S. ARMY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "DONALD C. HOSE",
+    "branch": "U.S. NAVY",
+    "service": "1947–1950"
+  },
+  {
+    "name": "CPL. JACKSON M. MCVEY",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945 PURPLE HEART"
+  },
+  {
+    "name": "SFC DAVID R. SYME",
+    "branch": "U.S. ARMY",
+    "service": "1966–69 & 1985–2003"
+  },
+  {
+    "name": "CHARLES T. CUMMINGS",
+    "branch": "U.S. ARMY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "FRANK R. MCVEY",
+    "branch": "PFC U.S. ARMY",
+    "service": "S. PACIFIC 1941–1945"
+  },
+  {
+    "name": "SP 3 DANA G. LOCHARY",
+    "branch": "U.S. ARMY",
+    "service": "1954–1957"
+  },
+  {
+    "name": "CLARK NEWLON",
+    "branch": "RET STF SGT USMC",
+    "service": "1979-1999"
+  },
+  {
+    "name": "SGT. ROBERT MCKENNA",
+    "branch": "U.S. ARMY",
+    "service": "1966–1970"
+  },
+  {
+    "name": "NOAH E. ARMSTRONG JR.",
+    "branch": "U.S. ARMY",
+    "service": "1948–1954"
+  },
+  {
+    "name": "CHRISTI LEE. NEWTON",
+    "branch": "AIR DEFENSE ARTY",
+    "service": "2003–2016"
+  },
+  {
+    "name": "SGT. HOMER MCKENNA",
+    "branch": "U.S. ARMY INFANTRY",
+    "service": "WWII PURPLE HEART"
+  },
+  {
+    "name": "PATRICL MCKENNA",
+    "branch": "LCDR MEDICAL CORPS US NAVY",
+    "service": "2003-2017"
+  },
+  {
+    "name": "BLAINE A. WEINSTOCK",
+    "branch": "U.S. AIR FORCE A1C",
+    "service": "MAY 1957–APR 1961"
+  },
+  {
+    "name": "DAVID D. WEINSTOCK",
+    "branch": "U.S. AIR FORCE",
+    "service": "KOREA"
+  },
+  {
+    "name": "ALBERT M. VOLL JR.",
+    "branch": "SSGT USAF",
+    "service": "KOREA"
+  },
+  {
+    "name": "A1C WILLIAM K. WEINSTOCK",
+    "branch": "U.S. AIR FORCE",
+    "service": "KOREA 1950–1955"
   }
 ]
