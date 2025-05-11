@@ -1,7 +1,317 @@
 [
   {
-    "name": "Placeholder Name",
-    "branch": "US ARMY",
-    "service": "XXXX\u2013XXXX"
+    "name": "BT. DAVID BOWEN",
+    "branch": "BT 3, U.S. NAVY",
+    "service": "Korea, 1969–1975"
+  },
+  {
+    "name": "TIFFANY E. KEHL",
+    "branch": "U.S. AIR FORCE",
+    "service": "Iraq"
+  },
+  {
+    "name": "PETER J. WALTERS",
+    "branch": "Civil War – Infantry",
+    "service": "1863–1865"
+  },
+  {
+    "name": "STALEY E. CARPENTER",
+    "branch": "Lieutenant, U.S. ARMY",
+    "service": "World War I"
+  },
+  {
+    "name": "SP 4 GERALD CHANDLER",
+    "branch": "U.S. ARMY",
+    "service": "1962–1965"
+  },
+  {
+    "name": "SGT. ADAM J. LISTON",
+    "branch": "USMC",
+    "service": "2001–2005, Iraq 2004–2006"
+  },
+  {
+    "name": "WILLIS O. PAXTON",
+    "branch": "U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "SP 4 RICK J. LISTON",
+    "branch": "U.S. ARMY",
+    "service": "1969–1972, Vietnam 1970–1971"
+  },
+  {
+    "name": "SP 4 DAVID A. PAXTON",
+    "branch": "U.S. ARMY",
+    "service": "1962–1965"
+  },
+  {
+    "name": "DONALD E. MORROW",
+    "branch": "BM2, LST 601/633, U.S. NAVY",
+    "service": "WWII"
+  },
+  {
+    "name": "1ST LT. EDWARD MARVIN",
+    "branch": "U.S. AIR FORCE",
+    "service": "B-17 Navigator"
+  },
+  {
+    "name": "SGT. MICHAEL MARVIN",
+    "branch": "U.S. MARINE CORP",
+    "service": ""
+  },
+  {
+    "name": "STALEY A. CARPENTER",
+    "branch": "PFC, U.S. ARMY, Medic",
+    "service": "WWII 1943–1946"
+  },
+  {
+    "name": "SGT. SANDY J. HARRIS",
+    "branch": "306TH MP COMPANY",
+    "service": "1980–1986"
+  },
+  {
+    "name": "CLARENCE E. HELDMAN",
+    "branch": "U.S. MARINES",
+    "service": "1944–1946"
+  },
+  {
+    "name": "PETER WALTERS",
+    "branch": "American Revolution",
+    "service": "1777–1780"
+  },
+  {
+    "name": "VAN H. MCCOOL",
+    "branch": "U.S. ARMY",
+    "service": "Korea"
+  },
+  {
+    "name": "HERBERT G. HARRISON",
+    "branch": "SSGT., U.S. AIR FORCE",
+    "service": "Korean Conflict"
+  },
+  {
+    "name": "ARL E. SMITH",
+    "branch": "U.S. ARMY",
+    "service": "1951–1953"
+  },
+  {
+    "name": "CPL DANNY LEE KING",
+    "branch": "U.S. ARMY",
+    "service": "Purple Heart, Vietnam, C1B, 1965–1967"
+  },
+  {
+    "name": "ARCH ELLYSON",
+    "branch": "PVT., 135 Infantry, U.S. ARMY",
+    "service": "WWII"
+  },
+  {
+    "name": "A DEAN BEAVER",
+    "branch": "U.S. ARMY",
+    "service": "Korea 1951–1957"
+  },
+  {
+    "name": "GLENN GENE BATTEN",
+    "branch": "SGT, U.S. MARINE CORP",
+    "service": "Third Marine Division"
+  },
+  {
+    "name": "DR. WILLIAM CLINE",
+    "branch": "Major, U.S.A.F.",
+    "service": "744th Medical Group"
+  },
+  {
+    "name": "PFC MILFORD A. LONG",
+    "branch": "364 Infantry, 81 DIV",
+    "service": "1918–1919, France"
+  },
+  {
+    "name": "LOUIS F. HACKATHORN",
+    "branch": "U.S. NAVY",
+    "service": "1943–1946"
+  },
+  {
+    "name": "LCDR DARREN C. ROE",
+    "branch": "U.S. NAVY, Submariner",
+    "service": "1993–"
+  },
+  {
+    "name": "CPL DAVID H. ROE",
+    "branch": "USMC, 4th M. DIV.",
+    "service": "1992–2000"
+  },
+  {
+    "name": "TED J. STRICKLAND",
+    "branch": "9TH REGT IWO JIMA, USMC",
+    "service": "WWII 1942–1946"
+  },
+  {
+    "name": "WWI DORSEY BROWN",
+    "branch": "Medic, 38th DIV",
+    "service": "Italy 1943–1945"
+  },
+  {
+    "name": "SGT. JON D. EDDY",
+    "branch": "U.S. AIR FORCE",
+    "service": "1951–1954"
+  },
+  {
+    "name": "PVT. ROGER W. WALTERS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1953–1956, MIA"
+  },
+  {
+    "name": "DR. FORD E. EDDY",
+    "branch": "U.S. NAVY",
+    "service": "WWII"
+  },
+  {
+    "name": "PVT. HUGH A. WALTERS",
+    "branch": "U.S. AIR FORCE",
+    "service": "1953–1957"
+  },
+  {
+    "name": "DUANE W. McVICAR",
+    "branch": "U.S. NAVY",
+    "service": "1944–1945"
+  },
+  {
+    "name": "CPL. CHARLES DOUGLASS",
+    "branch": "U.S. ARMY",
+    "service": "1953–1955, NDSM, UNSM, KSM, GCM"
+  },
+  {
+    "name": "PAUL ROGER ADAMS",
+    "branch": "U.S. MARINE",
+    "service": "1962–1968"
+  },
+  {
+    "name": "KENNETH V. McVICAR",
+    "branch": "Ret. MSGT., NAVY/USAF",
+    "service": "1942–1963 (Navy 9 yrs., USAF 15 yrs.)"
+  },
+  {
+    "name": "ROBERT D. PROCTOR",
+    "branch": "U.S. ARMY",
+    "service": "1953–1961"
+  },
+  {
+    "name": "CPL. GLENDEN SANTEE",
+    "branch": "U.S. MARINE CORP",
+    "service": "3rd Tanks, Vietnam"
+  },
+  {
+    "name": "PVT. GEORGE ROE",
+    "branch": "Ohio Vol.",
+    "service": "Civil War 1864–1865"
+  },
+  {
+    "name": "GUY T. OLIVER SR",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1941–1945"
+  },
+  {
+    "name": "SP4 JOHN R. HOPP",
+    "branch": "USAR",
+    "service": "1957–1963, Co C 3833rd ENGR. BN"
+  },
+  {
+    "name": "SGT. HOWARD RAUCH",
+    "branch": "U.S. ARMY",
+    "service": "Korean Conflict 1951–1953"
+  },
+  {
+    "name": "MATTHEW V. WAYBRIGHT",
+    "branch": "U.S. MARINE CORPS",
+    "service": "1985–2007"
+  },
+  {
+    "name": "SGT. DAVID A. BRAUN",
+    "branch": "USMC",
+    "service": "Apr. 13, 2004 – Apr. 12, 2008"
+  },
+  {
+    "name": "SP4 ROD A. HUGHES",
+    "branch": "U.S. ARMY",
+    "service": "1977–1985"
+  },
+  {
+    "name": "GARY R. JOHNSON",
+    "branch": "U.S. ARMY",
+    "service": "1984–1986"
+  },
+  {
+    "name": "WAYNE E. MORGENSTERN",
+    "branch": "U.S. ARMY",
+    "service": ""
+  },
+  {
+    "name": "BILLIE R. WEYRICH",
+    "branch": "CPO, U.S. NAVY",
+    "service": "1941–1968"
+  },
+  {
+    "name": "WILLIAM R. KNEILINGER II",
+    "branch": "LT. COL., U.S.A.F.",
+    "service": "Vietnam War"
+  },
+  {
+    "name": "JOHN BLAZOSKY",
+    "branch": "SSGT, U.S. AIR FORCE",
+    "service": "1948–1952"
+  },
+  {
+    "name": "T4 CLYDE K. MILLER",
+    "branch": "U.S. ARMY",
+    "service": "1942–1945"
+  },
+  {
+    "name": "O. GALE HELDMAN",
+    "branch": "U.S. ARMY",
+    "service": "1946–1948"
+  },
+  {
+    "name": "CHARLES CARMICHAEL",
+    "branch": "U.S. ARMY",
+    "service": "WWII 1943–1945, 104TH TMB, Wolf Div."
+  },
+  {
+    "name": "CHARLES R. WEYRICH",
+    "branch": "U.S. NAVY, Aviation",
+    "service": "1951–1955"
+  },
+  {
+    "name": "FLEMING E. EDGELL",
+    "branch": "PFC, 409 INF, 103 DIV",
+    "service": "9/7/1908 – 11/16/1944"
+  },
+  {
+    "name": "LEE ROBERT PRUNTY",
+    "branch": "U.S. NAVY",
+    "service": "1945–1947"
+  },
+  {
+    "name": "FT1 BENJAMIN PRUNTY",
+    "branch": "U.S. NAVY, Submariner",
+    "service": "Aug. 1993 – Apr. 2007"
+  },
+  {
+    "name": "CHARLES SCHLICHER",
+    "branch": "U.S. ARMY",
+    "service": "1942–1946"
+  },
+  {
+    "name": "PFC JOSEPH LONAN",
+    "branch": "B CO 3/506 101 ABN",
+    "service": "KIA RVN, 2/17/1970"
+  },
+  {
+    "name": "SP4 PETER GUZMAN",
+    "branch": "B CO 3/506 101 ABN",
+    "service": "KIA RVN, 12/8/1970"
+  },
+  {
+    "name": "SP4 GARY GENE HANDSCHUMACHER",
+    "branch": "U.S. ARMY",
+    "service": "Vietnam"
   }
 ]
