@@ -491,16 +491,13 @@ body {
 }
 
 </style>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&amp;display=swap" rel="stylesheet"/></head>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&amp;display=swap" rel="stylesheet"/>  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
 <body>
 <nav class="navbar">
 <ul>
-<li><a href="#">Home</a></li>
-<li><a href="#about">About</a></li>
-<li><a href="#search">Search</a></li>
-<li><a href="#submit">Submit</a></li>
-<li><a href="#contact">Contact</a></li>
-</ul>
+        <li><a href="#">Home</a></li>
+    </ul>
 </nav>
 <div class="top-header"><h1>Veterans Square Memorial – Marietta, OH</h1></div>
 
@@ -616,6 +613,8 @@ body {
 </div>
 <footer>
 <p>© 2024 Marietta Veterans Memorial. All rights reserved.</p>
+    <p>Armory Square: 241 Front Street, Marietta, OH 45750</p>
+  <a href="https://www.facebook.com/OhioRiverScenicBywaysVisitorsCenteratMarietta" target="_blank" style="text-decoration:none;color:inherit;margin-left:10px;"><i class="fab fa-facebook fa-2x"></i></a>
 </footer>
 <!-- Modal -->
 <div class="modal" id="modal">
@@ -655,49 +654,29 @@ body {
     function searchVeteran() {
       const query = document.getElementById("search-input").value.toLowerCase().trim();
       const plots = [...document.querySelectorAll('.plot-box')];
-      let found = false;
-      let searchResults = document.getElementById("search-results");
-      searchResults.innerHTML = "Searching...";
-      plots.forEach(plot => {
+      const searchResults = document.getElementById("search-results");
+      searchResults.innerHTML = "";
+      const fetches = plots.map(plot => {
         const plotId = plot.textContent.toLowerCase();
-        fetch(`data/${plotId}.json`)
-          .then(res => res.json())
-          .then(data => {
-            const matches = data.filter(entry => JSON.stringify(entry).toLowerCase().includes(query));
-            if (matches.length > 0) {
-              found = true;
-              searchResults.innerHTML = `<p><strong>${matches[0].name}</strong> found in plot <strong>${plot.textContent}</strong></p>`;
+        return fetch(`data/${plotId}.json`).then(res => res.json()).then(data => ({ plot, data }));
+      });
+      Promise.all(fetches).then(resultsArray => {
+        let foundAny = false;
+        resultsArray.forEach(({ plot, data }) => {
+          data.forEach(entry => {
+            if (entry.name.toLowerCase().includes(query)) {
+              foundAny = true;
+              const p = document.createElement("p");
+              p.innerHTML = `<strong>${entry.name}</strong> — Plot <strong>${plot.textContent}</strong>`;
+              searchResults.appendChild(p);
             }
           });
+        });
+        if (!foundAny) {
+          searchResults.innerHTML = "<p>No results found.</p>";
+        }
       });
-      setTimeout(() => {
-        if (!found) searchResults.innerHTML = "<p>No results found.</p>";
-      }, 1500);
     }
-  
-  let currentQuote = 0;
-  const quotes = document.querySelectorAll('.quote');
-  function rotateQuotes() {
-    quotes.forEach(q => q.style.display = 'none');
-    quotes[currentQuote].style.display = 'block';
-    currentQuote = (currentQuote + 1) % quotes.length;
-  }
-  setInterval(rotateQuotes, 5000);
-  rotateQuotes();
-
-  function toggleMusic() {
-    const music = document.getElementById("bgMusic");
-    const btn = document.getElementById("music-toggle");
-    if (music.paused) {
-      music.play();
-      btn.textContent = "Pause Music";
-    } else {
-      music.pause();
-      btn.textContent = "Play Music";
-    }
-  }
-
-  
   function toggleNightMode() {
     document.body.classList.toggle('night-mode');
     const toggleBtn = document.getElementById("night-toggle");
