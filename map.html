@@ -57,7 +57,7 @@
     }
     .map-note {
       font-size: 1.18em;
-      margin: 24px auto 36px auto;
+      margin: 24px auto 16px auto;
       color: #ffeeba;
       background: rgba(178, 34, 52, 0.12);
       padding: 18px 16px;
@@ -67,17 +67,31 @@
       text-align: left;
       box-shadow: 0 0 6px rgba(255,255,255,0.12);
     }
-    img {
+    .map-tip {
+      color:#ccc; font-size:0.98em; margin-bottom:18px;
+    }
+    .map-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      overflow: auto;
+      margin-bottom: 18px;
+    }
+    .zoomable-map {
       width: 100%;
       max-width: 800px;
       border-radius: 10px;
-      margin: 0 auto 30px auto;
-      display: block;
+      margin: 0 auto 16px auto;
       box-shadow: 0 0 24px rgba(0,0,0,0.23);
+      cursor: grab;
+      touch-action: none;
+      display: block;
+      background: #222;
+      transition: box-shadow 0.2s;
     }
-    .back-link {
+    .back-link, .cta-button {
       display: inline-block;
-      margin-top: 24px;
+      margin-top: 14px;
       color: #ffeeba;
       text-decoration: underline;
       font-size: 1.05em;
@@ -85,8 +99,18 @@
       background: none;
       border: none;
       cursor: pointer;
+      border-radius: 6px;
+      padding: 8px 16px;
+      transition: background 0.2s, color 0.2s;
     }
-    .back-link:hover {
+    .cta-button {
+      color: #fff;
+      background: #b22234;
+      margin-left: 10px;
+      text-decoration: none;
+    }
+    .cta-button:hover, .back-link:hover {
+      background: #fff3;
       color: #b22234;
       text-decoration: underline;
     }
@@ -104,8 +128,23 @@
   <div class="map-note">
     <strong>Note:</strong> This map is a general representation of the layout of names at the Armory Square Veterans Walk. While every effort has been made to ensure accuracy, the map may contain mistakes or approximations in placement. If you spot an error or have a correction, please let us know. Thank you for your understanding and for honoring those who served.
   </div>
-  <img src="veteranswalk.png" alt="Veterans Walk Map">
+  <div class="map-tip"><em>Tip: Scroll, pinch, or drag to zoom and move the map.</em></div>
+  <div class="map-container">
+    <img src="veteranswalk.png" alt="Veterans Walk Map" class="zoomable-map">
+    <a href="veteranswalk.png" download class="cta-button">Download Map</a>
+  </div>
   <a href="index.html" class="back-link">← Back to Home</a>
 </div>
+<script src="https://unpkg.com/@panzoom/panzoom/dist/panzoom.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const mapImage = document.querySelector('.zoomable-map');
+    Panzoom(mapImage, {
+      maxScale: 10,
+      minScale: 1,
+      contain: 'outside'
+    });
+  });
+</script>
 </body>
 </html>
