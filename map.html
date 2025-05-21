@@ -1,1 +1,111 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Veterans Walk Map – Armory Square Memorial</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet"/>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', 'Merriweather', serif;
+      background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url('https://cdn.pixabay.com/photo/2016/11/22/23/41/american-flag-1853267_1280.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+    .navbar {
+      position: sticky;
+      top: 0;
+      background-color: #0a1c2e;
+      z-index: 1000;
+      padding: 10px 0;
+      text-align: center;
+    }
+    .navbar ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .navbar ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+    .navbar ul li a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+    .navbar ul li a:hover {
+      color: #b22234;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto 20px auto;
+      background: rgba(20,30,50,0.90);
+      border-radius: 10px;
+      padding: 30px 20px 30px 20px;
+      box-shadow: 0 0 16px rgba(0,0,0,0.4);
+      text-align: center;
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 2.3rem;
+      letter-spacing: 1px;
+      color: #fff;
+      text-shadow: 0 0 8px #333;
+    }
+    .map-note {
+      font-size: 1.18em;
+      margin: 24px auto 36px auto;
+      color: #ffeeba;
+      background: rgba(178, 34, 52, 0.12);
+      padding: 18px 16px;
+      border-left: 6px solid #b22234;
+      border-radius: 7px;
+      max-width: 700px;
+      text-align: left;
+      box-shadow: 0 0 6px rgba(255,255,255,0.12);
+    }
+    img {
+      width: 100%;
+      max-width: 800px;
+      border-radius: 10px;
+      margin: 0 auto 30px auto;
+      display: block;
+      box-shadow: 0 0 24px rgba(0,0,0,0.23);
+    }
+    .back-link {
+      display: inline-block;
+      margin-top: 24px;
+      color: #ffeeba;
+      text-decoration: underline;
+      font-size: 1.05em;
+      letter-spacing: 0.5px;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+    .back-link:hover {
+      color: #b22234;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+<nav class="navbar">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="map.html">Map</a></li>
+  </ul>
+</nav>
+<div class="container">
+  <h1>Veterans Walk Map</h1>
+  <div class="map-note">
+    <strong>Note:</strong> This map is a general representation of the layout of names at the Armory Square Veterans Walk. While every effort has been made to ensure accuracy, the map may contain mistakes or approximations in placement. If you spot an error or have a correction, please let us know. Thank you for your understanding and for honoring those who served.
+  </div>
+  <img src="veteranswalk.jpg" alt="Veterans Walk Map">
+  <a href="index.html" class="back-link">← Back to Home</a>
+</div>
+</body>
+</html>
