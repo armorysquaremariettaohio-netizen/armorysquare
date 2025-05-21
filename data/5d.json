@@ -392,5 +392,53 @@
     "name": "PVT. WILLIAM S. YATES",
     "branch": "U.S. Army",
     "service": "1942–1943"
+  },
+  {
+    "name": "SGT. CHAS. J. PROPES",
+    "branch": "U.S. Army",
+    "unit": "118 INF.",
+    "conflict": "Iraq War"
+  },
+  {
+    "name": "PFC HOWARD MOSELEY",
+    "branch": "U.S. Army",
+    "unit": "282ND FA BN",
+    "conflict": "WWII"
+  },
+  {
+    "name": "LLOYD R. BOOTH",
+    "branch": "U.S. Army",
+    "rank": "PFC",
+    "conflict": "WWII",
+    "service": "July 1943 - Nov. 1945"
+  },
+  {
+    "name": "FREDERICK D. PERDEW",
+    "branch": "U.S. Navy",
+    "rank": "AEM2C",
+    "service": "1942-1946"
+  },
+  {
+    "name": "PVT. DEAN E. PERDEW",
+    "branch": "U.S. Army",
+    "conflict": "WWI Argonne",
+    "service": "1918-1919"
+  },
+  {
+    "name": "HAROLD B. MULLEN",
+    "branch": "U.S. Army",
+    "conflict": "Korean Conflict"
+  },
+  {
+    "name": "RALPH L. COTTRILL",
+    "branch": "U.S. Navy",
+    "rank": "Seaman 1/C",
+    "conflict": "WWII",
+    "note": "KIA 1942"
+  },
+  {
+    "name": "PFC LESTER A. ROACH",
+    "branch": "U.S. Army",
+    "service": "1944 - 1945"
   }
 ]
