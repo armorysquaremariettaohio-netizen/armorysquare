@@ -621,34 +621,51 @@ body {
 <ul id="veteran-list"></ul>
 </div>
 </div>
+
 <script>
-    function openPlot(plotId) {
-      fetch(`data/${plotId}.json`)
-        .then(response => response.json())
-        .then(data => {
-          document.getElementById("modal-title").innerText = "Plot " + plotId.toUpperCase();
-          const list = document.getElementById("veteran-list");
-          list.innerHTML = "";
-          data.forEach(entry => {
-            const li = document.createElement("li");
-            li.textContent = Object.values(entry).join(" — ");
-            list.appendChild(li);
-          });
-          document.getElementById("modal").style.display = "block";
-        });
-    }
+// Normalize a name string (remove punctuation, lowercase, remove middle initials)
+function normalizeName(str) {
+  // Remove punctuation (periods, commas, etc.)
+  str = str.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"");
+  // Replace multiple spaces with a single space
+  str = str.replace(/\s{2,}/g," ");
+  // Lowercase everything
+  str = str.toLowerCase().trim();
+  return str;
+}
 
-    document.querySelector(".close").onclick = function () {
-      document.getElementById("modal").style.display = "none";
-    };
+// Remove middle initials (e.g., "John L. Smith" -> "John Smith")
+function removeMiddleInitials(str) {
+  // Match a single capital letter with/without a dot in the middle of two names
+  return str.replace(/\b([A-Z]\.?)\b/g, '').replace(/\s{2,}/g, ' ').trim();
+}
 
-    window.onclick = function(event) {
-      if (event.target === document.getElementById("modal")) {
-        document.getElementById("modal").style.display = "none";
-      }
-    };
+function openPlot(plotId) {
+  fetch(`data/${plotId}.json`)
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById("modal-title").innerText = "Plot " + plotId.toUpperCase();
+      const list = document.getElementById("veteran-list");
+      list.innerHTML = "";
+      data.forEach(entry => {
+        const li = document.createElement("li");
+        li.textContent = Object.values(entry).join(" — ");
+        list.appendChild(li);
+      });
+      document.getElementById("modal").style.display = "block";
+    });
+}
 
-    
+document.querySelector(".close").onclick = function () {
+  document.getElementById("modal").style.display = "none";
+};
+
+window.onclick = function(event) {
+  if (event.target === document.getElementById("modal")) {
+    document.getElementById("modal").style.display = "none";
+  }
+};
+
 function searchVeteran() {
   const query = document.getElementById("search-input").value.toLowerCase().trim();
   const searchResults = document.getElementById("search-results");
@@ -675,7 +692,16 @@ function searchVeteran() {
     let foundAny = false;
     results.forEach(({ plotId, data }) => {
       data.forEach(entry => {
-        if (entry.name.toLowerCase().includes(query)) {
+        const entryNameNorm = normalizeName(entry.name);
+        const entryNameNoMI = removeMiddleInitials(entry.name);
+        const entryNameNoMINorm = normalizeName(entryNameNoMI);
+        const queryNorm = normalizeName(query);
+
+        if (
+          entryNameNorm.includes(queryNorm) ||
+          entryNameNoMINorm.includes(queryNorm) ||
+          queryNorm.split(' ').every(word => entryNameNorm.includes(word))
+        ) {
           foundAny = true;
           const p = document.createElement("p");
           p.innerHTML = `<strong>${entry.name}</strong> — Plot <strong>${plotId.toUpperCase()}</strong>`;
@@ -689,6 +715,7 @@ function searchVeteran() {
   });
 }
 
+// Other scripts for carousel/slideshow/night mode, etc. (leave as is)
 typeQuote();
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -703,7 +730,33 @@ document.addEventListener('DOMContentLoaded', function() {
   rotateQuotes();
   setInterval(rotateQuotes, 5000);
 });
+
+(function() {
+  const slides  = document.querySelectorAll('#slideshow .slide');
+  let   current = 0;
+
+  function nextSlide() {
+    slides[current].classList.remove('active');
+    current = (current + 1) % slides.length;
+    slides[current].classList.add('active');
+  }
+
+  setInterval(nextSlide, 5000);
+})();
+
+let debounceTimer;
+function searchVeteranDebounced() {
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(searchVeteran, 50);
+}
+// Attach debounced input listener
+document.addEventListener("DOMContentLoaded", () => {
+  const input = document.getElementById("search-input");
+  input.removeAttribute("oninput");
+  input.addEventListener("input", searchVeteranDebounced);
+});
 </script>
+
 
 <script>
   (function() {
