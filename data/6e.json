@@ -1,1 +1,441 @@
+[
+  {
+    "name": "Kenneth E. Perris",
+    "note": "PFC 677th Ord. Am BN",
+    "branch": "U.S. Army",
+    "conflict": "WWII",
+    "service": "Aug ‘44–June ‘46"
+  },
+  {
+    "name": "Robert Snodgrass",
+    "branch": "U.S. Navy",
+    "service": "1959–1965"
+  },
+  {
+    "name": "C. Mark A. Ritchie",
+    "branch": "U.S. Army",
+    "service": "1998–2003"
+  },
+  {
+    "name": "Carl F. (Sonny) Christy",
+    "branch": "U.S. Air Force",
+    "conflict": "World War II"
+  },
+  {
+    "name": "Roger F. Earley",
+    "note": "SP5",
+    "branch": "U.S. Army",
+    "service": "1964–1966"
+  },
+  {
+    "name": "John C. Baker",
+    "note": "SGT",
+    "branch": "U.S. Army",
+    "conflict": "Iraqi Freedom"
+  },
+  {
+    "name": "James W. Shidmore",
+    "branch": "U.S. Air Force",
+    "service": "1957–1962"
+  },
+  {
+    "name": "Ken Degley",
+    "note": "SGT",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "James M. Christy",
+    "note": "SGT",
+    "branch": "U.S. Air Force",
+    "service": "1969–1978"
+  },
+  {
+    "name": "William Hitchcock",
+    "branch": "U.S. Air Force",
+    "service": "1954–1958"
+  },
+  {
+    "name": "Philip L. Scott",
+    "note": "SP4",
+    "branch": "U.S. Army",
+    "service": "1961–1965"
+  },
+  {
+    "name": "Richard H. Ritchie",
+    "note": "LT",
+    "branch": "U.S. Army Air Corps",
+    "conflict": "WWII"
+  },
+  {
+    "name": "Clarence R. Drake",
+    "note": "Fireman 1st Class",
+    "branch": "U.S. Navy",
+    "conflict": "WWII"
+  },
+  {
+    "name": "Charles R. West",
+    "note": "A1C",
+    "branch": "U.S. Air Force",
+    "service": "1960–1963"
+  },
+  {
+    "name": "Dennis Morgan",
+    "note": "SSGT",
+    "branch": "U.S. Air Force",
+    "service": "1967–1971"
+  },
+  {
+    "name": "Ray H. Smith",
+    "note": "Capt. C Co. 2nd TD",
+    "branch": "U.S. Army",
+    "conflict": "WWII KIA",
+    "service": "1944"
+  },
+  {
+    "name": "Douglas Bergen",
+    "note": "SGT",
+    "branch": "USMC",
+    "service": "1952–1955"
+  },
+  {
+    "name": "James W. Davis",
+    "note": "MSGT",
+    "branch": "USAF",
+    "service": "1976–1997",
+    "conflict": "Desert Storm 1991"
+  },
+  {
+    "name": "Howard Stephens",
+    "branch": "U.S. Navy",
+    "service": "1944–1946"
+  },
+  {
+    "name": "Michael L. Ritchie",
+    "note": "SGT Arm. NG/US. Navy USN",
+    "service": "1976–1985 1989"
+  },
+  {
+    "name": "Harold M. Shafer",
+    "note": "Motor Machinist 1/C",
+    "branch": "U.S. Navy",
+    "service": "1941–1946"
+  },
+  {
+    "name": "Haldon W. Smith",
+    "note": "TSGT",
+    "branch": "Army Air Force",
+    "conflict": "WWII",
+    "service": "1942–1945"
+  },
+  {
+    "name": "Stanley Bettinger",
+    "note": "SFC Retired",
+    "branch": "U.S. Army",
+    "service": "1962–1983",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "Leroy S. Bartlett",
+    "branch": "U.S. Army",
+    "conflict": "W. Europe/France",
+    "service": "1943–1945"
+  },
+  {
+    "name": "Wiley Anderson",
+    "branch": "U.S. Air Force",
+    "service": "1962–1966"
+  },
+  {
+    "name": "Timothy M. Ritchie",
+    "branch": "U.S. Army",
+    "service": "1994–1996"
+  },
+  {
+    "name": "Harold W. Barnhart",
+    "note": "Army Infantry",
+    "service": "1943–1946"
+  },
+  {
+    "name": "Nelson D. Smith",
+    "note": "S1C",
+    "branch": "USN",
+    "conflict": "WWII",
+    "service": "1943–1944"
+  },
+  {
+    "name": "Gene R. Strauss",
+    "note": "SSG",
+    "branch": "U.S. Army",
+    "service": "1970–1971",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "R. Michael Harmon",
+    "branch": "U.S. Navy",
+    "service": "1968–1970",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "James N. Matheny Jr.",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "Leroy L. Bartlett",
+    "branch": "U.S. Army",
+    "note": "Maintenance",
+    "service": "1918–1976"
+  },
+  {
+    "name": "George Hesson",
+    "note": "TSgt",
+    "branch": "U.S. Army",
+    "service": "1962–1964"
+  },
+  {
+    "name": "Paul F. Eaton",
+    "note": "SSGT",
+    "branch": "U.S. Air Force",
+    "service": "1941–1945"
+  },
+  {
+    "name": "Wilf. Abicht",
+    "note": "CPL Vol. Inf. Co. B. 92nd OH",
+    "service": "1861–1865"
+  },
+  {
+    "name": "John W. Alderman",
+    "branch": "U.S. Army",
+    "service": "1944–1946"
+  },
+  {
+    "name": "John P. Murphy",
+    "note": "PFC",
+    "branch": "USMC",
+    "conflict": "WWII"
+  },
+  {
+    "name": "James Carl Heikkinen",
+    "branch": "USMC ANG",
+    "service": "1963–1974 1984–2003"
+  },
+  {
+    "name": "Leonard D. Crisp",
+    "note": "Capt.",
+    "branch": "U.S. Air Force",
+    "conflict": "World War II"
+  },
+  {
+    "name": "Virgil W. Kerns",
+    "branch": "U.S. Army",
+    "service": "1945–1946 1948–1965",
+    "note": "Ret."
+  },
+  {
+    "name": "Carpenter Jr.",
+    "note": "Chief Engineer Gnry Chief",
+    "service": "1918–1964"
+  },
+  {
+    "name": "William E. Davis",
+    "branch": "U.S. Army",
+    "conflict": "WWII"
+  },
+  {
+    "name": "Kenneth W. Lane",
+    "note": "SGT",
+    "branch": "U.S. Army",
+    "service": "1951–1953"
+  },
+  {
+    "name": "Stephen L. Spencer",
+    "note": "SP4 E. Co. 1st BN 6th Inf."
+  },
+  {
+    "name": "Gale E. McBride",
+    "note": "BM3",
+    "branch": "U.S. Navy",
+    "conflict": "U.S.S. Paute"
+  },
+  {
+    "name": "Michael M. McCauley",
+    "branch": "U.S. Air Force",
+    "conflict": "Vietnam",
+    "service": "1963–1964"
+  },
+  {
+    "name": "Charley Dean Hughes",
+    "branch": "U.S. Air Force",
+    "service": "1950–1955"
+  },
+  {
+    "name": "Harold Dean",
+    "note": "TSGT",
+    "branch": "U.S. Army",
+    "conflict": "Korea Vietnam",
+    "service": "1954–1971"
+  },
+  {
+    "name": "Cool Terry R.",
+    "branch": "USAF",
+    "service": "1970",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "P. R. Silvester",
+    "service": "1958–2000"
+  },
+  {
+    "name": "Leonard D. Cristy",
+    "note": "Capt.",
+    "branch": "U.S. Air Force",
+    "conflict": "World War II"
+  },
+  {
+    "name": "Roger F. Earley",
+    "note": "SP5",
+    "branch": "U.S. Army",
+    "service": "1964–1966"
+  },
+  {
+    "name": "John C. Baker",
+    "note": "SGT",
+    "branch": "U.S. Army",
+    "conflict": "Iraq Freedom"
+  },
+  {
+    "name": "James W. Shidmore",
+    "branch": "U.S. Air Force",
+    "service": "1957–1962"
+  },
+  {
+    "name": "Philip L. Scott",
+    "note": "SP4",
+    "branch": "U.S. Army",
+    "service": "1961–1965"
+  },
+  {
+    "name": "James M. Christy",
+    "note": "SGT",
+    "branch": "U.S. Air Force",
+    "service": "1969–1978"
+  },
+  {
+    "name": "William Hitchcock",
+    "branch": "U.S. Air Force",
+    "service": "1954–1958"
+  },
+  {
+    "name": "Clarence S. Hupp",
+    "note": "Fireman 1C SV6 USNR",
+    "service": "1944–1945"
+  },
+  {
+    "name": "Ken Degley",
+    "note": "SGT",
+    "branch": "U.S. Army",
+    "conflict": "Vietnam"
+  },
+  {
+    "name": "Devon M. McBride",
+    "branch": "U.S. Army",
+    "conflict": "Iraq",
+    "service": "Jan 2003–June 2003"
+  },
+  {
+    "name": "Julian Billane",
+    "note": "SGT",
+    "branch": "U.S. Air Force",
+    "service": "1947–1970"
+  },
+  {
+    "name": "Richard M. Christy",
+    "note": "LT",
+    "branch": "U.S. Navy",
+    "service": "1970–1972",
+    "conflict": "Iraq Vietnam 17 Feb 1986"
+  },
+  {
+    "name": "Howard E. Fouts",
+    "note": "TSGT 8th Army Air Force B17 Top Turret",
+    "conflict": "WWII"
+  },
+  {
+    "name": "Robert E. Spies",
+    "branch": "U.S. Navy",
+    "service": "1941–1946"
+  },
+  {
+    "name": "Cecil Wiggins",
+    "note": "SP4",
+    "branch": "U.S. Army",
+    "service": "Jan 8, 1968 – Dec 30, 1970"
+  },
+  {
+    "name": "Gale E. McBride",
+    "note": "BM3",
+    "branch": "U.S. Navy",
+    "conflict": "U.S.S. Paute"
+  },
+  {
+    "name": "Amy Atkinson",
+    "branch": "U.S. Air Force",
+    "service": "2002–2005"
+  },
+  {
+    "name": "Denver Carter",
+    "note": "Seaman 1/C USNR",
+    "service": "1943–1945"
+  },
+  {
+    "name": "James Kell Walden",
+    "note": "STG 1C",
+    "branch": "U.S. Navy",
+    "conflict": "USS Horne GFS Korea",
+    "service": "1957–1958"
+  },
+  {
+    "name": "James Thomson",
+    "note": "Capt.",
+    "branch": "U.S. Army",
+    "conflict": "WWII 411th Ord Co"
+  },
+  {
+    "name": "Larry R. Carpenter",
+    "note": "PFC",
+    "branch": "U.S. Army",
+    "service": "1957–1959"
+  },
+  {
+    "name": "James E. Patterson",
+    "branch": "U.S. Air Force",
+    "service": "1941–1955"
+  },
+  {
+    "name": "Charles Thomson",
+    "note": "Capt. (Ret.)",
+    "branch": "U.S. Navy",
+    "conflict": "U.S.S. Maury, Hooper, Pickerel, Nimitz, Horne, Vietnam"
+  },
+  {
+    "name": "Bradley Nelson Walden",
+    "note": "Captain",
+    "branch": "U.S. Army",
+    "service": "1987–1995"
+  },
+  {
+    "name": "Jeff Mothersbaugh",
+    "branch": "U.S. Army",
+    "conflict": "Iraq",
+    "service": "2004–2005"
+  },
+  {
+    "name": "Kyle Mothersbaugh",
+    "note": "SPC",
+    "branch": "U.S. Army",
+    "conflict": "Iraq",
+    "service": "2007–2008"
+  }
+]
 
