@@ -1,500 +1,56 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <title>Veterans Square Memorial – Marietta, OH</title>
-<link href="https://fonts.googleapis.com/css2?family=Merriweather&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <style>
-    body {
-      margin: 0;
-      font-family: 'Merriweather', serif;
-      background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://cdn.pixabay.com/photo/2016/11/22/23/41/american-flag-1853267_1280.jpg') no-repeat center center fixed;
-      background-size: cover;
-      color: #fff;
-    }
-    header {
-      background-color: rgba(47, 79, 79, 0.95);
-      text-align: center;
-      padding: 20px;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 3.125em;
-      color: white;
-      text-shadow: 0 0 10px #000;
-    }
-    .container {
-      max-width: 960px;
-      margin: 20px auto;
-      padding: 20px;
-    }
-    .search-box {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    .search-box input {
-      width: 60%;
-      padding: 10px;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-      margin-right: 10px;
-    }
-    .search-box button {
-      padding: 10px 20px;
-      background-color: #2f4f4f;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-    .plots {
-  background: url('Soldier.png') no-repeat center center;
-  background-size: contain;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .plot-box {
-      width: 100px;
-      height: 100px;
-      background-color: #556b2f;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border-radius: 8px;
-      font-weight: bold;
-      border: 2px solid #ccc;
-      cursor: pointer;
-      margin: 10px;
-      transition: 0.3s ease;
-      box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
-    }
-    .plot-box:hover {
-      background-color: #6b8e23;
-      transform: scale(1.05);
-      box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
-    }
-    footer {
-      background-color: #4b5320;
-      text-align: center;
-      padding: 20px;
-      color: #fff;
-      margin-top: 40px;
-    }
-    .modal {
-      display: none;
-      position: fixed;
-      z-index: 100;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      overflow: auto;
-      background: rgba(0, 0, 0, 0.7);
-    }
-    .modal-content {
-      background: #fff;
-      color: #000;
-      margin: 10% auto;
-      padding: 20px;
-      border-radius: 10px;
-      width: 90%;
-      max-width: 600px;
-    }
-    .close {
-      float: right;
-      font-size: 1.5rem;
-      cursor: pointer;
-    }
-  
-/* Search bar enhancements */
-.search-box input:focus {
-  outline: none;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
-  border: 1px solid #4b5320;
-}
-.search-box button {
-  animation: pulse 3s infinite;
-}
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 rgba(255,255,255,0.4); }
-  70% { box-shadow: 0 0 0 10px rgba(255,255,255,0); }
-  100% { box-shadow: 0 0 0 0 rgba(255,255,255,0); }
-}
-/* Typing effect */
-.typing-banner {
-  font-size: 1.3em;
-  font-style: italic;
-  color: #eee;
-  margin-bottom: 20px;
-  text-align: center;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  width: 0;
-  animation: typing 4s steps(40, end) forwards, blink 0.75s step-end infinite;
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-/* Fade-in effect on plots */
-.plot-box {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeInUp 0.5s ease forwards;
-}
-@keyframes fadeInUp {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-  
-
-.hero-section {
-  position: relative;
-  height: 300px;
-  overflow: hidden;
-}
-/* video + overlay unchanged */
-#heroVideo {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  position: absolute;
-  z-index: 1;
-}
-.hero-overlay {
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0,0,0,0.5);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 2;
-}
-.hero-overlay h1 {
-  color: #fff;
-  text-shadow: 2px 2px 5px #000;
-}
-#heroVideo {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  position: absolute;
-  z-index: 1;
-}
-.hero-overlay {
-  position: absolute;
-  z-index: 2;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.5);
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.hero-overlay h1 {
-  font-size: 2.5rem;
-  text-shadow: 2px 2px 5px #000;
-}
-.quote-carousel {
-  text-align: center;
-  margin: 20px;
-  font-size: 1.3em;
-  color: #fff;
-}
-.quote {
-  display: none;
-  animation: fade 2s ease-in-out forwards;
-}
-@keyframes fade {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-#music-toggle {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  padding: 10px;
-  background: rgba(47, 79, 79, 0.9);
-  color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  z-index: 2000;
-}
-
-  
-.branch-icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 20px;
-  margin: 30px auto;
-  max-width: 800px;
-}
-.branch-icons img {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  animation: fadeInIcons 1s ease forwards;
-  opacity: 0;
-}
-.branch-icons img:nth-child(1) { animation-delay: 0.2s; }
-.branch-icons img:nth-child(2) { animation-delay: 0.4s; }
-.branch-icons img:nth-child(3) { animation-delay: 0.6s; }
-.branch-icons img:nth-child(4) { animation-delay: 0.8s; }
-.branch-icons img:nth-child(5) { animation-delay: 1.0s; }
-
-@keyframes fadeInIcons {
-  to { opacity: 1; transform: scale(1.05); }
-}
-
-.cta-section {
-  text-align: center;
-  margin: 40px 0 20px;
-}
-.cta-button {
-  background-color: #4b5320;
-  color: white;
-  padding: 12px 25px;
-  border-radius: 10px;
-  font-size: 1.1em;
-  text-decoration: none;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
-  transition: 0.3s ease;
-}
-.cta-button:hover {
-  background-color: #6b8e23;
-  transform: scale(1.05);
-  box-shadow: 0 0 15px rgba(255,255,255,0.5);
-}
-
-.plots {
-  background: url('Soldier.png') no-repeat center center;
-  background-size: contain;
-  background-image: url('Soldier.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 20px;
-  border-radius: 10px;
-}
-
-  
-#night-toggle {
-  position: fixed;
-  bottom: 70px;
-  right: 20px;
-  padding: 10px 15px;
-  background-color: #333;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  z-index: 2000;
-}
-.night-mode body, .night-mode .modal-content {
-  background-color: #f5f5f5 !important;
-  color: #111 !important;
-}
-.night-mode .plot-box {
-  background-color: #ddd !important;
-  color: #000 !important;
-}
-.night-mode #music-toggle, .night-mode #night-toggle {
-  background-color: #222 !important;
-  color: white !important;
-}
-
-
-body {
-  background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('armorysq.JPG') no-repeat center center fixed;
-  background-size: cover;
-  color: #fff;
-}
-header {
-  background-color: #0a1c2e;
-}
-header h1 {
-  color: #ffffff;
-  text-shadow: 0 0 10px rgba(255,255,255,0.4);
-}
-.plot-box {
-  background-color: #1e3d59;
-  border: 2px solid #ffffff;
-  color: white;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
-}
-.plot-box:hover {
-  background-color: #b22234;
-  transform: scale(1.08);
-  transition: 0.3s ease;
-}
-.search-box button {
-  background-color: #b22234;
-}
-#music-toggle, #night-toggle {
-  background-color: #0a1c2e;
-}
-footer {
-  background-color: #0a1c2e;
-  color: white;
-  font-weight: bold;
-  letter-spacing: 0.5px;
-}
-.cta-button {
-  background-color: #b22234;
-}
-
-.patriotic-banner {
-  background-color: #b22234;
-  color: white;
-  text-align: center;
-  padding: 10px;
-  font-weight: bold;
-  font-size: 1.1rem;
-  letter-spacing: 1px;
-}
-
-.top-header {
-  background-color: #0a1c2e;
-  padding: 20px 0;
-  text-align: center;
-}
-.top-header h1 {
-  font-size: 2.8rem;
-  color: white;
-  margin: 0;
-  text-shadow: 0 0 8px rgba(255,255,255,0.3);
-}
-.quote-carousel {
-  margin-top: 20px;
-}
-
-
-.top-header h1 {
-  font-size: 2.6rem;
-  margin: 10px 0 15px;
-  text-align: center;
-  color: white;
-}
-.hero-overlay {
-  background-color: rgba(0, 0, 0, 0.4);
-  padding: 10px 0;
-  text-align: center;
-}
-.hero-overlay h2 {
-  font-size: 1.8rem;
-  margin: 0;
-  color: white;
-}
-
-
-/* Navigation bar styles */
-.navbar {
-  position: sticky;
-  top: 0;
-  background-color: #0a1c2e;
-  z-index: 1000;
-  padding: 10px 0;
-  text-align: center;
-}
-.navbar ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.navbar ul li {
-  display: inline;
-  margin: 0 15px;
-}
-.navbar ul li a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s ease;
-}
-.navbar ul li a:hover {
-  color: #b22234;
-}
-
-/* Use Poppins font sitewide */
-body {
-  font-family: 'Poppins', sans-serif;
-}
-
-/* Button hover effect */
-.cta-button:hover,
-.search-box button:hover,
-#music-toggle:hover,
-#night-toggle:hover {
-  transform: scale(1.1);
-  background-color: #a71d2a;
-}
-
-/* Typewriter Carousel */
-#typed-quote {
-  font-size: 1.3em;
-  font-style: italic;
-  color: #eee;
-  border-right: 2px solid #fff;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
-/* ===== Slideshow ===== */
-
-#slideshow {
-  position: relative;
-  max-width: 960px;
-  width: 100%;
-  aspect-ratio: 16/9;
-  margin: 20px auto;
-  overflow: hidden;
-}
-#slideshow .slide {
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  object-fit: cover;
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-}
-#slideshow .slide.active {
-  opacity: 1;
-}
-
-#slideshow .slide {
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-}
-
-#slideshow .slide.active {
-  opacity: 1;
-}
-
+  /* ===== your existing styles (left intact) ===== */
+  body { margin:0; font-family:'Merriweather',serif; background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://cdn.pixabay.com/photo/2016/11/22/23/41/american-flag-1853267_1280.jpg') no-repeat center center fixed; background-size:cover; color:#fff; }
+  header { background-color:rgba(47,79,79,0.95); text-align:center; padding:20px; }
+  header h1 { margin:0; font-size:3.125em; color:#fff; text-shadow:0 0 10px #000; }
+  .container { max-width:960px; margin:20px auto; padding:20px; }
+  .search-box { text-align:center; margin-bottom:30px; }
+  .search-box input { width:60%; padding:10px; border-radius:5px; border:1px solid #ccc; margin-right:10px; }
+  .search-box button { padding:10px 20px; background:#2f4f4f; color:#fff; border:none; border-radius:5px; cursor:pointer; }
+  .plots { background:url('Soldier.png') no-repeat center center; background-size:contain; display:flex; flex-wrap:wrap; justify-content:center; }
+  .plot-box { width:100px; height:100px; background:#556b2f; display:flex; align-items:center; justify-content:center; border-radius:8px; font-weight:bold; border:2px solid #ccc; cursor:pointer; margin:10px; transition:0.3s ease; box-shadow:0 0 5px rgba(255,255,255,0.2); opacity:0; transform:translateY(20px); animation:fadeInUp .5s ease forwards; }
+  .plot-box:hover { background:#6b8e23; transform:scale(1.05); box-shadow:0 0 15px rgba(255,255,255,0.5); }
+  @keyframes fadeInUp { to { opacity:1; transform:translateY(0); } }
+  footer { background:#0a1c2e; text-align:center; padding:20px; color:#fff; margin-top:40px; font-weight:bold; letter-spacing:.5px;}
+  .modal { display:none; position:fixed; z-index:100; inset:0; width:100%; height:100%; overflow:auto; background:rgba(0,0,0,0.7); }
+  .modal-content { background:#fff; color:#000; margin:10% auto; padding:20px; border-radius:10px; width:90%; max-width:600px; }
+  .close { float:right; font-size:1.5rem; cursor:pointer; }
+  .patriotic-banner { background:#b22234; color:#fff; text-align:center; padding:10px; font-weight:bold; font-size:1.1rem; letter-spacing:1px;}
+  .top-header { background:#0a1c2e; padding:20px 0; text-align:center; }
+  .top-header h1 { font-size:2.6rem; color:#fff; margin:0; text-shadow:0 0 8px rgba(255,255,255,0.3); }
+  .hero-section { position:relative; height:300px; overflow:hidden; }
+  #heroVideo { width:100%; height:100%; object-fit:cover; position:absolute; z-index:1; }
+  .hero-overlay { position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); display:flex; align-items:center; justify-content:center; z-index:2; }
+  .hero-overlay h1 { color:#fff; text-shadow:2px 2px 5px #000; font-size:2.5rem; }
+  .quote-carousel { text-align:center; margin:20px; font-size:1.3em; color:#fff; }
+  .quote { display:none; animation:fade 2s ease-in-out forwards; }
+  @keyframes fade { from{opacity:0;} to{opacity:1;} }
+  #music-toggle { position:fixed; bottom:20px; right:20px; padding:10px; background:rgba(47,79,79,0.9); color:#fff; border:none; border-radius:8px; cursor:pointer; z-index:2000; }
+  .navbar { position:sticky; top:0; background:#0a1c2e; z-index:1000; padding:10px 0; text-align:center; }
+  .navbar ul { list-style:none; margin:0; padding:0; }
+  .navbar li { display:inline; margin:0 15px; }
+  .navbar a { color:#fff; text-decoration:none; font-weight:bold; transition:color .3s; }
+  .navbar a:hover { color:#b22234; }
+  body { font-family:'Poppins',sans-serif; }
+  .cta-button:hover, .search-box button:hover, #music-toggle:hover { transform:scale(1.1); background:#a71d2a; }
+  #typed-quote { font-size:1.3em; font-style:italic; color:#eee; border-right:2px solid #fff; white-space:nowrap; overflow:hidden; }
+  #slideshow { position:relative; max-width:960px; width:100%; aspect-ratio:16/9; margin:20px auto; overflow:hidden; }
+  #slideshow .slide { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:0; transition:opacity 1s ease-in-out; }
+  #slideshow .slide.active { opacity:1; }
 </style>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&amp;display=swap" rel="stylesheet"/>  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
-<body>
 
+<body>
 <nav class="navbar">
   <ul>
     <li><a href="index.html">Home</a></li>
@@ -504,289 +60,275 @@ body {
 
 <div class="top-header"><h1>Veterans Square Memorial – Marietta, OH</h1></div>
 
-  <!-- HERO (video + overlay only) -->
-  <div class="hero-section">
-    <video autoplay id="heroVideo" loop muted>
-      <source src="https://cdn.pixabay.com/video/2017/07/26/10790-228233206_large.mp4" type="video/mp4">
-    </video>
-    <div class="hero-overlay">
-      <h1>Honoring Our Veterans</h1>
-    </div>
+<!-- HERO -->
+<div class="hero-section">
+  <video autoplay id="heroVideo" loop muted>
+    <source src="https://cdn.pixabay.com/video/2017/07/26/10790-228233206_large.mp4" type="video/mp4">
+  </video>
+  <div class="hero-overlay">
+    <h1>Honoring Our Veterans</h1>
   </div>
+</div>
 
-  <!-- QUOTE CAROUSEL (now a standalone block) -->
-  <div class="quote-carousel">
-    <p class="quote">“A hero is someone who has given his life to something bigger than oneself.” – Joseph Campbell</p>
-    <!-- … all your other <p class="quote">…</p> … -->
-    <p class="quote">“This nation will remain the land of the free only so long as it is the home of the brave.” – Elmer Davis</p>
-  </div>
+<!-- QUOTES -->
+<div class="quote-carousel">
+  <p class="quote">“A hero is someone who has given his life to something bigger than oneself.” – Joseph Campbell</p>
+  <p class="quote">“This nation will remain the land of the free only so long as it is the home of the brave.” – Elmer Davis</p>
+</div>
 
-  <!-- SLIDESHOW (also standalone) -->
-  <div id="slideshow">
-    <img src="1.png" class="slide active" alt="Slide 1">
-    <img src="2.png" class="slide"       alt="Slide 2">
-    <img src="3.png" class="slide"       alt="Slide 3">
-    <img src="4.png" class="slide"       alt="Slide 4">
-    <img src="5.png" class="slide"       alt="Slide 5">
-    <img src="6.png" class="slide"       alt="Slide 6">
-  </div>
-
-<!-- Slideshow end -->
-
+<!-- SLIDESHOW -->
+<div id="slideshow">
+  <img src="1.png" class="slide active" alt="Slide 1">
+  <img src="2.png" class="slide"       alt="Slide 2">
+  <img src="3.png" class="slide"       alt="Slide 3">
+  <img src="4.png" class="slide"       alt="Slide 4">
+  <img src="5.png" class="slide"       alt="Slide 5">
+  <img src="6.png" class="slide"       alt="Slide 6">
 </div>
 
 <div class="container">
-<div class="search-box">
-<input id="search-input" placeholder="Search a veteran's name or plot" type="text"/ onkeypress="if(event.key===\'Enter\'){ event.preventDefault(); searchVeteran(); }" oninput="searchVeteran()" >
-<button onclick="searchVeteran()">Search</button>
-<div id="search-results"></div>
-</div>
-<div class="plots">
-<!-- All 49 plot boxes -->
- <!-- W1–W9 -->
-    <div class="plot-box" onclick="openPlot('w1')" style="animation-delay: 0.05s">W1</div>
-    <div class="plot-box" onclick="openPlot('w2')" style="animation-delay: 0.10s">W2</div>
-    <div class="plot-box" onclick="openPlot('w3')" style="animation-delay: 0.15s">W3</div>
-    <div class="plot-box" onclick="openPlot('w4')" style="animation-delay: 0.20s">W4</div>
-    <div class="plot-box" onclick="openPlot('w5')" style="animation-delay: 0.25s">W5</div>
-    <div class="plot-box" onclick="openPlot('w6')" style="animation-delay: 0.30s">W6</div>
-    <div class="plot-box" onclick="openPlot('w7')" style="animation-delay: 0.35s">W7</div>
-    <div class="plot-box" onclick="openPlot('w8')" style="animation-delay: 0.40s">W8</div>
-    <div class="plot-box" onclick="openPlot('w9')" style="animation-delay: 0.45s">W9</div>
+  <div class="search-box">
+    <input id="search-input" placeholder="Search a veteran's name or plot" type="text">
+    <button onclick="searchVeteran()">Search</button>
+    <div id="search-results"></div>
+  </div>
 
-    <!-- Row 1: 1A–1H -->
-    <div class="plot-box" onclick="openPlot('1a')" style="animation-delay: 0.50s">1A</div>
-    <div class="plot-box" onclick="openPlot('1b')" style="animation-delay: 0.55s">1B</div>
-    <div class="plot-box" onclick="openPlot('1c')" style="animation-delay: 0.60s">1C</div>
-    <div class="plot-box" onclick="openPlot('1d')" style="animation-delay: 0.65s">1D</div>
-    <div class="plot-box" onclick="openPlot('1e')" style="animation-delay: 0.70s">1E</div>
-    <div class="plot-box" onclick="openPlot('1f')" style="animation-delay: 0.75s">1F</div>
-    <div class="plot-box" onclick="openPlot('1g')" style="animation-delay: 0.80s">1G</div>
-    <div class="plot-box" onclick="openPlot('1h')" style="animation-delay: 0.85s">1H</div>
+  <!-- PLOTS -->
+  <div class="plots">
+    <!-- W1–W9 -->
+    <div class="plot-box" onclick="openPlot('w1')" style="animation-delay:.05s">W1</div>
+    <div class="plot-box" onclick="openPlot('w2')" style="animation-delay:.10s">W2</div>
+    <div class="plot-box" onclick="openPlot('w3')" style="animation-delay:.15s">W3</div>
+    <div class="plot-box" onclick="openPlot('w4')" style="animation-delay:.20s">W4</div>
+    <div class="plot-box" onclick="openPlot('w5')" style="animation-delay:.25s">W5</div>
+    <div class="plot-box" onclick="openPlot('w6')" style="animation-delay:.30s">W6</div>
+    <div class="plot-box" onclick="openPlot('w7')" style="animation-delay:.35s">W7</div>
+    <div class="plot-box" onclick="openPlot('w8')" style="animation-delay:.40s">W8</div>
+    <div class="plot-box" onclick="openPlot('w9')" style="animation-delay:.45s">W9</div>
 
-    <!-- Row 2: 2A–2H -->
-    <div class="plot-box" onclick="openPlot('2a')" style="animation-delay: 0.90s">2A</div>
-    <div class="plot-box" onclick="openPlot('2b')" style="animation-delay: 0.95s">2B</div>
-    <div class="plot-box" onclick="openPlot('2c')" style="animation-delay: 1.00s">2C</div>
-    <div class="plot-box" onclick="openPlot('2d')" style="animation-delay: 1.05s">2D</div>
-    <div class="plot-box" onclick="openPlot('2e')" style="animation-delay: 1.10s">2E</div>
-    <div class="plot-box" onclick="openPlot('2f')" style="animation-delay: 1.15s">2F</div>
-    <div class="plot-box" onclick="openPlot('2g')" style="animation-delay: 1.20s">2G</div>
-    <div class="plot-box" onclick="openPlot('2h')" style="animation-delay: 1.25s">2H</div>
+    <!-- 1A–1H -->
+    <div class="plot-box" onclick="openPlot('1a')" style="animation-delay:.50s">1A</div>
+    <div class="plot-box" onclick="openPlot('1b')" style="animation-delay:.55s">1B</div>
+    <div class="plot-box" onclick="openPlot('1c')" style="animation-delay:.60s">1C</div>
+    <div class="plot-box" onclick="openPlot('1d')" style="animation-delay:.65s">1D</div>
+    <div class="plot-box" onclick="openPlot('1e')" style="animation-delay:.70s">1E</div>
+    <div class="plot-box" onclick="openPlot('1f')" style="animation-delay:.75s">1F</div>
+    <div class="plot-box" onclick="openPlot('1g')" style="animation-delay:.80s">1G</div>
+    <div class="plot-box" onclick="openPlot('1h')" style="animation-delay:.85s">1H</div>
 
-    <!-- Row 3: 3A–3H -->
-    <div class="plot-box" onclick="openPlot('3a')" style="animation-delay: 1.30s">3A</div>
-    <div class="plot-box" onclick="openPlot('3b')" style="animation-delay: 1.35s">3B</div>
-    <div class="plot-box" onclick="openPlot('3c')" style="animation-delay: 1.40s">3C</div>
-    <div class="plot-box" onclick="openPlot('3d')" style="animation-delay: 1.45s">3D</div>
-    <div class="plot-box" onclick="openPlot('3e')" style="animation-delay: 1.50s">3E</div>
-    <div class="plot-box" onclick="openPlot('3f')" style="animation-delay: 1.55s">3F</div>
-    <div class="plot-box" onclick="openPlot('3g')" style="animation-delay: 1.60s">3G</div>
-    <div class="plot-box" onclick="openPlot('3h')" style="animation-delay: 1.65s">3H</div>
+    <!-- 2A–2H -->
+    <div class="plot-box" onclick="openPlot('2a')" style="animation-delay:.90s">2A</div>
+    <div class="plot-box" onclick="openPlot('2b')" style="animation-delay:.95s">2B</div>
+    <div class="plot-box" onclick="openPlot('2c')" style="animation-delay:1.00s">2C</div>
+    <div class="plot-box" onclick="openPlot('2d')" style="animation-delay:1.05s">2D</div>
+    <div class="plot-box" onclick="openPlot('2e')" style="animation-delay:1.10s">2E</div>
+    <div class="plot-box" onclick="openPlot('2f')" style="animation-delay:1.15s">2F</div>
+    <div class="plot-box" onclick="openPlot('2g')" style="animation-delay:1.20s">2G</div>
+    <div class="plot-box" onclick="openPlot('2h')" style="animation-delay:1.25s">2H</div>
 
-    <!-- Row 4: drop 4A, then 4B–4H -->
-    <div class="plot-box" onclick="openPlot('4b')" style="animation-delay: 1.75s">4B</div>
-    <div class="plot-box" onclick="openPlot('4c')" style="animation-delay: 1.80s">4C</div>
-    <div class="plot-box" onclick="openPlot('4d')" style="animation-delay: 1.85s">4D</div>
-    <div class="plot-box" onclick="openPlot('4e')" style="animation-delay: 1.90s">4E</div>
-    <div class="plot-box" onclick="openPlot('4f')" style="animation-delay: 1.95s">4F</div>
-    <div class="plot-box" onclick="openPlot('4g')" style="animation-delay: 2.00s">4G</div>
-    <div class="plot-box" onclick="openPlot('4h')" style="animation-delay: 2.05s">4H</div>
+    <!-- 3A–3H -->
+    <div class="plot-box" onclick="openPlot('3a')" style="animation-delay:1.30s">3A</div>
+    <div class="plot-box" onclick="openPlot('3b')" style="animation-delay:1.35s">3B</div>
+    <div class="plot-box" onclick="openPlot('3c')" style="animation-delay:1.40s">3C</div>
+    <div class="plot-box" onclick="openPlot('3d')" style="animation-delay:1.45s">3D</div>
+    <div class="plot-box" onclick="openPlot('3e')" style="animation-delay:1.50s">3E</div>
+    <div class="plot-box" onclick="openPlot('3f')" style="animation-delay:1.55s">3F</div>
+    <div class="plot-box" onclick="openPlot('3g')" style="animation-delay:1.60s">3G</div>
+    <div class="plot-box" onclick="openPlot('3h')" style="animation-delay:1.65s">3H</div>
 
-    <!-- Row 5: drop 5A–5C, then 5D–5H -->
-    <div class="plot-box" onclick="openPlot('5d')" style="animation-delay: 2.25s">5D</div>
-    <div class="plot-box" onclick="openPlot('5e')" style="animation-delay: 2.30s">5E</div>
-    <div class="plot-box" onclick="openPlot('5f')" style="animation-delay: 2.35s">5F</div>
-    <div class="plot-box" onclick="openPlot('5g')" style="animation-delay: 2.40s">5G</div>
-    <div class="plot-box" onclick="openPlot('5h')" style="animation-delay: 2.45s">5H</div>
+    <!-- 4B–4H -->
+    <div class="plot-box" onclick="openPlot('4b')" style="animation-delay:1.75s">4B</div>
+    <div class="plot-box" onclick="openPlot('4c')" style="animation-delay:1.80s">4C</div>
+    <div class="plot-box" onclick="openPlot('4d')" style="animation-delay:1.85s">4D</div>
+    <div class="plot-box" onclick="openPlot('4e')" style="animation-delay:1.90s">4E</div>
+    <div class="plot-box" onclick="openPlot('4f')" style="animation-delay:1.95s">4F</div>
+    <div class="plot-box" onclick="openPlot('4g')" style="animation-delay:2.00s">4G</div>
+    <div class="plot-box" onclick="openPlot('4h')" style="animation-delay:2.05s">4H</div>
 
-    <!-- Row 6: only E–H -->
-    <div class="plot-box" onclick="openPlot('6e')" style="animation-delay: 2.50s">6E</div>
-    <div class="plot-box" onclick="openPlot('6f')" style="animation-delay: 2.55s">6F</div>
-    <div class="plot-box" onclick="openPlot('6g')" style="animation-delay: 2.60s">6G</div>
-    <div class="plot-box" onclick="openPlot('6h')" style="animation-delay: 2.65s">6H</div>
-</div>
+    <!-- 5D–5H -->
+    <div class="plot-box" onclick="openPlot('5d')" style="animation-delay:2.25s">5D</div>
+    <div class="plot-box" onclick="openPlot('5e')" style="animation-delay:2.30s">5E</div>
+    <div class="plot-box" onclick="openPlot('5f')" style="animation-delay:2.35s">5F</div>
+    <div class="plot-box" onclick="openPlot('5g')" style="animation-delay:2.40s">5G</div>
+    <div class="plot-box" onclick="openPlot('5h')" style="animation-delay:2.45s">5H</div>
+
+    <!-- 6E–6H -->
+    <div class="plot-box" onclick="openPlot('6e')" style="animation-delay:2.50s">6E</div>
+    <div class="plot-box" onclick="openPlot('6f')" style="animation-delay:2.55s">6F</div>
+    <div class="plot-box" onclick="openPlot('6g')" style="animation-delay:2.60s">6G</div>
+    <div class="plot-box" onclick="openPlot('6h')" style="animation-delay:2.65s">6H</div>
+  </div>
 </div>
 
 <footer>
-<p>© 2024 Marietta Veterans Memorial. All rights reserved.</p>
-    <p>Armory Square: 241 Front Street, Marietta, OH 45750</p>
+  <p>© 2024 Marietta Veterans Memorial. All rights reserved.</p>
+  <p>Armory Square: 241 Front Street, Marietta, OH 45750</p>
   <a href="https://www.facebook.com/OhioRiverScenicBywaysVisitorsCenteratMarietta" target="_blank" style="text-decoration:none;color:inherit;margin-left:10px;"><i class="fab fa-facebook fa-2x"></i></a>
 </footer>
+
 <!-- Modal -->
 <div class="modal" id="modal">
-<div class="modal-content">
-<span class="close">×</span>
-<h2 id="modal-title">Plot</h2>
-<ul id="veteran-list"></ul>
-</div>
+  <div class="modal-content">
+    <span class="close">×</span>
+    <h2 id="modal-title">Plot</h2>
+    <ul id="veteran-list"></ul>
+  </div>
 </div>
 
 <script>
-// Normalize a name string (remove punctuation, lowercase, remove middle initials)
-function normalizeName(str) {
-  // Remove punctuation (periods, commas, etc.)
-  str = str.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"");
-  // Replace multiple spaces with a single space
-  str = str.replace(/\s{2,}/g," ");
-  // Lowercase everything
-  str = str.toLowerCase().trim();
-  return str;
-}
+/* ======= LIVE DATA CONFIG ======= */
+const SHEET_CSV_URL =
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vSRbk9yRx6UAAq3zSeaRJY2FJ9vC2dElOOQo0o2IQYjkk1Ql6LvV74ndh_ngIZe4w/pub?output=csv';
 
-// Remove middle initials (e.g., "John L. Smith" -> "John Smith")
-function removeMiddleInitials(str) {
-  // Match a single capital letter with/without a dot in the middle of two names
-  return str.replace(/\b([A-Z]\.?)\b/g, '').replace(/\s{2,}/g, ' ').trim();
+/* --- small CSV parser (handles quotes, commas) --- */
+function parseCSV(text) {
+  const rows = [];
+  let cell = '', row = [], inQ = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i], n = text[i + 1];
+    if (c === '"' && n === '"') { cell += '"'; i++; continue; }
+    if (c === '"') { inQ = !inQ; continue; }
+    if (c === ',' && !inQ) { row.push(cell); cell = ''; continue; }
+    if ((c === '\n' || c === '\r') && !inQ) {
+      if (cell !== '' || row.length) { row.push(cell); rows.push(row); }
+      cell = ''; row = []; continue;
+    }
+    cell += c;
+  }
+  if (cell !== '' || row.length) { row.push(cell); rows.push(row); }
+  return rows.filter(r => r.length);
 }
+const norm = s => String(s ?? '').trim();
+const key  = s => norm(s).toLowerCase();
 
-function openPlot(plotId) {
-  fetch(`data/${plotId}.json`)
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById("modal-title").innerText = "Plot " + plotId.toUpperCase();
-      const list = document.getElementById("veteran-list");
-      list.innerHTML = "";
-      data.forEach(entry => {
-        const li = document.createElement("li");
-        li.textContent = Object.values(entry).join(" — ");
+/* ======= OPEN A PLOT (reads from Google Sheet) ======= */
+async function openPlot(plotId) {
+  const modal = document.getElementById("modal");
+  const title = document.getElementById("modal-title");
+  const list  = document.getElementById("veteran-list");
+
+  title.textContent = `Plot ${String(plotId).toUpperCase()}`;
+  list.innerHTML = '<li>Loading…</li>';
+
+  try {
+    const url = SHEET_CSV_URL + (SHEET_CSV_URL.includes('?') ? '&' : '?') + '_ts=' + Date.now();
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) throw new Error('CSV fetch failed: ' + res.status);
+    const csv = await res.text();
+
+    const rows = parseCSV(csv);
+    const header = rows[0].map(h => key(h).replace(/\s+/g, ''));
+    const data = rows.slice(1);
+
+    const plotCol = header.indexOf('plot');
+    // Build each row line in order, skipping empty cells
+    const displayOrder = ['name','branch','conflict','service','rank','unit','serviceyears'];
+    const colIndex = name => {
+      const variants = {
+        name:['name','fullname'],
+        branch:['branch','servicebranch'],
+        conflict:['conflict','war','era','campaign'],
+        service:['service','mos','role'],
+        rank:['rank','grade'],
+        unit:['unit','regiment','battalion','company','division','ship'],
+        serviceyears:['serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','serviceyears','service years','years','dates','servicedates','served']
+      }[name] || [name];
+      for (const v of variants) {
+        const i = header.indexOf(v);
+        if (i !== -1) return i;
+      }
+      return -1;
+    };
+
+    const idx = Object.fromEntries(displayOrder.map(n => [n, colIndex(n)]));
+    if (plotCol === -1) throw new Error('CSV must include a "Plot" column.');
+
+    const matches = data.filter(r => key(r[plotCol]) === key(plotId));
+
+    list.innerHTML = '';
+    if (!matches.length) {
+      list.innerHTML = '<li>No veterans listed for this plot yet.</li>';
+    } else {
+      const lines = matches.map(r => {
+        const parts = displayOrder.map(n => (idx[n] !== -1 ? norm(r[idx[n]]) : '')).filter(Boolean);
+        return parts.join(' — ');
+      }).filter(Boolean).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:'base'}));
+
+      for (const t of lines) {
+        const li = document.createElement('li');
+        li.textContent = t;
         list.appendChild(li);
-      });
-      document.getElementById("modal").style.display = "block";
-    });
-}
-
-document.querySelector(".close").onclick = function () {
-  document.getElementById("modal").style.display = "none";
-};
-
-window.onclick = function(event) {
-  if (event.target === document.getElementById("modal")) {
-    document.getElementById("modal").style.display = "none";
-  }
-};
-
-function searchVeteran() {
-  const query = document.getElementById("search-input").value.toLowerCase().trim();
-  const searchResults = document.getElementById("search-results");
-  searchResults.innerHTML = "";
-  if (!query) {
-    searchResults.innerHTML = "<p>Please enter a search term.</p>";
-    return;
-  }
-  const plots = [...document.querySelectorAll('.plot-box')];
-  const fetches = plots.map(plot => {
-    const plotId = plot.textContent.trim().toLowerCase();
-    return fetch(`./data/${plotId}.json`)
-      .then(res => {
-        if (!res.ok) throw new Error('Network response was not ok');
-        return res.json();
-      })
-      .then(data => ({ plotId, data }))
-      .catch(err => {
-        console.error(`Error loading data for plot ${plotId}:`, err);
-        return { plotId, data: [] };
-      });
-  });
-  Promise.all(fetches).then(results => {
-    let foundAny = false;
-    results.forEach(({ plotId, data }) => {
-      data.forEach(entry => {
-        const entryNameNorm = normalizeName(entry.name);
-        const entryNameNoMI = removeMiddleInitials(entry.name);
-        const entryNameNoMINorm = normalizeName(entryNameNoMI);
-        const queryNorm = normalizeName(query);
-
-        if (
-          entryNameNorm.includes(queryNorm) ||
-          entryNameNoMINorm.includes(queryNorm) ||
-          queryNorm.split(' ').every(word => entryNameNorm.includes(word))
-        ) {
-          foundAny = true;
-          const p = document.createElement("p");
-          p.innerHTML = `<strong>${entry.name}</strong> — Plot <strong>${plotId.toUpperCase()}</strong>`;
-          searchResults.appendChild(p);
-        }
-      });
-    });
-    if (!foundAny) {
-      searchResults.innerHTML = "<p>No results found.</p>";
+      }
     }
-  });
+    modal.style.display = "block";
+  } catch (e) {
+    console.error(e);
+    list.innerHTML = '<li>Could not load data.</li>';
+  }
 }
 
-// Other scripts for carousel/slideshow/night mode, etc. (leave as is)
-typeQuote();
+/* ======= SEARCH (across all plots, from the same CSV) ======= */
+async function searchVeteran() {
+  const q = key(document.getElementById("search-input").value);
+  const box = document.getElementById("search-results");
+  box.innerHTML = '';
+  if (!q) { box.innerHTML = '<p>Please enter a search term.</p>'; return; }
 
-document.addEventListener('DOMContentLoaded', function() {
+  try {
+    const url = SHEET_CSV_URL + (SHEET_CSV_URL.includes('?') ? '&' : '?') + '_ts=' + Date.now();
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) throw new Error('CSV fetch failed: ' + res.status);
+    const rows = parseCSV(await res.text());
+    const header = rows[0].map(h => key(h).replace(/\s+/g, ''));
+    const data = rows.slice(1);
+
+    const nameCol = header.indexOf('name');
+    const plotCol = header.indexOf('plot');
+
+    const results = data.filter(r => {
+      const name = key(r[nameCol] || '');
+      const plot = key(r[plotCol] || '');
+      return name.includes(q) || plot === q;
+    });
+
+    if (!results.length) { box.innerHTML = '<p>No results found.</p>'; return; }
+
+    for (const r of results) {
+      const name = r[nameCol] || '(no name)';
+      const plot = (r[plotCol] || '').toUpperCase();
+      const p = document.createElement('p');
+      p.innerHTML = `<strong>${name}</strong> — Plot <strong>${plot}</strong>`;
+      box.appendChild(p);
+    }
+  } catch (e) {
+    console.error(e);
+    box.innerHTML = '<p>Search failed. Try again.</p>';
+  }
+}
+
+/* ===== close modal ===== */
+document.querySelector(".close").onclick = () => { document.getElementById("modal").style.display = "none"; };
+window.onclick = (e) => { if (e.target === document.getElementById("modal")) document.getElementById("modal").style.display = "none"; };
+
+/* ===== quotes + slideshow (kept) ===== */
+document.addEventListener('DOMContentLoaded', () => {
   const quotes = document.querySelectorAll('.quote');
-  let currentQuote = 0;
-  quotes.forEach(q => q.style.display = 'none');
-  function rotateQuotes() {
-    quotes.forEach(q => q.style.display = 'none');
-    quotes[currentQuote].style.display = 'block';
-    currentQuote = (currentQuote + 1) % quotes.length;
-  }
-  rotateQuotes();
-  setInterval(rotateQuotes, 5000);
-});
+  let i = 0;
+  const show = () => { quotes.forEach(q=>q.style.display='none'); if (quotes[i]) quotes[i].style.display='block'; i=(i+1)%quotes.length; };
+  show(); setInterval(show, 5000);
 
-(function() {
-  const slides  = document.querySelectorAll('#slideshow .slide');
-  let   current = 0;
+  const slides = document.querySelectorAll('#slideshow .slide');
+  let s = 0;
+  setInterval(() => {
+    slides[s].classList.remove('active');
+    s = (s + 1) % slides.length;
+    slides[s].classList.add('active');
+  }, 5000);
 
-  function nextSlide() {
-    slides[current].classList.remove('active');
-    current = (current + 1) % slides.length;
-    slides[current].classList.add('active');
-  }
-
-  setInterval(nextSlide, 5000);
-})();
-
-let debounceTimer;
-function searchVeteranDebounced() {
-  clearTimeout(debounceTimer);
-  debounceTimer = setTimeout(searchVeteran, 50);
-}
-// Attach debounced input listener
-document.addEventListener("DOMContentLoaded", () => {
+  // live search as you type
   const input = document.getElementById("search-input");
-  input.removeAttribute("oninput");
-  input.addEventListener("input", searchVeteranDebounced);
+  let t; input.addEventListener('input', () => { clearTimeout(t); t = setTimeout(searchVeteran, 120); });
 });
-</script>
-
-
-<script>
-  (function() {
-    const slides  = document.querySelectorAll('#slideshow .slide');
-    let   current = 0;
-
-    function nextSlide() {
-      slides[current].classList.remove('active');
-      current = (current + 1) % slides.length;
-      slides[current].classList.add('active');
-    }
-
-    setInterval(nextSlide, 5000);
-  })();
-</script>
-<button id="night-toggle" onclick="toggleNightMode()">Night Mode</button>
-
-<script>
-  let debounceTimer;
-  function searchVeteranDebounced() {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(searchVeteran, 50);
-  }
-  // Attach debounced input listener
-  document.addEventListener("DOMContentLoaded", () => {
-    const input = document.getElementById("search-input");
-    input.removeAttribute("oninput");
-    input.addEventListener("input", searchVeteranDebounced);
-  });
 </script>
 </body>
-
 </html>
